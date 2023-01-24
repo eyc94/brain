@@ -36,5 +36,8 @@
 
 ## :round_pushpin: Java Syntax/Libraries
 - Java has a `Stack` class: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html)
+  - [Notes](java-stack.md)
 - Java has a `Deque` interface: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html)
+  - [Notes](java-deque.md)
 - Java has an `ArrayDeque` implementation of the `Deque` interface: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html)
+  - [Notes](java-arraydeque.md)
