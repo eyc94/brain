@@ -5,8 +5,11 @@
 
 ## :round_pushpin: Summary
 - Traversal of items in the forward direction only.
+- This is basically the basic linked list.
+  - See [Linked List](linked-list.md) section for more information.
 
 ## :round_pushpin: Representation
+- Basic representation
 ```java
 // Linked List Class
 class LinkedList {
