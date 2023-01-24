@@ -1,4 +1,4 @@
-# Array
+# :heavy_check_mark: Array
 
 ![Image of an array](../../images/data-structures/linear/array/array.png)
 
