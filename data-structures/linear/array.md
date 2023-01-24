@@ -1,4 +1,4 @@
-# Arrays
+# Array
 
 ![Image of an array](../../images/data-structures/linear/array/array.png)
 
