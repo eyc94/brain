@@ -1,4 +1,5 @@
 # :heavy_check_mark: Array
+*Last Updated: 1/23/2023*
 
 ![Image of an array](../../images/data-structures/linear/array/array.png)
 
