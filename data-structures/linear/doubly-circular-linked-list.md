@@ -1,31 +1,31 @@
-# :heavy_check_mark: Circularly Linked List
+# :heavy_check_mark: Doubly Circularly Linked List
 *Last Updated: 1/24/2023*
 
-![Image of a doubly linked list](../../images/data-structures/linear/linked-list/doubly-linked-list.png)
+![Image of a doubly circular linked list](../../images/data-structures/linear/linked-list/doubly-circular-linked-list.png)
 
 ## :round_pushpin: Summary
-- First and last nodes are connected to form a circle/cycle.
+- Has properties of a doubly linked list and a circularly linked list.
+- The first and last nodes are connected with each other via `next` and `prev` pointers.
 - There is no `null` end.
-- There should be a reference to the `tail`.
 
 ## :round_pushpin: Representation
 - Basic representation
-- Uses the same node as a singly linked list.
-- Just connect the last node to the `head`.
+- Uses the same node as a doubly linked list.
 ```java
-// Singly Linked List Class
-class SinglyLinkedList {
+// Doubly Linked List Class
+class DoublyLinkedList {
   Node head; // Head of list.
 
-  // Singly Linked List Node.
+  // Doubly Linked List Node.
   class Node {
     int data;
+    Node prev;
     Node next;
 
     // Constructor to create a new node.
+    // The next and prev is null by default.
     Node(int d) {
       data = d;
-      next = null;
     }
   }
 }
@@ -54,4 +54,4 @@ class SinglyLinkedList {
 - Deleting elements in the middle: Linear time operation - `O(n)`.
 
 ## :round_pushpin: Misc
-- There is no Java circularly-linked list class.
+- There is no Java doubly circularly linked list class.
