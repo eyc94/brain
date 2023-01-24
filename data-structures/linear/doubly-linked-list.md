@@ -56,3 +56,6 @@ class DoublyLinkedList {
 ### Delete
 - Deleting elements at the ends: Constant time operation - `O(1)`.
 - Deleting elements in the middle: Linear time operation - `O(n)` where `n` is the length of the array.
+
+## :round_pushpin: Misc
+- There is no Java doubly-linked list class.
