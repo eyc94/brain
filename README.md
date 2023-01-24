@@ -17,6 +17,9 @@ Elements are arranged in one dimension.
     - [Circularly Linked List](./data-structures/linear/circularly-linked-list.md)
     - [Doubly Circular Linked List](./data-structures/linear/doubly-circular-linked-list.md)
 - [Stack](./data-structures/linear/stack/stack.md)
+  - [Java Stack](./data-structures/linear/stack/java-stack.md)
+  - [Java Deque](./data-structures/linear/stack/java-deque.md)
+  - [Java ArrayDeque](./data-structures/linear/stack/java-arraydeque.md)
 - [Queue](./data-structures/linear/queue.md)
 
 ### Non-Linear
