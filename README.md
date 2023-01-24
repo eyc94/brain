@@ -1,6 +1,6 @@
-# Data Structures & Algorithms
+# :heavy_check_mark: Data Structures & Algorithms
 
-## Data Structures
+## :round_pushpin: Data Structures
 A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently. An efficient data structure utilizes minimum memory space and execution time.
 
 There are two classifications of data structures:
@@ -17,14 +17,13 @@ Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
 - [Tree](./data-structures/non-linear/tree.md)
 - [Graph](./data-structures/non-linear/graph.md)
 
-## Algorithms
+## :round_pushpin: Algorithms
 
 
-## Searching
+## :round_pushpin: Searching
 
 
-## Sorting
+## :round_pushpin: Sorting
 
 
-## Patterns & Techniques
-
+## :round_pushpin: Patterns & Techniques
