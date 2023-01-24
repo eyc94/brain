@@ -1,7 +1,7 @@
 # :heavy_check_mark: Stack
 *Last Updated: 1/24/2023*
 
-![Image of a stack](../../images/data-structures/linear/stack/stack.png)
+![Image of a stack](../../../images/data-structures/linear/stack/stack.png)
 
 ## :round_pushpin: Summary
 - Linear data structure.
@@ -33,3 +33,8 @@
 
 ### Peek
 - Constant time operation: `O(1)`.
+
+## :round_pushpin: Java Syntax/Libraries
+- Java has a `Stack` class: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html)
+- Java has a `Deque` interface: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html)
+- Java has an `ArrayDeque` implementation of the `Deque` interface: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html)

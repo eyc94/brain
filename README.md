@@ -16,7 +16,7 @@ Elements are arranged in one dimension.
     - [Doubly Linked List](./data-structures/linear/doubly-linked-list.md)
     - [Circularly Linked List](./data-structures/linear/circularly-linked-list.md)
     - [Doubly Circular Linked List](./data-structures/linear/doubly-circular-linked-list.md)
-- [Stack](./data-structures/linear/stack.md)
+- [Stack](./data-structures/linear/stack/stack.md)
 - [Queue](./data-structures/linear/queue.md)
 
 ### Non-Linear
