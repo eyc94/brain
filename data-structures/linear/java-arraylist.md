@@ -63,3 +63,5 @@ arr.remove(0); // [6, 7, 8]
 - Duplicates allowed.
 - Insertion order preserved.
 - Inserting `null` is possible.
+- Can be used to implement the `List` interface of Java.
+  - Implemented as a dynamically-resizable array.

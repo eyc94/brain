@@ -42,3 +42,7 @@ list.remove(1); // [101, 2, 100, 1]
 list.removeFirst(); // [2, 100, 1]
 list.removeLast(); // [2, 100]
 ```
+
+## :round_pushpin: Misc
+- Can be used to implement the `List` interface of Java.
+  - Implemented as a doubly linked list.

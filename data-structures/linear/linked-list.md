@@ -30,8 +30,8 @@
 ## :round_pushpin: Types
 - [Singly-Linked List](singly-linked-list.md)
 - [Doubly-Linked List](doubly-linked-list.md)
-- Circularly-Linked List
-- Doubly Circular Linked List
+- [Circularly-Linked List](circularly-linked-list.md)
+- [Doubly Circular Linked List](doubly-circular-linked-list.md)
 
 ## :round_pushpin: Characteristics
 - Uses extra memory to store links.

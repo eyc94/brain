@@ -29,3 +29,8 @@ Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
 
 
 ## :round_pushpin: Patterns & Techniques
+
+
+## :round_pushpin: Java Utilies
+- Java `Arrays` class.
+- Java `Collections` class.
