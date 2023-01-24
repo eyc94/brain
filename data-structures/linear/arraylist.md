@@ -1,4 +1,4 @@
-# :heavy_check_mark: Java Arraylist
+# :heavy_check_mark: Java ArrayList
 *Last Updated: 1/23/2023*
 ![Image of how an ArrayList interacts with classes](../../images/data-structures/linear/array/arraylist-class-diagram.png)
 ![Image of how an ArrayList object looks like](../../images/data-structures/linear/array/arraylist-illustration.png)
