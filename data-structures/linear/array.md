@@ -51,4 +51,4 @@ Operations on an array, `A`, at index, `i`, uses the bracket notation: `A[i]`.
   - `Collections` use the `size()` method, and the `String` uses the `length()` method.
 
 ## :round_pushpin: Misc
-- The dynamically resizing characteristic of arrays is often referred to as a `list`.
+- Add misc notes here...
