@@ -28,8 +28,8 @@
 - Sorting is complicated.
 
 ## :round_pushpin: Types
-- Singly-Linked List
-- Doubly-Linked List
+- [Singly-Linked List](singly-linked-list.md)
+- [Doubly-Linked List](doubly-linked-list.md)
 - Circularly-Linked List
 - Doubly Circular Linked List
 

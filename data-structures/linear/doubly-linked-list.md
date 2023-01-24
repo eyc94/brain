@@ -1,36 +1,46 @@
-# :heavy_check_mark: Singly Linked List
+# :heavy_check_mark: Doubly Linked List
 *Last Updated: 1/24/2023*
 
-![Image of a singly linked list](../../images/data-structures/linear/linked-list/singly-linked-list.png)
+![Image of a doubly linked list](../../images/data-structures/linear/linked-list/doubly-linked-list.png)
 
 ## :round_pushpin: Summary
-- Sometimes abbreviated to SLL.
-- Traversal of items in the forward direction only.
-- This is basically the basic linked list.
-  - See [Linked List](linked-list.md) section for more information.
+- Sometimes abbreviated to DLL.
+- Traversal can be done in forward and backward directions.
+- Every node contains a `prev` pointer pointing to the previous node.
+
+## :round_pushpin: Singly vs Doubly
+### Advantages
+- Can traverse in both directions.
+- Deleting is more efficient if given the node.
+- Can insert nodes before a given node.
+
+### Disadvantages
+- Every node requires extra space for a previous pointer.
 
 ## :round_pushpin: Representation
 - Basic representation
 ```java
-// Linked List Class
-class LinkedList {
+// Doubly Linked List Class
+class DoublyLinkedList {
   Node head; // Head of list.
 
+  // Doubly Linked List Node.
   class Node {
     int data;
+    Node prev;
     Node next;
 
     // Constructor to create a new node.
+    // The next and prev is null by default.
     Node(int d) {
       data = d;
-      next = null;
     }
   }
 }
 ```
 
 ## :round_pushpin: Operations
-- Exact same operations as the basic [Linked List](linked-list.md).
+- Can now add/delete a node before and after a given node.
 ### Read/Access
 - Reading elements at the ends: Constant time operation - `O(1)`.
 - Reading elements in the middle: Linear time operation - `O(n)` where `n` is the length of the array.
