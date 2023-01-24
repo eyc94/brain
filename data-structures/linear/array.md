@@ -44,6 +44,7 @@ Operations on an array, `A`, at index, `i`, uses the bracket notation: `A[i]`.
   - Some static utility methods: `asList`, `fill`, `sort`, and `toString`.
 - The `ArrayList` type is a dynamically-resizing array.
   - [Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+  - [ArrayList Notes](./arraylist.md)
   - Better replacement than the basic array (more API methods).
 - Allocating and initializing an array: `new int[] { 1, 2, 3 }`.
 - Instantiate a 2D array: `new Integer[3][]`.

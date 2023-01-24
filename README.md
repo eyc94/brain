@@ -8,6 +8,7 @@ There are two classifications of data structures:
 ### Linear
 Elements are arranged in one dimension.
 - [Array](./data-structures/linear/array.md)
+  - [ArrayList](./data-structures/linear/arraylist.md)
 - [Linked List](./data-structures/linear/linked-list.md)
 - [Stack](./data-structures/linear/stack.md)
 - [Queue](./data-structures/linear/queue.md)
