@@ -1,19 +1,36 @@
-# Linked List
+# :heavy_check_mark: Linked List
+*Last Updated: 1/24/2023*
 
 ![Image of a linked list](../../images/data-structures/linear/linked-list/linked-list.png)
 
-## Summary
+## :round_pushpin: Summary
 - Linear data structure.
 - Not stored in contiguous memory.
 - Elements of a list are linked using pointers to the next element.
+  - Consists of nodes that have references (links) to the next node in the list.
 
-## Types
+## :round_pushpin: Linked List vs Array
+### Advantages
+- Arrays need to declare size and resize accordingly.
+  - Expensive when adding/removing elements.
+- In linked lists, you just need to know the position and traverse to it and re-link nodes.
+
+### Disadvantages
+- We have to access nodes sequentially.
+- Extra memory for a pointer is needed for each element.
+- Not cache-friendly.
+- Reverse traversing not possible in singly-linked lists.
+- Pointers are confusing.
+- Reading/Searching for an element is expensive (not constant).
+- Sorting is complicated.
+
+## :round_pushpin: Types
 - Singly-Linked List
 - Doubly-Linked List
 - Circularly-Linked List
 - Doubly Circular Linked List
 
-## Characteristics
+## :round_pushpin: Characteristics
 - Uses extra memory to store links.
 - Initial size not needed for initialization (like arrays do).
 - Implements stack, queue, graphs, etc.
