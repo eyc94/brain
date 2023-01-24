@@ -1,39 +1,31 @@
-# :heavy_check_mark: Doubly Linked List
+# :heavy_check_mark: Circularly Linked List
 *Last Updated: 1/24/2023*
 
 ![Image of a doubly linked list](../../images/data-structures/linear/linked-list/doubly-linked-list.png)
 
 ## :round_pushpin: Summary
-- Sometimes abbreviated to DLL.
-- Traversal can be done in forward and backward directions.
-- Every node contains a `prev` pointer pointing to the previous node.
-
-## :round_pushpin: Singly vs Doubly
-### Advantages
-- Can traverse in both directions.
-- Deleting is more efficient if given the node.
-- Can insert nodes before a given node.
-
-### Disadvantages
-- Every node requires extra space for a previous pointer.
+- First and last nodes are connected to form a circle/cycle.
+- There is no `null` end.
+- There should be a reference to the `tail`.
 
 ## :round_pushpin: Representation
 - Basic representation
+- Uses the same node as a singly linked list.
+- Just connect the last node to the `head`.
 ```java
-// Doubly Linked List Class
-class DoublyLinkedList {
+// Singly Linked List Class
+class SinglyLinkedList {
   Node head; // Head of list.
 
-  // Doubly Linked List Node.
+  // Singly Linked List Node.
   class Node {
     int data;
-    Node prev;
     Node next;
 
     // Constructor to create a new node.
-    // The next and prev is null by default.
     Node(int d) {
       data = d;
+      next = null;
     }
   }
 }
@@ -63,4 +55,4 @@ class DoublyLinkedList {
 - Deleting elements in the middle: Linear time operation - `O(n)`.
 
 ## :round_pushpin: Misc
-- There is no Java doubly-linked list class.
+- There is no Java circularly-linked list class.
