@@ -11,6 +11,11 @@ Elements are arranged in one dimension.
   - [Java ArrayList](./data-structures/linear/java-arraylist.md)
 - [Linked List](./data-structures/linear/linked-list.md)
   - [Java LinkedList](./data-structures/linear/java-linkedlist.md)
+  - Types:
+    - [Singly Linked List](./data-structures/linear/singly-linked-list.md)
+    - [Doubly Linked List](./data-structures/linear/doubly-linked-list.md)
+    - [Circularly Linked List](./data-structures/linear/circularly-linked-list.md)
+    - [Doubly Circular Linked List](./data-structures/linear/doubly-circular-linked-list.md)
 - [Stack](./data-structures/linear/stack.md)
 - [Queue](./data-structures/linear/queue.md)
 
