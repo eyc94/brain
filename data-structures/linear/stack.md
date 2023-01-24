@@ -1,6 +1,6 @@
 # Stack
 
-![Image of a Stack](../../images/data-structures/linear/stack/stack.png)
+![Image of a stack](../../images/data-structures/linear/stack/stack.png)
 
 ## Summary
 - Linear data structure.
