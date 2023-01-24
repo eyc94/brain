@@ -2,19 +2,19 @@
 
 ![Image of an array](../../images/data-structures/linear/array/array.png)
 
-## :heavy_minus_sign: Summary
+## :lock: Summary
 - Linear data structure.
 - Collection of items.
 - Stored at contiguous memory locations.
 - Usually holds the same data types.
 - Usually indexed starting at 0.
 
-## :heavy_minus_sign: Characteristics
+## :lock: Characteristics
 - Index-based data structure.
 - Can handle complex data structures by storing data in a two-dimensional array.
 - Used to implement other data structures (i.e. stack, queue, heap, hash tables, etc).
 
-## :heavy_minus_sign: Operations
+## :lock: Operations
 Operations on an array, `A`, at index, `i`, uses the bracket notation: `A[i]`.
 ### Read/Access
 - Constant time operation: `O(1)`.
@@ -37,7 +37,7 @@ Operations on an array, `A`, at index, `i`, uses the bracket notation: `A[i]`.
 - Deleting elements in the middle: Linear time operation - `O(n)` where `n` is the length of the array.
   - Deleting elements in the middle require every element to its left to shift left by one cell.
 
-## :heavy_minus_sign: Java Syntax/Libraries
+## :lock: Java Syntax/Libraries
 - Basic arrays in Java are fixed-size.
 - Java `Arrays` class: [Reference](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html)
   - Some static utility methods: `asList`, `fill`, `sort`, and `toString`.
@@ -50,5 +50,5 @@ Operations on an array, `A`, at index, `i`, uses the bracket notation: `A[i]`.
 - Get the length of an array by accessing the `length` field.
   - `Collections` use the `size()` method, and the `String` uses the `length()` method.
 
-## :heavy_minus_sign: Misc
+## :lock: Misc
 - The dynamically resizing characteristic of arrays is often referred to as a `list`.
