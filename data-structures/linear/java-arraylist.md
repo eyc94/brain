@@ -42,7 +42,7 @@ ArrayList<Integer> arr = new ArrayList<>();
 ArrayList<Integer> arr = new ArrayList<>(5);
 ```
 
-- Instantiate with another collection, `c`.
+- Instantiate with another collection, `c`:
 ```java
 ArrayList<Integer> arr = new ArrayList<>(c);
 ```

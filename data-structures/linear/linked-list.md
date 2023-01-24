@@ -6,8 +6,11 @@
 ## :round_pushpin: Summary
 - Linear data structure.
 - Not stored in contiguous memory.
+- Ordered collection of values.
 - Elements of a list are linked using pointers to the next element.
   - Consists of nodes that have references (links) to the next node in the list.
+- There is a `head` pointer pointing to the first element.
+  - Empty list has this pointer pointing to `null`.
 
 ## :round_pushpin: Linked List vs Array
 ### Advantages
@@ -38,3 +41,24 @@
 - Last node is called the tail and always points to `null`.
 - Insertion and deletion on the ends is easy.
 - Each node contains a next pointer to the next node.
+
+## :round_pushpin: Operations
+### Read/Access
+- Reading elements at the ends: Constant time operation - `O(1)`.
+- Reading elements in the middle: Linear time operation - `O(n)` where `n` is the length of the array.
+
+### Update
+- Updating elements at the ends: Constant time operation - `O(1)`.
+- Updating elements in the middle: Linear time operation - `O(n)` where `n` is the length of the array.
+
+### Insert/Create
+- Inserting elements at the ends: Constant time operation - `O(1)`.
+- Inserting elements in the middle: Linear time operation - `O(n)` where `n` is the length of the array.
+
+### Delete
+- Deleting elements at the ends: Constant time operation - `O(1)`.
+- Deleting elements in the middle: Linear time operation - `O(n)` where `n` is the length of the array.
+
+## :round_pushpin: Java Syntax/Libraries
+- Java has a standard linked list library called `LinkedList`: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html)
+- [`LinkedList` notes](./java-linkedlist.md)
