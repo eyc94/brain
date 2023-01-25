@@ -28,10 +28,11 @@
 - Constant time operation: `O(1)`.
 
 ## :round_pushpin: Types
-- [Simple Queue/Linear Queue](simple-queue.md)
-- [Circular Queue](circular-queue.md)
+- Simple Queue/Linear Queue
+  - Same as this page.
 - [Priority Queue](priority-queue.md)
-- [Dequeue](dequeue.md)
+- Circular Queue
+- Dequeue
 
 ## :round_pushpin: Java Syntax/Libraries
 There are more queue classes than these, but these are the most common implementations of the queue interface.
