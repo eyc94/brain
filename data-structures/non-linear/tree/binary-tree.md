@@ -46,7 +46,7 @@ class Node {
 - Types based on completion of levels:
   - [Complete Binary Tree](complete-binary-tree.md)
   - [Perfect Binary Tree](perfect-binary-tree.md)
-  - Balanced Binary Tree
+  - [Balanced Binary Tree](balanced-binary-tree.md)
 - Other types:
   - Binary Search Tree
   - AVL Tree
