@@ -45,7 +45,7 @@ class Node {
   - [Skewed Binary Tree](skewed-binary-tree.md)
 - Types based on completion of levels:
   - [Complete Binary Tree](complete-binary-tree.md)
-  - Perfect Binary Tree
+  - [Perfect Binary Tree](perfect-binary-tree.md)
   - Balanced Binary Tree
 - Other types:
   - Binary Search Tree
