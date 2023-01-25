@@ -1,5 +1,5 @@
 # :heavy_check_mark: Binary Tree
-*Last Updated: 1/24/2023*
+*Last Updated: 1/25/2023*
 
 ![Image of a Binary Tree](../../../images/data-structures/non-linear/tree/binary-tree.png)
 
@@ -40,7 +40,7 @@ class Node {
 
 ## :round_pushpin: Types
 - Types based on number of children:
-  - Full Binary Tree
+  - [Full Binary Tree](full-binary-tree.md)
   - Degenerate Binary Tree
   - Skewed Binary Tree
 - Types based on completion of levels:
