@@ -23,6 +23,7 @@ Reference all terminology with node, `n`.
 - **Parent node:** Direct predecessor of `n`.
 - **Child node:** Immediate successor of `n`.
 - **Root node:** The top-most noe of a tree, or the node which does not have a parent node.
+- **Edge:** Edge acts as a link between parent and child nodes.
 - **Leaf node:** Nodes which do not have any child nodes.
 - **Ancestor of a node:** Any predecessor node on the path of the root to that node, `n`, is an ancestor of `n`.
 - **Descendant:** Any successor node on the path from leaf to that node, `n`, are descendants of `n`.
