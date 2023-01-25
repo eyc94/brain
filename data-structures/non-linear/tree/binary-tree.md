@@ -42,7 +42,7 @@ class Node {
 - Types based on number of children:
   - [Full Binary Tree](full-binary-tree.md)
   - [Degenerate Binary Tree](degenerate-binary-tree.md)
-  - Skewed Binary Tree
+  - [Skewed Binary Tree](skewed-binary-tree.md)
 - Types based on completion of levels:
   - Complete Binary Tree
   - Perfect Binary Tree
