@@ -32,3 +32,12 @@
 - [Circular Queue](circular-queue.md)
 - [Priority Queue](priority-queue.md)
 - [Dequeue](dequeue.md)
+
+## :round_pushpin: Java Syntax/Libraries
+There are more queue classes than these, but these are the most common implementations of the queue interface.
+- Java has a `Queue` interface: [Documentation](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)
+  - [Notes](java-queue.md)
+- Java has a `PriorityQueue` class: [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html)
+  - [Notes](java-priorityqueue.md)
+- Java has an `ArrayDeque` class implementation of the `Deque` interface (Can be used for queues as well): [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html)
+  - [Notes](../stack/java-arraydeque.md)
