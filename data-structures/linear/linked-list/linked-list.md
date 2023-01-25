@@ -1,7 +1,7 @@
 # :heavy_check_mark: Linked List
 *Last Updated: 1/24/2023*
 
-![Image of a linked list](../../images/data-structures/linear/linked-list/linked-list.png)
+![Image of a linked list](../../../images/data-structures/linear/linked-list/linked-list.png)
 
 ## :round_pushpin: Summary
 - Linear data structure.

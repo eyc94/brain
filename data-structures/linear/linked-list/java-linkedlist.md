@@ -6,7 +6,7 @@
 - Implementation of the Linked List data structure.
 
 ## :round_pushpin: Features
-![Image of how an extended LinkedList diagram](../../images/data-structures/linear/linked-list/linked-list-diagram-extended.png)
+![Image of how an extended LinkedList diagram](../../../images/data-structures/linear/linked-list/linked-list-diagram-extended.png)
 
 ## :round_pushpin: Operations (API)
 - [Documentation](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html)

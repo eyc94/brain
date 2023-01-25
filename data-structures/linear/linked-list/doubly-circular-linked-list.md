@@ -1,7 +1,7 @@
 # :heavy_check_mark: Doubly Circularly Linked List
 *Last Updated: 1/24/2023*
 
-![Image of a doubly circular linked list](../../images/data-structures/linear/linked-list/doubly-circular-linked-list.png)
+![Image of a doubly circular linked list](../../../images/data-structures/linear/linked-list/doubly-circular-linked-list.png)
 
 ## :round_pushpin: Summary
 - Has properties of a doubly linked list and a circularly linked list.

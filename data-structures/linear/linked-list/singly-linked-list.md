@@ -1,7 +1,7 @@
 # :heavy_check_mark: Singly Linked List
 *Last Updated: 1/24/2023*
 
-![Image of a singly linked list](../../images/data-structures/linear/linked-list/singly-linked-list.png)
+![Image of a singly linked list](../../../images/data-structures/linear/linked-list/singly-linked-list.png)
 
 ## :round_pushpin: Summary
 - Sometimes abbreviated to SLL.
