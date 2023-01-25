@@ -8,9 +8,9 @@ There are two classifications of data structures:
 ### Linear
 Elements are arranged in one dimension.
 - [Array](./data-structures/linear/array/array.md)
-  - [Java ArrayList](./data-structures/linear/array/java-arraylist.md)
+  - [Java ArrayList class](./data-structures/linear/array/java-arraylist.md)
 - [Linked List](./data-structures/linear/linked-list/linked-list.md)
-  - [Java LinkedList](./data-structures/linear/linked-list/java-linkedlist.md)
+  - [Java LinkedList class](./data-structures/linear/linked-list/java-linkedlist.md)
   - Types:
     - [Singly Linked List](./data-structures/linear/linked-list/singly-linked-list.md)
     - [Doubly Linked List](./data-structures/linear/linked-list/doubly-linked-list.md)
@@ -21,6 +21,10 @@ Elements are arranged in one dimension.
   - [Java Deque](./data-structures/linear/stack/java-deque.md)
   - [Java ArrayDeque](./data-structures/linear/stack/java-arraydeque.md)
 - [Queue](./data-structures/linear/queue/queue.md)
+  - [Java Queue Class](./data-structures/linear/queue/java-queue.md)
+  - [Java PriorityQueue Class](./data-structures/linear/queue/java-priorityqueue.md)
+  - Types:
+    - [Priority Queue](./data-structures/linear/queue/priority-queue.md)
 
 ### Non-Linear
 Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
