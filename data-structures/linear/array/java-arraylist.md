@@ -1,8 +1,8 @@
 # :heavy_check_mark: Java ArrayList
 *Last Updated: 1/24/2023*
 
-![Image of how an ArrayList interacts with classes](../../images/data-structures/linear/array/arraylist-class-diagram.png)
-![Image of how an ArrayList object looks like](../../images/data-structures/linear/array/arraylist-illustration.png)
+![Image of how an ArrayList interacts with classes](../../../images/data-structures/linear/array/arraylist-class-diagram.png)
+![Image of how an ArrayList object looks like](../../../images/data-structures/linear/array/arraylist-illustration.png)
 
 ## :round_pushpin: Summary
 - Part of the Java collection framework.
@@ -17,7 +17,7 @@
 - Might be a bit slower than normal arrays.
 
 ## :round_pushpin: Features
-![Image of how an extended ArrayList diagram](../../images/data-structures/linear/array/arraylist-class-diagram-extended.png)
+![Image of how an extended ArrayList diagram](../../../images/data-structures/linear/array/arraylist-class-diagram-extended.png)
 - Inherits AbstractList class.
 - Implements the List interface.
 - Size of the ArrayList grows/shrinks when adding/removing.

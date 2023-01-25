@@ -7,8 +7,8 @@ There are two classifications of data structures:
 
 ### Linear
 Elements are arranged in one dimension.
-- [Array](./data-structures/linear/array.md)
-  - [Java ArrayList](./data-structures/linear/java-arraylist.md)
+- [Array](./data-structures/linear/array/array.md)
+  - [Java ArrayList](./data-structures/linear/array/java-arraylist.md)
 - [Linked List](./data-structures/linear/linked-list.md)
   - [Java LinkedList](./data-structures/linear/java-linkedlist.md)
   - Types:
