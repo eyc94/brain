@@ -28,8 +28,8 @@ Elements are arranged in one dimension.
 
 ### Non-Linear
 Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
-- [Tree](./data-structures/non-linear/tree.md)
-- [Graph](./data-structures/non-linear/graph.md)
+- [Tree](./data-structures/non-linear/tree/tree.md)
+- [Graph](./data-structures/non-linear/graph/graph.md)
 
 ## :round_pushpin: Algorithms
 
