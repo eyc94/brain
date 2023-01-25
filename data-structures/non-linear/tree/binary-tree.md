@@ -44,7 +44,7 @@ class Node {
   - [Degenerate Binary Tree](degenerate-binary-tree.md)
   - [Skewed Binary Tree](skewed-binary-tree.md)
 - Types based on completion of levels:
-  - Complete Binary Tree
+  - [Complete Binary Tree](complete-binary-tree.md)
   - Perfect Binary Tree
   - Balanced Binary Tree
 - Other types:
