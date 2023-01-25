@@ -41,7 +41,7 @@ class Node {
 ## :round_pushpin: Types
 - Types based on number of children:
   - [Full Binary Tree](full-binary-tree.md)
-  - Degenerate Binary Tree
+  - [Degenerate Binary Tree](degenerate-binary-tree.md)
   - Skewed Binary Tree
 - Types based on completion of levels:
   - Complete Binary Tree
