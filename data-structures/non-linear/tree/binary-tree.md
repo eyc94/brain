@@ -38,6 +38,23 @@ class Node {
 5. In a Binary Tree, if every node has 0 or 2 children, the number of leaf nodes is always one more than nodes with two children.
 6. In a non-empty Binary Tree, if `N` is the total number of nodes and `E` is the total number of edges, `E = N - 1`.
 
+## :round_pushpin: Types
+- Types based on number of children:
+  - Full Binary Tree
+  - Degenerate Binary Tree
+  - Skewed Binary Tree
+- Types based on completion of levels:
+  - Complete Binary Tree
+  - Perfect Binary Tree
+  - Balanced Binary Tree
+- Other types:
+  - Binary Search Tree
+  - AVL Tree
+  - Red-Black Tree
+  - B Tree
+  - B+ Tree
+  - Segment Tree
+
 ## :round_pushpin: Operations
 - Insertion
 - Removal
