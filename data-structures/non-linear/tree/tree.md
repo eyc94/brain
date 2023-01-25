@@ -65,11 +65,16 @@ class TreeNode {
 
 ## :round_pushpin: Traversals
 - Depth First Search (DFS)
+  - Preorder
+  - Inorder
+  - Postorder
 - Breadth First Search (BFS)
+  - Level Order
 
 ## :round_pushpin: Types
 - **General Tree:** This page describes a general tree.
 - **Binary Tree:** A node can have a maximum of two child nodes.
+  - [Notes](binary-tree.md) on Binary Tree.
 - **Balanced Tree:** Height of the left-subtree and right-subtree is equal or differs by at most 1.
 - **Binary Search Tree (BST):** Used for searching and sorting algorithms. Values of left nodes are less than its parent. Values of right nodes are greater than its parent. Some implementations/definitions also include equality condition.
   - **AVL Tree**
