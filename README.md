@@ -20,7 +20,7 @@ Elements are arranged in one dimension.
   - [Java Stack](./data-structures/linear/stack/java-stack.md)
   - [Java Deque](./data-structures/linear/stack/java-deque.md)
   - [Java ArrayDeque](./data-structures/linear/stack/java-arraydeque.md)
-- [Queue](./data-structures/linear/queue.md)
+- [Queue](./data-structures/linear/queue/queue.md)
 
 ### Non-Linear
 Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
