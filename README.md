@@ -135,6 +135,6 @@ There are many types of sorting algorithms:
 ## :round_pushpin: Patterns & Techniques
 
 
-## :round_pushpin: Java Utilies
+## :round_pushpin: Java Utilities
 - Java `Arrays` class.
 - Java `Collections` class.
