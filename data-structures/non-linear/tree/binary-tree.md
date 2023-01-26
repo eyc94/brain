@@ -48,7 +48,7 @@ class Node {
   - [Perfect Binary Tree](perfect-binary-tree.md)
   - [Balanced Binary Tree](balanced-binary-tree.md)
 - Other types:
-  - Binary Search Tree
+  - [Binary Search Tree](binary-search-tree.md)
   - AVL Tree
   - Red-Black Tree
   - B Tree
