@@ -49,7 +49,7 @@ class Node {
   - [Balanced Binary Tree](balanced-binary-tree.md)
 - Other types:
   - [Binary Search Tree](binary-search-tree.md)
-  - AVL Tree
+  - [AVL Tree](avl-tree.md)
   - Red-Black Tree
   - B Tree
   - B+ Tree
