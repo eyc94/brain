@@ -4,6 +4,7 @@
 ![Image of a binary search tree](../../../images/data-structures/non-linear/tree/binary-search-tree.png)
 
 ## :round_pushpin: Summary
+- Abbreviated BST.
 - Node-based binary tree.
 
 ## :round_pushpin: Properties
