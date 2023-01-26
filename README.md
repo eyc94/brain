@@ -29,6 +29,22 @@ Elements are arranged in one dimension.
 ### Non-Linear
 Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
 - [Tree](./data-structures/non-linear/tree/tree.md)
+  - [Binary Tree](./data-structures/non-linear/tree/binary-tree.md)
+    - [Full Binary Tree](./data-structures/non-linear/tree/full-binary-tree.md)
+    - [Complete Binary Tree](./data-structures/non-linear/tree/complete-binary-tree.md)
+    - [Perfect Binary Tree](./data-structures/non-linear/tree/perfect-binary-tree.md)
+    - [Balanced Binary Tree](./data-structures/non-linear/tree/balanced-binary-tree.md)
+    - [Degenerate Binary Tree](./data-structures/non-linear/tree/degenerate-binary-tree.md)
+    - [Skewed Binary Tree](./data-structures/non-linear/tree/skewed-binary-tree.md)
+    - Strictly Binary Tree
+    - Extended Binary Tree
+    - [Binary Search Tree (BST)](./data-structures/non-linear/tree/binary-search-tree.md)
+      - [AVL Tree](./data-structures/non-linear/tree/avl-tree.md)
+      - [Red-Black Tree](./data-structures/non-linear/tree/red-black-tree.md)
+    - Heap
+  - Trie
+  - [B-Tree](./data-structures/non-linear/tree/b-tree.md)
+  - [B+ Tree](./data-structures/non-linear/tree/b-plus-tree.md)
 - [Graph](./data-structures/non-linear/graph/graph.md)
 
 ## :round_pushpin: Algorithms
