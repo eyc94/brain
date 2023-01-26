@@ -9,6 +9,7 @@
   - Edges are ordered pairs of vertices `(u, v)`.
   - Ordered because `(u, v)` and `(v, u)` are different in directed graphs (di-graph).
   - Edges may have weight, value, or cost.
+- A `directed, acyclic graph (DAG)`, is a directed graph with no cycles.
 - Hierarchical.
 - Arranged in a tree-like strcture.
 - Top-most node is called the `root` node.
@@ -51,3 +52,42 @@
   - In real-life, graphs are sparse `|E| << |V|^2`.
     - Commonly used for storing graphs.
     - Matrix will enforce `|V|^2` bound on time complexity.
+
+## :round_pushpin: Traversals
+Similar to tree BFS and DFS approaches but graphs may contain cycles.
+- To keep track of this, use an array to keep track of visited nodes.
+### Depth-First Search (DFS)
+- Uses stack.
+- Start at the root.
+- Explore as far as possible before backtracking.
+- Time: `O(V + E)` where `V` is the number of vertices and `E` is the number of edges.
+- Space: `O(V)` because of the visited array.
+- Note: Watch for disconnected graphs (edge case).
+- Applications:
+  - Cycle detection.
+  - Path finding.
+  - Topological Sorting.
+  - Checking if graph is bipartite.
+  - Finding strongly connected components of a graph.
+  - Solving puzzles with one solution (e.g. a maze).
+
+### Breadth-First Search (BFS)
+- Uses queue.
+- Start at the root.
+- Explore neighbors before going as far down.
+- Time: `O(V + E)` where `V` is the number of vertices and `E` is the number of edges.
+- Space: `O(V)` because of the visited array.
+- Note: Watch for disconnected graphs (edge case).
+- Applications:
+  - Shortest path and minimum spanning tree for unweighted graph.
+  - Peer-to-peer networks.
+  - Crawlers in search engines.
+  - Social Networking Websites.
+  - GPS Navigation Systems.
+  - Broadcasting in network.
+  - Garbage collection.
+  - Cycle detection in undirected graph.
+  - Ford-Fulkerson algorithm.
+  - Test if a graph is bipartite.
+  - Path finding.
+  - Finding all nodes withing on connected component.
