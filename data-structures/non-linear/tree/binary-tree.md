@@ -52,7 +52,7 @@ class Node {
   - [AVL Tree](avl-tree.md)
   - [Red-Black Tree](red-black-tree.md)
   - [B Tree](b-tree.md)
-  - B+ Tree
+  - [B+ Tree](b-plus-tree.md)
   - Segment Tree
 
 ## :round_pushpin: Operations
