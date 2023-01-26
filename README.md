@@ -42,7 +42,7 @@ Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
       - [AVL Tree](./data-structures/non-linear/tree/avl-tree.md)
       - [Red-Black Tree](./data-structures/non-linear/tree/red-black-tree.md)
     - [Binary Heap](./data-structures/non-linear/tree/binary-heap.md)
-  - Trie
+  - [Trie](./data-structures/non-linear/tree/trie.md)
   - [B-Tree](./data-structures/non-linear/tree/b-tree.md)
   - [B+ Tree](./data-structures/non-linear/tree/b-plus-tree.md)
 - [Graph](./data-structures/non-linear/graph/graph.md)
