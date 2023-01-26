@@ -51,7 +51,7 @@ class Node {
   - [Binary Search Tree](binary-search-tree.md)
   - [AVL Tree](avl-tree.md)
   - [Red-Black Tree](red-black-tree.md)
-  - B Tree
+  - [B Tree](b-tree.md)
   - B+ Tree
   - Segment Tree
 
