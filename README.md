@@ -48,13 +48,76 @@ Elements are arranged in one-to-many, many-to-one, and many-to-many dimensions.
 - [Graph](./data-structures/non-linear/graph/graph.md)
 
 ## :round_pushpin: Algorithms
+Algorithm is defined as a process or set of well-defined instructions that are typically used to solve a group of problems or perform a specific type of calculation.
 
+It is a set of operations performed in a step-by-step manner to execute a task.
+
+### Complexities
+We need a way to determine how efficient and effective an algorithm is. A way to measure this is with complexities. There are two types:
+
+1. **Time Complexity**
+  a. Measures the amount of time required to execute the code.
+2. **Space Complexity**
+  a. Amount of space required to execute the code successfully.
+  b. **Auxiliary Space** is a common term. This refers to the extra space used in the program other than the input data structure.
+
+Both are measured with respect to the input parameters.
+
+The time required for running a program depends on several things:
+- The number of operations performed.
+- The speed of the device.
+- The speed of data transfer if being executed on an online platform.
+
+We use **asymptotic notation**: A mathematical tool that calculates the required time in terms of input size and does not require the execution of code.
+
+It only looks at modular operations being performed in the whole program.
+
+There are three asymptotic notations to represent complexity:
+1. **Big-O Notation (O):** Describes worst-case scenario.
+  a. This is the most used notation because it represents an upper bound.
+2. **Omega Notation ($\Omega$):** Describes best-case scenario.
+3. **Theta Notation ($\Theta$):** Describes average complexity of an algorithm.
+
+![Image of big-oh chart](images/algorithms/big-oh-chart.png)
+
+From worst to best (there may be more to this):
+- `O(n!)`, `O(c^n)`, `O(n^c)` - Worst
+- `O(n log n)` - Bad
+- `O(n)` - Fair
+- `O(log n)` - good
+- `O(1)` - Best
+
+***NOTE:*** When dealing with constants, we remove them as they don't provide much value over time.
 
 ## :round_pushpin: Searching
+Searching algorithms are designed to check for an element or retrieve an element from any data structure where it is stored.
+
+***NOTE:*** There are more searching algorithms, but those below are the common and important ones.
+
+- Sequential/Linear Search
+- Binary Search
 
 
 ## :round_pushpin: Sorting
+A sorting algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements.
 
+The comparison operator is used to decide the new order of elements in the respective data structure.
+
+![Image of sorting example](images/sorting/sorting-example.png)
+
+There are many types of sorting algorithms:
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Counting Sort
+- Radix Sort
+- Bucket Sort
+- Shell Sort
+
+***NOTE:*** There are more sorting algorithms, but those below are the common and important ones.
 
 ## :round_pushpin: Patterns & Techniques
 
