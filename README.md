@@ -133,6 +133,28 @@ There are many types of sorting algorithms:
 ***NOTE:*** There are more sorting algorithms, but those below are the common and important ones.
 
 ## :round_pushpin: Patterns & Techniques
+- Two Pointers
+- Fast and Slow Pointers
+- Sliding Window
+- Intervals
+- Linked Lists Reversals
+- Two Heaps
+- K-Way Merge
+- Top K Elements
+- Binary Search
+- Subsets
+- Greedy
+- Backtracking
+- Dynamic Programming
+- Cyclic Sort
+- Topological Sort
+- Stacks
+- Tree DFS
+- Tree BFS
+- Trie
+- Hash Maps
+- Union Find
+- Bitwise Manipulation
 
 
 ## :round_pushpin: Java Utilities
