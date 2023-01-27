@@ -122,6 +122,7 @@ class AverageOfSubarrayOfSizeK {
 - [ ] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [ ] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
 - [ ] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] 159. [Longest Substring with At Most Two Distinct Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 - [ ] 209. [Minimum Size Subarray Sum (Medium)](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [ ] 239. [Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)
 - [ ] 325. [Maximum Size Subarray Sum Equals k (Medium)](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
@@ -131,7 +132,10 @@ class AverageOfSubarrayOfSizeK {
 - [ ] 560. [Subarray Sum Equals K (Medium)](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [ ] 567. [Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)
 - [ ] 904. [Fruits Into Baskets (Medium)](https://leetcode.com/problems/fruit-into-baskets/)
+- [ ] 992. [Subarrays with K Different Integers (Hard)](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [ ] 1004. [Max Consecutive Ones III (Medium)](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
+- [ ] 1695. [Maximum Erasure Value (Medium)](https://leetcode.com/problems/maximum-erasure-value/)
+- [ ] 2260. [Minimum Consecutive Cards to Pick Up (Medium)](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
 
 ## :round_pushpin: Sources
 *List to be updated...*
