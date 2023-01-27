@@ -16,13 +16,22 @@ There are two types:
 1. Static/Fixed Sliding Window
   a. Usually, the size of the window will be given.
   b. Expand the window until this size is met.
-  c. Slide accordingly.
+  c. Slide accordingly while maintaining this size.
 2. Dynamic Sliding Window
   a. Usually, the size of the window will ***not*** be given.
   b. Instead, another constraint will be given (e.g. finding the longest/shortest subarray with a given, required sum).
   c. Expand the window until this constraint is met.
   d. See if the window can be shrunken down or expanded more while ***adhering*** to this constraint.
   e. For example, expand the subarray until the sum is at least 7. Shrink the window from here to see what the shortest subarray is with a sum of at least 7.
+
+The dynamic sliding window sometimes might be used with a set or map to keep track of things.
+
+## :round_pushpin: Recognition
+Things to look out for (signs of a sliding window pattern).
+- Iterating sequentially.
+  - Like a contiguous sequence of elements (i.e. subarrays, subsets, strings, arrays, linked lists).
+- Trying to find the min, max, longest, shortest, contained.
+  - Perhaps we need to calculate something.
 
 ## :round_pushpin: Example
 Take a look at this problem:
