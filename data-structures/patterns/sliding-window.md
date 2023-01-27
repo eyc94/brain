@@ -1,4 +1,4 @@
-# :heavy_check_mark: Two Pointers
+# :heavy_check_mark: Sliding Window
 *Last Updated: 1/26/2023*
 
 ## :round_pushpin: Introduction
