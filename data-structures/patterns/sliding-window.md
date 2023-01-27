@@ -55,4 +55,39 @@ For any two consecutive subarrays of size 5, the overlapping part (contains 4 el
 
 There are four overlapping elements. Can we reuse the `sum` from the previous subarray?
 
-Visualize each contiguous subarray as a sliding window
+![Image of the sliding window method](../../images/patterns/sliding-window/sliding-window-example.png)
+
+Visualize each contiguous subarray as a sliding window of 5 elements. When we move to the next subarray:
+- Slide window by one element.
+- Reuse the sum from the previous window.
+- Subtract the element leaving the window (left).
+- Add the element entering the window (right).
+
+This algorithm saves us from going through the subarray again to find the `sum`.
+
+**Time Complexity:** `O(N)`.
+```java
+class AverageOfSubarrayOfSizeK {
+    public static double[] findAverages(int K, int[] arr) {
+        double[] result = new double[arr.length - K + 1];
+        double windowSum = 0;
+        int windowStart = 0;
+        for (int windowEnd = 0; windowEnd < arr.length; windowEnd++) {
+            windowSum += arr[windowEnd]; // Add the next element.
+            // Slide the window. We don't need to slide if we have not hit the required window size of 'k'.
+            if (windowEnd >= K - 1) {
+                result[windowStart] = windowSum / K; // Calculate the average.
+                windowSum -= arr[windowStart]; // Subtract the element going out.
+                windowStart++; // Slide the window ahead.
+            }
+        }
+
+        return result;
+    }
+}
+```
+
+***NOTE:*** In some cases, the sliding window is not of fixed size. We have to expand/shrink the window based on the problem constraints.
+
+## :round_pushpin: Leetcode Problems
+*List to be updated...*
