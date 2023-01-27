@@ -135,9 +135,10 @@ There are many types of sorting algorithms:
 ## :round_pushpin: Patterns & Techniques
 Patterns are a tool to solve specific categories of problems.
 
-- [Two Pointers](data-structures/patterns/two-pointers.md)
+
+- [Sliding Window](data-structures/patterns/sliding-window.md)
+- Two Pointers
 - Fast and Slow Pointers
-- Sliding Window
 - Intervals
 - Linked Lists Reversals
 - Two Heaps
