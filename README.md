@@ -133,7 +133,9 @@ There are many types of sorting algorithms:
 ***NOTE:*** There are more sorting algorithms, but those below are the common and important ones.
 
 ## :round_pushpin: Patterns & Techniques
-- Two Pointers
+Patterns are a tool to solve specific categories of problems.
+
+- [Two Pointers](data-structures/patterns/two-pointers.md)
 - Fast and Slow Pointers
 - Sliding Window
 - Intervals
@@ -155,7 +157,6 @@ There are many types of sorting algorithms:
 - Hash Maps
 - Union Find
 - Bitwise Manipulation
-
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
