@@ -3,6 +3,7 @@
 
 ## :round_pushpin: TLDR
 **Time Complexity:** <code>O(N<sup>2</sup>)</code>
+
 **Space Complexity:** `O(1)`
 
 ## :round_pushpin: Summary
@@ -54,6 +55,7 @@ public void selectionSort(int[] arr) {
 
 ## :round_pushpin: Analysis
 **Time Complexity:** <code>O(N<sup>2</sup>)</code>
+
 **Space Complexity:** `O(1)`
 - Selection Sort is not efficient.
 - This sorting algorithm is of quadratic time complexity.
