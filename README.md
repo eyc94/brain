@@ -106,7 +106,7 @@ The comparison operator is used to decide the new order of elements in the respe
 ![Image of sorting example](images/sorting/sorting-example.png)
 
 There are many types of sorting algorithms:
-- Selection Sort
+- [Selection Sort](sorting/selection-sort.md)
 - Bubble Sort
 - Insertion Sort
 - Merge Sort
