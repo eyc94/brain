@@ -1,6 +1,8 @@
 # :heavy_check_mark: Selection Sort
 *Last Updated: 1/27/2023*
 
+![Image of the selection sort algorithm](../images/sorting/selection-sort/selection-sort.png)
+
 ## :round_pushpin: TLDR
 **Time Complexity:** <code>O(N<sup>2</sup>)</code>
 
