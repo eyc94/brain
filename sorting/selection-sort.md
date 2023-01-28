@@ -55,6 +55,23 @@ public void selectionSort(int[] arr) {
 - For each number, we iterate through the unsorted part and find the smallest value.
 - After, we swap the smallest value with the next available spot in the sorted part.
 
+## :round_pushpin: Advantages
+- Simple and easy to understand.
+- Preserves relative order.
+- Good with small datasets.
+- Adaptable to various data types.
+- In-place sorting algorithm.
+
+## :round_pushpin: Disadvantages
+- Quadratic complexity for the worst and average case.
+- Does not work well on large datasets.
+- Iterates over the list multiple times.
+- Not cache friendly.
+- Does not take advantage of the fact that the list may be sorted already.
+- High number of write operations.
+- Cannot be split up to run on multiple processors.
+- Does not handle data with many duplicates well.
+
 ## :round_pushpin: Analysis
 **Time Complexity:** <code>O(N<sup>2</sup>)</code>
 
