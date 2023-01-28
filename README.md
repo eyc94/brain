@@ -117,7 +117,7 @@ There are many types of sorting algorithms:
 - Bucket Sort
 - Shell Sort
 
-***NOTE:*** There are more sorting algorithms, but those below are the common and important ones.
+***NOTE:*** There are more sorting algorithms, but those above are the common and important ones.
 
 ### Quick Complexity Reference
 
