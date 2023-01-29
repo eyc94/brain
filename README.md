@@ -109,7 +109,7 @@ There are many types of sorting algorithms:
 - [Selection Sort](sorting/selection-sort.md)
 - [Bubble Sort](sorting/bubble-sort.md)
 - [Insertion Sort](sorting/insertion-sort.md)
-- Merge Sort
+- [Merge Sort](sorting/merge-sort.md)
 - Quick Sort
 - Heap Sort
 - Counting Sort
