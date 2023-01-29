@@ -1,7 +1,7 @@
 # :heavy_check_mark: Insertion Sort
 *Last Updated: 1/29/2023*
 
-![Image of the selection sort algorithm](../images/sorting/insertion-sort/insertion-sort.png)
+![Image of the insertion sort algorithm](../images/sorting/insertion-sort/insertion-sort.png)
 
 ## :round_pushpin: TLDR
 **Time Complexity:** <code>O(N<sup>2</sup>)</code>
