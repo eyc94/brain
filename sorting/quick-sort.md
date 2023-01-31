@@ -7,7 +7,7 @@
 **Time Complexity [Worst]:** <code>O(N<sup>2</sup>)</code>
 **Time Complexity [Average]:** <code>O(N log N)</code>
 
-**Space Complexity:** `O(N)`
+**Space Complexity:** `O(1)`
 
 ## :round_pushpin: Summary
 - In place sorting algorithm.
@@ -122,4 +122,4 @@ public void quickSort(int[] arr, int low, int high) {
 - This is because the worst case can barely occur if you choose a good pivot.
 - However, Merge Sort is still considered better when data is huge and stored in external storage.
 
-**Space Complexity:** `O(N)`
+**Space Complexity:** `O(1)`
