@@ -10,6 +10,7 @@
 
 ## :round_pushpin: Summary
 - Usually done recursively.
+- Not done in-place.
 - Think of `Divide & Conquer`.
 - Works by dividing an array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array.
 - It can sort large arrays relatively quickly.
