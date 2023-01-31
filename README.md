@@ -113,7 +113,7 @@ There are many types of sorting algorithms:
 - [Quick Sort](sorting/quick-sort.md)
 - [Heap Sort](sorting/heap-sort.md)
 - [Counting Sort](sorting/counting-sort.md)
-- Radix Sort
+- [Radix Sort](sorting/radix-sort.md)
 - Bucket Sort
 - Shell Sort
 
