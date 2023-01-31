@@ -120,15 +120,16 @@ There are many types of sorting algorithms:
 ***NOTE:*** There are more sorting algorithms, but those above are the common and important ones.
 
 ### Quick Complexity Reference
+`n` represents the input size.
 
 |Name|Best Case|Average Case|Worst Case|Memory|Stable|Method Used|
 |----|---------|------------|----------|------|------|-----------|
-|Quick Sort|`n log n`|`n log n`|`n^2`|`log n`|No|Partitioning|
+|Quick Sort|`n log n`|`n log n`|<code>n<sup>2</sup></code>|`1`|No|Partitioning|
 |Merge Sort|`n log n`|`n log n`|`n log n`|`n`|Yes|Merging|
 |Heap Sort|`n log n`|`n log n`|`n log n`|`1`|No|Selection|
-|Insertion Sort|`n`|`n^2`|`n^2`|`1`|Yes|Insertion|
-|Shell Sort|`n log n`|`n^(4/3)`|`n^(3/2)`|`1`|No|Insertion|
-|Bubble Sort|`n`|`n^2`|`n^2`|`1`|Yes|Exchanging|
+|Insertion Sort|`n`|<code>n<sup>2</sup></code>|<code>n<sup>2</sup></code>|`1`|Yes|Insertion|
+|Shell Sort|`n log n`|<code>n<sup>4/3</sup></code>|<code>n<sup>3/2</sup></code>|`1`|No|Insertion|
+|Bubble Sort|`n`|<code>n<sup>2</sup></code>|<code>n<sup>2</sup></code>|`1`|Yes|Exchanging|
 
 ***NOTE:*** There are more sorting algorithms, but those below are the common and important ones.
 
