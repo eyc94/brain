@@ -75,6 +75,11 @@ public void merge(int[] arr, int left, int mid, int right) {
     k++;
   }
 
+  /*
+    One of the temp arrays will be finished before the other.
+    Grab the remaining number(s) from the array that has not finished.
+  */
+
   // Copy remaining elements of leftArr[] if any.
   while (i < sizeOne) {
     arr[k] = leftArr[i];
@@ -92,20 +97,24 @@ public void merge(int[] arr, int left, int mid, int right) {
 
 // Main sort function that is called on arr[left...right].
 public void sort(int[] arr, int left, int right) {
-  // Check if left and right had not crossed.
+  // Check if left and right had not crossed. If they did, we are one 1 digit.
   if (left < right) {
     // Get the middle index.
     int mid = left + (right - left) / 2;
 
-    // Sort the first and second halves.
-    sort(arr, left, mid);
-    sort(arr, mid + 1, right);
+    sort(arr, left, mid); // Sort the first half.
+    sort(arr, mid + 1, right); // Sort the second half.
 
     // Merge the sorted halves.
     merge(arr, left, mid, right);
   }
 }
 ```
+- Basically, we are recursing down (breaking the arrays in half) until we reach an array of length 1.
+- This is the base case.
+- Once we do, we merge them.
+- Once we sort halves on every iteration, we merge them.
+- So break in half on the way down and merge on the way up.
 
 ## :round_pushpin: Advantages
 - Merge sort has good complexity.
