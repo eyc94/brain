@@ -165,3 +165,4 @@ Patterns are a tool to solve specific categories of problems.
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
 - Java `Collections` class.
+- Java `Math` class.
