@@ -125,7 +125,7 @@ class AverageOfSubarrayOfSizeK {
 - [ ] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
 - [x] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] 159. [Longest Substring with At Most Two Distinct Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
-- [ ] 209. [Minimum Size Subarray Sum (Medium)](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [x] 209. [Minimum Size Subarray Sum (Medium)](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [ ] 239. [Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)
 - [ ] 325. [Maximum Size Subarray Sum Equals k (Medium)](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
 - [ ] 340. [Longest Substring with At Most K Distinct Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
