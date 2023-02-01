@@ -119,7 +119,7 @@ class AverageOfSubarrayOfSizeK {
 
 ## :round_pushpin: Leetcode Problems
 ![11%](https://progress-bar.dev/11)
-- [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+:ballot_box_with_check: 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [ ] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
 - [x] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)
