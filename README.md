@@ -95,7 +95,7 @@ Searching algorithms are designed to check for an element or retrieve an element
 ***NOTE:*** There are more searching algorithms, but those below are the common and important ones.
 
 - Sequential/Linear Search
-- Binary Search
+- [Binary Search](searching/binary-search.md)
 
 
 ## :round_pushpin: Sorting
