@@ -139,7 +139,7 @@ There are many types of sorting algorithms:
 Patterns are a tool to solve specific categories of problems.
 
 
-- [Sliding Window](data-structures/patterns/sliding-window.md)
+- [Sliding Window](patterns/sliding-window.md)
 - Two Pointers
 - Fast and Slow Pointers
 - Intervals
