@@ -1,5 +1,5 @@
 # :heavy_check_mark: Sliding Window
-*Last Updated: 1/27/2023*
+*Last Updated: 1/31/2023*
 
 ![Image of a sliding window](../images/patterns/sliding-window/sliding-window.png)
 
