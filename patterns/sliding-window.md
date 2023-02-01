@@ -118,11 +118,11 @@ class AverageOfSubarrayOfSizeK {
 ***NOTE:*** In some cases, the sliding window is not of fixed size. We have to expand/shrink the window based on the problem constraints.
 
 ## :round_pushpin: Leetcode Problems
-![5%](https://progress-bar.dev/5)
+![11%](https://progress-bar.dev/11)
 - [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [ ] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
-- [ ] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)
+- [x] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] 159. [Longest Substring with At Most Two Distinct Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 - [ ] 209. [Minimum Size Subarray Sum (Medium)](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [ ] 239. [Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)
