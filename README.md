@@ -115,7 +115,7 @@ There are many types of sorting algorithms:
 - [Counting Sort](sorting/counting-sort.md)
 - [Radix Sort](sorting/radix-sort.md)
 - [Bucket Sort](sorting/bucket-sort.md)
-- Shell Sort
+- [Shell Sort](sorting/shell-sort.md)
 
 ***NOTE:*** There are more sorting algorithms, but those above are the common and important ones.
 
