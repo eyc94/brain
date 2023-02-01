@@ -116,6 +116,8 @@ There are many types of sorting algorithms:
 - [Radix Sort](sorting/radix-sort.md)
 - [Bucket Sort](sorting/bucket-sort.md)
 - [Shell Sort](sorting/shell-sort.md)
+- Comb Sort
+- Pigeonhole Sort
 
 ***NOTE:*** There are more sorting algorithms, but those above are the common and important ones.
 
