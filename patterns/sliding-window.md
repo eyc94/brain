@@ -1,7 +1,7 @@
 # :heavy_check_mark: Sliding Window
 *Last Updated: 1/27/2023*
 
-![Image of a sliding window](../../images/patterns/sliding-window/sliding-window.png)
+![Image of a sliding window](../images/patterns/sliding-window/sliding-window.png)
 
 ## :round_pushpin: Introduction
 In problems with an array or linked list, we are often asked to find or calculate something among all the contiguous subarrays (or sublists) of a given size.
@@ -79,11 +79,11 @@ There is an inefficiency with the brute-force approach.
 
 For any two consecutive subarrays of size 5, the overlapping part (contains 4 elements) will be evaluated twice.
 
-![Image of overlapping portion of the method](../../images/patterns/sliding-window/sliding-window-overlapping.png)
+![Image of overlapping portion of the method](../images/patterns/sliding-window/sliding-window-overlapping.png)
 
 There are four overlapping elements. Can we reuse the `sum` from the previous subarray?
 
-![Image of the sliding window method](../../images/patterns/sliding-window/sliding-window-example.png)
+![Image of the sliding window method](../images/patterns/sliding-window/sliding-window-example.png)
 
 Visualize each contiguous subarray as a sliding window of 5 elements. When we move to the next subarray:
 - Slide window by one element.
@@ -118,7 +118,7 @@ class AverageOfSubarrayOfSizeK {
 ***NOTE:*** In some cases, the sliding window is not of fixed size. We have to expand/shrink the window based on the problem constraints.
 
 ## :round_pushpin: Leetcode Problems
-- [ ] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [ ] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
 - [ ] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)
