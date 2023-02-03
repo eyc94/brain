@@ -1,5 +1,5 @@
 # :heavy_check_mark: Sliding Window
-*Last Updated: 1/31/2023*
+*Last Updated: 2/2/2023*
 
 ![Image of a sliding window](../images/patterns/sliding-window/sliding-window.png)
 
@@ -25,6 +25,8 @@ There are two types:
   e. For example, expand the subarray until the sum is at least 7. Shrink the window from here to see what the shortest subarray is with a sum of at least 7.
 
 The dynamic sliding window sometimes might be used with a set or map to keep track of things.
+
+There are also situations where you can map prefix sums.
 
 ## :round_pushpin: Recognition
 Things to look out for (signs of a sliding window pattern).
