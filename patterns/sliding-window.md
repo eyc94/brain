@@ -119,7 +119,7 @@ class AverageOfSubarrayOfSizeK {
 
 ***NOTE:*** In some cases, the sliding window is not of fixed size. We have to expand/shrink the window based on the problem constraints.
 
-## :round_pushpin: Leetcode Problems ![14/23 = 61%](https://progress-bar.dev/61)
+## :round_pushpin: Leetcode Problems ![15/23 = 65%](https://progress-bar.dev/65)
 
 - [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
@@ -141,7 +141,7 @@ class AverageOfSubarrayOfSizeK {
 - [x] 1004. [Max Consecutive Ones III (Medium)](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 - [ ] 1234. [Replace the Substring for Balanced String (Medium)](https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/)
 - [ ] 1248. [Count Number of Nice Subarrays (Medium)](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
-- [ ] 1358. [Number of Substrings Containing All Three Characters (Medium)](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
+- [x] 1358. [Number of Substrings Containing All Three Characters (Medium)](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 - [ ] 1695. [Maximum Erasure Value (Medium)](https://leetcode.com/problems/maximum-erasure-value/)
 - [ ] 2260. [Minimum Consecutive Cards to Pick Up (Medium)](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
 
