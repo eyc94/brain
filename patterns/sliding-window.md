@@ -119,7 +119,7 @@ class AverageOfSubarrayOfSizeK {
 
 ***NOTE:*** In some cases, the sliding window is not of fixed size. We have to expand/shrink the window based on the problem constraints.
 
-## :round_pushpin: Leetcode Problems ![18/23 = 78%](https://progress-bar.dev/78)
+## :round_pushpin: Leetcode Problems ![19/23 = 83%](https://progress-bar.dev/83)
 
 - [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
@@ -134,7 +134,7 @@ class AverageOfSubarrayOfSizeK {
 - [ ] 438. [Find All Anagrams in a String (Medium)](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [x] 560. [Subarray Sum Equals K (Medium)](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [x] 567. [Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)
-- [ ] 862. [Shortest Subarray with Sum at Least K (Hard)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
+- [x] 862. [Shortest Subarray with Sum at Least K (Hard)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
 - [x] 904. [Fruits Into Baskets (Medium)](https://leetcode.com/problems/fruit-into-baskets/)
 - [x] 930. [Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
 - [x] 992. [Subarrays with K Different Integers (Hard)](https://leetcode.com/problems/subarrays-with-k-different-integers/)
