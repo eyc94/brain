@@ -119,7 +119,7 @@ class AverageOfSubarrayOfSizeK {
 
 ***NOTE:*** In some cases, the sliding window is not of fixed size. We have to expand/shrink the window based on the problem constraints.
 
-## :round_pushpin: Leetcode Problems ![20/23 = 87%](https://progress-bar.dev/87)
+## :round_pushpin: Leetcode Problems ![21/23 = 91%](https://progress-bar.dev/91)
 
 - [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
@@ -143,7 +143,7 @@ class AverageOfSubarrayOfSizeK {
 - [x] 1248. [Count Number of Nice Subarrays (Medium)](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)
 - [x] 1358. [Number of Substrings Containing All Three Characters (Medium)](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
 - [x] 1695. [Maximum Erasure Value (Medium)](https://leetcode.com/problems/maximum-erasure-value/)
-- [ ] 2260. [Minimum Consecutive Cards to Pick Up (Medium)](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
+- [x] 2260. [Minimum Consecutive Cards to Pick Up (Medium)](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
 
 ## :round_pushpin: Sources
 *List to be updated...*
