@@ -94,9 +94,36 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![0/x = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![0/28 = 0%](https://progress-bar.dev/0)
 
-- [ ] 1. [Name (Medium)](https://link)
+- [ ] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
+- [ ] 15. [3Sum (Medium)](https://leetcode.com/problems/3sum/)
+- [ ] 16. [3Sum Closest (Medium)](https://leetcode.com/problems/3sum-closest/)
+- [ ] 18. [4Sum (Medium)](https://leetcode.com/problems/4sum/)
+- [ ] 26. [Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [ ] 27. [Remove Element (Easy)](https://leetcode.com/problems/remove-element/)
+- [ ] 75. [Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/)
+- [ ] 80. [Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- [ ] 88. [Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/)
+- [ ] 167. [Two Sum II - Input Array Is Sorted (Medium)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [ ] 170. [Two Sum III - Data Structure Design (Easy)](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
+- [ ] 259. [3Sum Smaller (Medium)](https://leetcode.com/problems/3sum-smaller/)
+- [ ] 283. [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/)
+- [ ] 454. [4Sum II (Medium)](https://leetcode.com/problems/4sum-ii/)
+- [ ] 581. [Shortest Unsorted Continuous Subarray (Medium)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+- [ ] 821. [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+- [ ] 844. [Backspace String Compare (Easy)](https://leetcode.com/problems/backspace-string-compare/)
+- [ ] 977. [Squares of a Sorted Array(Easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [ ] 1099. [Two Sum Less Than K (Easy)](https://leetcode.com/problems/two-sum-less-than-k/)
+- [ ] 1679. [Max Number of K-Sum Pairs (Medium)](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+- [ ] 1711. [Count Good Meals (Medium)](https://leetcode.com/problems/count-good-meals/)
+- [ ] 2367. [Number of Arithmetic Triplets (Easy)](https://leetcode.com/problems/number-of-arithmetic-triplets/)
+- [ ] 2395. [Find Subarrays With Equal Sum (Easy)](https://leetcode.com/problems/find-subarrays-with-equal-sum/)
+- [ ] 2399. [Check Distances Between Same Letters (Easy)](https://leetcode.com/problems/check-distances-between-same-letters/)
+- [ ] 2441. [Largest Positive Integer That Exists With Its Negative (Easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
+- [ ] 2465. [Number of Distinct Averages (Easy)](https://leetcode.com/problems/number-of-distinct-averages/)
+- [ ] 2475. [Number of Unequal Triplets in Array (Easy)](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
+- [ ] 2491. [Divide Players Into Teams of Equal Skill (Medium)](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)
 
 ## :round_pushpin: Sources
 *List to be updated...*
