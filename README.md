@@ -140,7 +140,7 @@ Patterns are a tool to solve specific categories of problems.
 
 
 - [Sliding Window](patterns/sliding-window.md)
-- Two Pointers
+- [Two Pointers](patterns/two-pointers.md)
 - Fast and Slow Pointers
 - Intervals
 - Linked Lists Reversals
