@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![21/26 = 81%](https://progress-bar.dev/81)
+## :round_pushpin: Leetcode Problems ![22/26 = 85%](https://progress-bar.dev/85)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
@@ -127,7 +127,7 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 2441. [Largest Positive Integer That Exists With Its Negative (Easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
   - This is not a two pointers problem. I think this is a map/set problem.
 - [x] 2465. [Number of Distinct Averages (Easy)](https://leetcode.com/problems/number-of-distinct-averages/)
-- [ ] 2491. [Divide Players Into Teams of Equal Skill (Medium)](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)
+- [x] 2491. [Divide Players Into Teams of Equal Skill (Medium)](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)
 
 ## :round_pushpin: Sources
 *List to be updated...*
