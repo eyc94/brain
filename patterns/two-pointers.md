@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![4/28 = 14%](https://progress-bar.dev/14)
+## :round_pushpin: Leetcode Problems ![5/28 = 18%](https://progress-bar.dev/18)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
@@ -102,7 +102,7 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 15. [3Sum (Medium)](https://leetcode.com/problems/3sum/)
 - [x] 16. [3Sum Closest (Medium)](https://leetcode.com/problems/3sum-closest/)
 - [x] 18. [4Sum (Medium)](https://leetcode.com/problems/4sum/)
-- [ ] 26. [Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [x] 26. [Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 - [ ] 27. [Remove Element (Easy)](https://leetcode.com/problems/remove-element/)
 - [ ] 75. [Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/)
 - [ ] 80. [Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
