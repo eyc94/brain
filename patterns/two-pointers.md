@@ -127,7 +127,6 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 2441. [Largest Positive Integer That Exists With Its Negative (Easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
   - This is not a two pointers problem. I think this is a map/set problem.
 - [x] 2465. [Number of Distinct Averages (Easy)](https://leetcode.com/problems/number-of-distinct-averages/)
-- [ ] 2475. [Number of Unequal Triplets in Array (Easy)](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
 - [ ] 2491. [Divide Players Into Teams of Equal Skill (Medium)](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)
 
 ## :round_pushpin: Sources
