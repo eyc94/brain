@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![21/27 = 78%](https://progress-bar.dev/78)
+## :round_pushpin: Leetcode Problems ![21/26 = 81%](https://progress-bar.dev/81)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
