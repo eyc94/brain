@@ -99,6 +99,7 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
   - I only added this problem because, IF ORIGINALLY SORTED, we can use two pointers on both ends.
+  - See problem #167 below.
 - [x] 15. [3Sum (Medium)](https://leetcode.com/problems/3sum/)
 - [x] 16. [3Sum Closest (Medium)](https://leetcode.com/problems/3sum-closest/)
 - [x] 18. [4Sum (Medium)](https://leetcode.com/problems/4sum/)
