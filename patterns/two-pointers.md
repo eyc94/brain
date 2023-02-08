@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![14/27 = 52%](https://progress-bar.dev/52)
+## :round_pushpin: Leetcode Problems ![15/27 = 56%](https://progress-bar.dev/56)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
@@ -115,7 +115,7 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 581. [Shortest Unsorted Continuous Subarray (Medium)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [x] 821. [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 - [ ] 844. [Backspace String Compare (Easy)](https://leetcode.com/problems/backspace-string-compare/)
-- [ ] 977. [Squares of a Sorted Array(Easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x] 977. [Squares of a Sorted Array(Easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [ ] 1099. [Two Sum Less Than K (Easy)](https://leetcode.com/problems/two-sum-less-than-k/)
 - [ ] 1679. [Max Number of K-Sum Pairs (Medium)](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 - [ ] 1711. [Count Good Meals (Medium)](https://leetcode.com/problems/count-good-meals/)
