@@ -112,7 +112,6 @@ public static int isPairSum(int[] arr, int target) {
 - [ ] 170. [Two Sum III - Data Structure Design (Easy)](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
 - [x] 259. [3Sum Smaller (Medium)](https://leetcode.com/problems/3sum-smaller/)
 - [x] 283. [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/)
-- [ ] 454. [4Sum II (Medium)](https://leetcode.com/problems/4sum-ii/)
 - [ ] 581. [Shortest Unsorted Continuous Subarray (Medium)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [ ] 821. [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 - [ ] 844. [Backspace String Compare (Easy)](https://leetcode.com/problems/backspace-string-compare/)
