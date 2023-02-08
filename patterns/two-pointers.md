@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![18/27 = 67%](https://progress-bar.dev/67)
+## :round_pushpin: Leetcode Problems ![19/27 = 70%](https://progress-bar.dev/70)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
@@ -122,7 +122,8 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 2367. [Number of Arithmetic Triplets (Easy)](https://leetcode.com/problems/number-of-arithmetic-triplets/)
 - [x] 2395. [Find Subarrays With Equal Sum (Easy)](https://leetcode.com/problems/find-subarrays-with-equal-sum/)
   - I believe this problem is a Sliding Window problem, but I'll just leave this here.
-- [ ] 2399. [Check Distances Between Same Letters (Easy)](https://leetcode.com/problems/check-distances-between-same-letters/)
+- [x] 2399. [Check Distances Between Same Letters (Easy)](https://leetcode.com/problems/check-distances-between-same-letters/)
+  - This is not a two pointers problem. I think this is a map/set problem.
 - [ ] 2441. [Largest Positive Integer That Exists With Its Negative (Easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
 - [ ] 2465. [Number of Distinct Averages (Easy)](https://leetcode.com/problems/number-of-distinct-averages/)
 - [ ] 2475. [Number of Unequal Triplets in Array (Easy)](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)
