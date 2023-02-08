@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![9/28 = 32%](https://progress-bar.dev/32)
+## :round_pushpin: Leetcode Problems ![10/28 = 36%](https://progress-bar.dev/36)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
@@ -107,7 +107,7 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 75. [Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/)
 - [x] 80. [Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [x] 88. [Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] 167. [Two Sum II - Input Array Is Sorted (Medium)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [x] 167. [Two Sum II - Input Array Is Sorted (Medium)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - [ ] 170. [Two Sum III - Data Structure Design (Easy)](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
 - [ ] 259. [3Sum Smaller (Medium)](https://leetcode.com/problems/3sum-smaller/)
 - [ ] 283. [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/)
