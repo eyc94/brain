@@ -21,9 +21,9 @@
 ## :round_pushpin: Types
 - Cycle detection.
 
-## :round_pushpin: Leetcode Problems ![0/7 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![1/7 = 14%](https://progress-bar.dev/14)
 
-- [ ] 141. [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
+- [x] 141. [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] 142. [Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [ ] 143. [Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)
 - [ ] 202. [Happy Number (Easy)](https://leetcode.com/problems/happy-number/)
