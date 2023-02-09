@@ -21,7 +21,7 @@
 ## :round_pushpin: Types
 - Cycle detection.
 
-## :round_pushpin: Leetcode Problems ![2/7 = 29%](https://progress-bar.dev/29)
+## :round_pushpin: Leetcode Problems ![3/7 = 43%](https://progress-bar.dev/43)
 
 - [x] 141. [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
 - [x] 142. [Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii/)
