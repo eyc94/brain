@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![24/26 = 92%](https://progress-bar.dev/92)
+## :round_pushpin: Leetcode Problems ![25/26 = 96%](https://progress-bar.dev/96)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
@@ -118,7 +118,8 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 977. [Squares of a Sorted Array(Easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [x] 1099. [Two Sum Less Than K (Easy)](https://leetcode.com/problems/two-sum-less-than-k/)
 - [x] 1679. [Max Number of K-Sum Pairs (Medium)](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
-- [ ] 1711. [Count Good Meals (Medium)](https://leetcode.com/problems/count-good-meals/)
+- [x] 1711. [Count Good Meals (Medium)](https://leetcode.com/problems/count-good-meals/)
+  - This is actually a map/set problem.
 - [x] 2367. [Number of Arithmetic Triplets (Easy)](https://leetcode.com/problems/number-of-arithmetic-triplets/)
 - [x] 2395. [Find Subarrays With Equal Sum (Easy)](https://leetcode.com/problems/find-subarrays-with-equal-sum/)
   - I believe this problem is a Sliding Window problem, but I'll just leave this here.
