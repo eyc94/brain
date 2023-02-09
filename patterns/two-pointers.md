@@ -94,7 +94,7 @@ public static int isPairSum(int[] arr, int target) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![25/26 = 96%](https://progress-bar.dev/96)
+## :round_pushpin: Leetcode Problems ![26/26 = 100%](https://progress-bar.dev/100)
 
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
   - This problem is actually a Hash Map/Table problem.
@@ -109,7 +109,7 @@ public static int isPairSum(int[] arr, int target) {
 - [x] 80. [Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [x] 88. [Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/)
 - [x] 167. [Two Sum II - Input Array Is Sorted (Medium)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-- [ ] 170. [Two Sum III - Data Structure Design (Easy)](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
+- [x] 170. [Two Sum III - Data Structure Design (Easy)](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
 - [x] 259. [3Sum Smaller (Medium)](https://leetcode.com/problems/3sum-smaller/)
 - [x] 283. [Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes/)
 - [x] 581. [Shortest Unsorted Continuous Subarray (Medium)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
