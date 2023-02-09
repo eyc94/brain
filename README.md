@@ -141,7 +141,7 @@ Patterns are a tool to solve specific categories of problems.
 
 - [Sliding Window](patterns/sliding-window.md)
 - [Two Pointers](patterns/two-pointers.md)
-- Fast and Slow Pointers
+- [Fast and Slow Pointers](patterns/fast-and-slow-pointers.md)
 - Intervals
 - Linked Lists Reversals
 - Two Heaps
