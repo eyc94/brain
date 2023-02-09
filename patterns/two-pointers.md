@@ -1,7 +1,7 @@
 # :heavy_check_mark: Two Pointers
 *Last Updated: 2/8/2023*
 
-![Image of a sliding window](../images/patterns/two-pointers/two-pointers.png)
+![Image of a two pointers](../images/patterns/two-pointers/two-pointers.png)
 
 ## :round_pushpin: Introduction
 In problems where we deal with sorted arrays (or Linked Lists) and need to find a set of elements that fulfill certain constraints, the `Two Pointers` approach is useful.
