@@ -1,8 +1,6 @@
 # :heavy_check_mark: Two Pointers
 *Last Updated: 2/8/2023*
 
-Update below this...
-
 ![Image of a sliding window](../images/patterns/two-pointers/two-pointers.png)
 
 ## :round_pushpin: Introduction
