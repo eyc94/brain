@@ -12,12 +12,12 @@
 - Requires backtracking on a linked list.
 - Rearranging a linked list.
 
-## :round_pushpin: Leetcode Problems ![2/20 = 20%](https://progress-bar.dev/20)
+## :round_pushpin: Leetcode Problems ![3/30 = 30%](https://progress-bar.dev/30)
 
 - [ ] 19. [Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - I believe this is actually a Two Pointers question or a Fast & Slow Pointers question.
 - [ ] 24. [Swap Nodes in Pairs (Medium)](https://leetcode.com/problems/swap-nodes-in-pairs/)
-- [ ] 25. [Reverse Ndoes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [x] 25. [Reverse Ndoes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [ ] 61. [Rotate List (Medium)](https://leetcode.com/problems/rotate-list/)
 - [x] 92. [Reverse Linked List II (Medium)](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [ ] 189. [Rotate Array (Medium)](https://leetcode.com/problems/rotate-array/)
