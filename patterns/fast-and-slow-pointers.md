@@ -21,11 +21,11 @@
 ## :round_pushpin: Types
 - Cycle detection.
 
-## :round_pushpin: Leetcode Problems ![5/7 = 71%](https://progress-bar.dev/71)
+## :round_pushpin: Leetcode Problems ![6/7 = 86%](https://progress-bar.dev/86)
 
 - [x] 141. [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
 - [x] 142. [Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [ ] 143. [Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)
+- [x] 143. [Reorder List (Medium)](https://leetcode.com/problems/reorder-list/)
 - [x] 202. [Happy Number (Easy)](https://leetcode.com/problems/happy-number/)
 - [x] 234. [Palindrome Linked List (Easy)](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] 457. [Circular Array Loop (Medium)](https://leetcode.com/problems/circular-array-loop/)
