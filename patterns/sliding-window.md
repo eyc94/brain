@@ -119,13 +119,15 @@ class AverageOfSubarrayOfSizeK {
 
 ***NOTE:*** In some cases, the sliding window is not of fixed size. We have to expand/shrink the window based on the problem constraints.
 
-## :round_pushpin: Leetcode Problems ![23/23 = 100%](https://progress-bar.dev/100)
+## :round_pushpin: Leetcode Problems ![23/26 = 88%](https://progress-bar.dev/88)
 
 - [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [x] 30. [Substring with Concatenation of All Words (Hard)](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [x] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
 - [x] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] 121. [Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] 159. [Longest Substring with At Most Two Distinct Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
+- [ ] 187. [Repeated DNA Sequences (Medium)](https://leetcode.com/problems/repeated-dna-sequences/)
 - [x] 209. [Minimum Size Subarray Sum (Medium)](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [x] 239. [Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum/)
 - [x] 325. [Maximum Size Subarray Sum Equals k (Medium)](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
@@ -134,6 +136,7 @@ class AverageOfSubarrayOfSizeK {
 - [x] 438. [Find All Anagrams in a String (Medium)](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [x] 560. [Subarray Sum Equals K (Medium)](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [x] 567. [Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string/)
+- [ ] 727. [Minimum Window Subsequence (Hard)](https://leetcode.com/problems/minimum-window-subsequence/)
 - [x] 862. [Shortest Subarray with Sum at Least K (Hard)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/)
 - [x] 904. [Fruits Into Baskets (Medium)](https://leetcode.com/problems/fruit-into-baskets/)
 - [x] 930. [Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
