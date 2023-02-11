@@ -12,7 +12,7 @@
 - Requires backtracking on a linked list.
 - Rearranging a linked list.
 
-## :round_pushpin: Leetcode Problems ![5/11 = 45%](https://progress-bar.dev/45)
+## :round_pushpin: Leetcode Problems ![6/11 = 55%](https://progress-bar.dev/55)
 
 - [ ] 19. [Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - I believe this is actually a Two Pointers question or a Fast & Slow Pointers question.
@@ -30,7 +30,7 @@
 - [x] 1721. [Swapping Nodes in a Linked List (Medium)](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
   - This can be both a two pointers and linked list reversal/relinking.
   - In this, I swapped *values* and not *nodes*.
-- [ ] 2074. [Reverse Nodes in Even Length Groups (Medium)](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
+- [x] 2074. [Reverse Nodes in Even Length Groups (Medium)](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
 
 
 ## :round_pushpin: Sources
