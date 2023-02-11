@@ -1,5 +1,5 @@
 # :heavy_check_mark: Linked List Reversals
-*Last Updated: 2/10/2023*
+*Last Updated: 2/11/2023*
 
 ![Image of a linked list reversal](../images/patterns/linked-list-reversals/linked-list-reversal.png)
 
