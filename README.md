@@ -146,7 +146,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Two Heaps](patterns/two-heaps.md)
 - [ ] [Tree Breadth First Search (BFS)](patterns/tree-breadth-first-search.md)
 - [ ] [Tree Depth First Search (DFS)](patterns/tree-depth-first-search.md)
-- [ ] Subsets
+- [ ] [Subsets](patterns/subsets.md)
 - [ ] [K-Way Merge](patterns/k-way-merge.md)
 - [ ] [Top K Elements](patterns/top-k-elements.md)
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md)
