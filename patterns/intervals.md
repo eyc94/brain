@@ -32,12 +32,12 @@
     - Regardless of the 4 scenarios mentioned, we take the **minimum of the start of A and B** and the **maximum of the end of A and B**. These two values gives us the new overlapped interval `C` with the new min and max (i.e. start and end).
 
 
-## :round_pushpin: Leetcode Problems ![5/7 = 71%](https://progress-bar.dev/71)
+## :round_pushpin: Leetcode Problems ![6/7 = 86%](https://progress-bar.dev/86)
 
 - [x] 56. [Merge Intervals (Medium)](https://leetcode.com/problems/merge-intervals/)
 - [x] 57. [Insert Interval (Medium)](https://leetcode.com/problems/insert-interval/)
 - [x] 253. [Meeting Rooms II (Medium)](https://leetcode.com/problems/meeting-rooms-ii/)
-- [ ] 435. [Non-overlapping Intervals (Medium)](https://leetcode.com/problems/non-overlapping-intervals/)
+- [x] 435. [Non-overlapping Intervals (Medium)](https://leetcode.com/problems/non-overlapping-intervals/)
 - [x] 759. [Employee Free Time (Hard)](https://leetcode.com/problems/employee-free-time/)
 - [x] 986. [Interval List Intersections (Medium)](https://leetcode.com/problems/interval-list-intersections/)
 - [ ] 2402. [Meeting Rooms III (Hard)](https://leetcode.com/problems/meeting-rooms-iii/)
