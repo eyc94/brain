@@ -138,13 +138,14 @@ There are many types of sorting algorithms:
 ## :round_pushpin: Patterns & Techniques
 Patterns are a tool to solve specific categories of problems.
 
-
 - [x] [Sliding Window](patterns/sliding-window.md)
 - [x] [Two Pointers](patterns/two-pointers.md)
 - [x] [Fast and Slow Pointers](patterns/fast-and-slow-pointers.md)
 - [x] [Intervals](patterns/intervals.md)
 - [x] [Linked Lists Reversals](patterns/linked-list-reversals.md)
 - [ ] [Two Heaps](patterns/two-heaps.md)
+- [ ] [Tree Breadth First Search (BFS)](patterns/tree-breadth-first-search.md)
+- [ ] Tree Depth First Search (DFS)
 - [ ] [K-Way Merge](patterns/k-way-merge.md)
 - [ ] [Top K Elements](patterns/top-k-elements.md)
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md)
@@ -155,8 +156,6 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] Cyclic Sort
 - [ ] Topological Sort
 - [ ] Stacks
-- [ ] Tree DFS
-- [ ] Tree BFS
 - [ ] Trie
 - [ ] Hash Maps
 - [ ] Union Find
