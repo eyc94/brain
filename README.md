@@ -158,7 +158,9 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] Stacks
 - [ ] Trie
 - [ ] Hash Maps
+- [ ] Knowing What to Track
 - [ ] Union Find
+- [ ] Custom Data Structures
 - [ ] [Bitwise Manipulation](patterns/bitwise-manipulation.md)
 
 ## :round_pushpin: Java Utilities
