@@ -147,7 +147,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Two Heaps](patterns/two-heaps.md)
 - [ ] [K-Way Merge](patterns/k-way-merge.md)
 - [ ] [Top K Elements](patterns/top-k-elements.md)
-- [ ] Binary Search
+- [ ] [Modified Binary Search](patterns/modified-binary-search.md)
 - [ ] Subsets
 - [ ] Greedy
 - [ ] Backtracking
