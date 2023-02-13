@@ -151,7 +151,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Top K Elements](patterns/top-k-elements.md)
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md)
 - [ ] [Greedy](patterns/greedy.md)
-- [ ] Backtracking
+- [ ] [Backtracking](patterns/backtracking.md)
 - [ ] Dynamic Programming
 - [ ] Cyclic Sort
 - [ ] Topological Sort
