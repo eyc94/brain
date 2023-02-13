@@ -144,7 +144,7 @@ Patterns are a tool to solve specific categories of problems.
 - [Fast and Slow Pointers](patterns/fast-and-slow-pointers.md)
 - [Intervals](patterns/intervals.md)
 - [Linked Lists Reversals](patterns/linked-list-reversals.md)
-- Two Heaps
+- [Two Heaps](patterns/two-heaps.md)
 - K-Way Merge
 - Top K Elements
 - Binary Search
