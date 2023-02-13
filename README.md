@@ -150,7 +150,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [K-Way Merge](patterns/k-way-merge.md)
 - [ ] [Top K Elements](patterns/top-k-elements.md)
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md)
-- [ ] Greedy
+- [ ] [Greedy](patterns/greedy.md)
 - [ ] Backtracking
 - [ ] Dynamic Programming
 - [ ] Cyclic Sort
