@@ -1,7 +1,7 @@
 # :heavy_check_mark: K-way Merge
 *Last Updated: 2/12/2023*
 
-![Image of a two heaps](../images/patterns/k-way-merge/k-way-merge.png)
+![Image of k-way merge](../images/patterns/k-way-merge/k-way-merge.png)
 
 ## :round_pushpin: Introduction
 - This pattern helps us solve problems that involve a list of sorted arrays.
