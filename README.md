@@ -146,21 +146,21 @@ Patterns are a tool to solve specific categories of problems.
 - [x] [Linked Lists Reversals](patterns/linked-list-reversals.md)
 - [ ] [Two Heaps](patterns/two-heaps.md)
 - [ ] [K-Way Merge](patterns/k-way-merge.md)
-- Top K Elements
-- Binary Search
-- Subsets
-- Greedy
-- Backtracking
-- Dynamic Programming
-- Cyclic Sort
-- Topological Sort
-- Stacks
-- Tree DFS
-- Tree BFS
-- Trie
-- Hash Maps
-- Union Find
-- Bitwise Manipulation
+- [ ] Top K Elements
+- [ ] Binary Search
+- [ ] Subsets
+- [ ] Greedy
+- [ ] Backtracking
+- [ ] Dynamic Programming
+- [ ] Cyclic Sort
+- [ ] Topological Sort
+- [ ] Stacks
+- [ ] Tree DFS
+- [ ] Tree BFS
+- [ ] Trie
+- [ ] Hash Maps
+- [ ] Union Find
+- [ ] Bitwise Manipulation
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
