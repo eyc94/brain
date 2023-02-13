@@ -139,13 +139,13 @@ There are many types of sorting algorithms:
 Patterns are a tool to solve specific categories of problems.
 
 
-- [Sliding Window](patterns/sliding-window.md)
-- [Two Pointers](patterns/two-pointers.md)
-- [Fast and Slow Pointers](patterns/fast-and-slow-pointers.md)
-- [Intervals](patterns/intervals.md)
-- [Linked Lists Reversals](patterns/linked-list-reversals.md)
-- [Two Heaps](patterns/two-heaps.md)
-- K-Way Merge
+- [x] [Sliding Window](patterns/sliding-window.md)
+- [x] [Two Pointers](patterns/two-pointers.md)
+- [x] [Fast and Slow Pointers](patterns/fast-and-slow-pointers.md)
+- [x] [Intervals](patterns/intervals.md)
+- [x] [Linked Lists Reversals](patterns/linked-list-reversals.md)
+- [ ] [Two Heaps](patterns/two-heaps.md)
+- [ ] K-Way Merge
 - Top K Elements
 - Binary Search
 - Subsets
