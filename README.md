@@ -159,7 +159,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] Trie
 - [ ] Hash Maps
 - [ ] Union Find
-- [ ] Bitwise Manipulation
+- [ ] [Bitwise Manipulation](patterns/bitwise-manipulation.md)
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
