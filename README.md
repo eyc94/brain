@@ -152,7 +152,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md)
 - [ ] [Greedy](patterns/greedy.md)
 - [ ] [Backtracking](patterns/backtracking.md)
-- [ ] Dynamic Programming
+- [ ] [Dynamic Programming](patterns/dynamic-programming.md)
 - [ ] Cyclic Sort
 - [ ] Topological Sort
 - [ ] Stacks
