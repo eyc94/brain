@@ -145,11 +145,11 @@ Patterns are a tool to solve specific categories of problems.
 - [x] [Linked Lists Reversals](patterns/linked-list-reversals.md)
 - [ ] [Two Heaps](patterns/two-heaps.md)
 - [ ] [Tree Breadth First Search (BFS)](patterns/tree-breadth-first-search.md)
-- [ ] Tree Depth First Search (DFS)
+- [ ] [Tree Depth First Search (DFS)](patterns/tree-depth-first-search.md)
+- [ ] Subsets
 - [ ] [K-Way Merge](patterns/k-way-merge.md)
 - [ ] [Top K Elements](patterns/top-k-elements.md)
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md)
-- [ ] Subsets
 - [ ] Greedy
 - [ ] Backtracking
 - [ ] Dynamic Programming
