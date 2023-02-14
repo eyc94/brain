@@ -11,9 +11,9 @@
 ## :round_pushpin: Requirements
 - Problems that involve traversing a tree level by level can solved efficiently using this approach.
 
-## :round_pushpin: Leetcode Problems ![0/10 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![1/10 = 10%](https://progress-bar.dev/10)
 
-- [ ] 102. [Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] 102. [Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] 103. [Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [ ] 107. [Binary Tree Level Order Traversal II (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [ ] 111. [Minimum Depth of Binary Tree (Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
