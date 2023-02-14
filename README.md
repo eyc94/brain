@@ -157,7 +157,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Topological Sort](patterns/topological-sort.md)
 - [ ] [Stacks](patterns/stacks.md)
 - [ ] [Trie](patterns/trie.md)
-- [ ] Hash Maps
+- [ ] [Hash Maps](patterns/hash-maps.md)
 - [ ] Knowing What to Track
 - [ ] Union Find
 - [ ] Custom Data Structures
