@@ -1,5 +1,5 @@
 # :heavy_check_mark: Tree Breadth First Search
-*Last Updated: 2/12/2023*
+*Last Updated: 2/14/2023*
 
 ![Image of tree breadth first search](../images/patterns/tree-breadth-first-search/tree-breadth-first-search.png)
 
@@ -11,10 +11,56 @@
 ## :round_pushpin: Requirements
 - Problems that involve traversing a tree level by level can solved efficiently using this approach.
 
-## :round_pushpin: Leetcode Problems ![1/10 = 10%](https://progress-bar.dev/10)
+## :round_pushpin: Examples
+Imagine a class `TreeNode` that represents the nodes of a binary tree. This class has properties `val`, `left` and `right`.
+
+Below is an example of using a `Queue` data structure to traverse a `Binary Tree` in level-order. It is a generic template:
+
+```java
+public class TreeNode {
+  int val;
+  TreeNode left;
+  TreeNode right;
+  TreeNode() {}
+  TreeNode(int val) { this.val = val; }
+  TreeNode(int val, TreeNode left, TreeNode right) {
+    this.val = val;
+    this.left = left;
+    this.right = right;
+  }
+}
+
+public List<List<Integer>> levelOrderTraversal(TreeNode root) {
+  List<List<Integer>> result = new ArrayList<>();
+  Queue<TreeNode> bfsQueue = new LinkedList<>();
+  bfsQueue.offer(root);
+
+  while (!bfsQueue.isEmpty()) {
+    int levelSize = bfsQueue.size();
+
+    List<Integer> currentLevel = new ArrayList<>();
+    for (int i = 0; i < levelSize; i++) {
+      TreeNode currentNode = bfsQueue.poll();
+      currentLevel.add(currentNode.val);
+      if (currentNode.left != null) {
+        bfsQueue.offer(currentNode.left);
+      }
+
+      if (currentNode.right != null) {
+        bfsQueue.offer(currentNode.right);
+      }
+    }
+    result.add(currentLevel);
+  }
+
+  return result;
+}
+```
+
+## :round_pushpin: Leetcode Problems ![2/10 = 20%](https://progress-bar.dev/20)
 
 - [x] 102. [Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] 103. [Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [x] 103. [Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [ ] 107. [Binary Tree Level Order Traversal II (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [ ] 111. [Minimum Depth of Binary Tree (Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] 116. [Populating Next Right Pointers in Each Node (Medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
