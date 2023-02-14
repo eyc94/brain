@@ -155,7 +155,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Dynamic Programming](patterns/dynamic-programming.md)
 - [ ] [Cyclic Sort](patterns/cyclic-sort.md)
 - [ ] [Topological Sort](patterns/topological-sort.md)
-- [ ] Stacks
+- [ ] [Stacks](patterns/stacks.md)
 - [ ] Trie
 - [ ] Hash Maps
 - [ ] Knowing What to Track
