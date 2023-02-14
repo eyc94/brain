@@ -57,12 +57,12 @@ public List<List<Integer>> levelOrderTraversal(TreeNode root) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![3/10 = 30%](https://progress-bar.dev/30)
+## :round_pushpin: Leetcode Problems ![4/10 = 40%](https://progress-bar.dev/40)
 
 - [x] 102. [Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [x] 103. [Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [x] 107. [Binary Tree Level Order Traversal II (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-- [ ] 111. [Minimum Depth of Binary Tree (Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- [x] 111. [Minimum Depth of Binary Tree (Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] 116. [Populating Next Right Pointers in Each Node (Medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - [ ] 117. [Populating Next Right Pointers in Each Node (Medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)
 - [ ] 199. [Binary Tree Right Side View (Medium)](https://leetcode.com/problems/binary-tree-right-side-view/)
