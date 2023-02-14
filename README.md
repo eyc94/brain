@@ -160,7 +160,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Hash Maps](patterns/hash-maps.md)
 - [ ] [Union Find](patterns/union-find.md)
 - [ ] [Bitwise Manipulation](patterns/bitwise-manipulation.md)
-- [ ] Custom Data Structures
+- [ ] [Custom Data Structures](patterns/custom-data-structures.md)
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
