@@ -144,7 +144,7 @@ Patterns are a tool to solve specific categories of problems.
 - [x] [Intervals](patterns/intervals.md)
 - [x] [Linked Lists Reversals](patterns/linked-list-reversals.md)
 - [ ] [Two Heaps](patterns/two-heaps.md)
-- [ ] [Tree Breadth First Search (BFS)](patterns/tree-breadth-first-search.md)
+- [x] [Tree Breadth First Search (BFS)](patterns/tree-breadth-first-search.md)
 - [ ] [Tree Depth First Search (DFS)](patterns/tree-depth-first-search.md)
 - [ ] [Subsets](patterns/subsets.md)
 - [ ] [K-Way Merge](patterns/k-way-merge.md)
