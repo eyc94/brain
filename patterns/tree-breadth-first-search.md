@@ -57,7 +57,7 @@ public List<List<Integer>> levelOrderTraversal(TreeNode root) {
 }
 ```
 
-## :round_pushpin: Leetcode Problems ![8/10 = 80%](https://progress-bar.dev/80)
+## :round_pushpin: Leetcode Problems ![9/10 = 90%](https://progress-bar.dev/90)
 
 - [x] 102. [Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [x] 103. [Binary Tree Zigzag Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
@@ -68,7 +68,7 @@ public List<List<Integer>> levelOrderTraversal(TreeNode root) {
 - [x] 199. [Binary Tree Right Side View (Medium)](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [x] 637. [Average of Levels in Binary Tree (Easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [ ] 987. [Vertical Order Traversal of a Binary Tree (Hard)](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
-- [ ] 993. [Cousins in Binary Tree (Easy)](https://leetcode.com/problems/cousins-in-binary-tree/)
+- [x] 993. [Cousins in Binary Tree (Easy)](https://leetcode.com/problems/cousins-in-binary-tree/)
 
 ## :round_pushpin: Sources
 *List to be updated...*
