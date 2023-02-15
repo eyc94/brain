@@ -12,10 +12,10 @@
 - Calculating the accumulation of something.
 - Usually involves a path.
 
-## :round_pushpin: Leetcode Problems ![1/12 = 8%](https://progress-bar.dev/8)
+## :round_pushpin: Leetcode Problems ![2/12 = 17%](https://progress-bar.dev/17)
 
 - [x] 104. [Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] 112. [Path Sum (Easy)](https://leetcode.com/problems/path-sum/)
+- [x] 112. [Path Sum (Easy)](https://leetcode.com/problems/path-sum/)
 - [ ] 113. [Path Sum II (Medium)](https://leetcode.com/problems/path-sum-ii/)
 - [ ] 114. [Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 - [ ] 124. [Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
