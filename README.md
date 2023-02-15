@@ -162,6 +162,31 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Bitwise Manipulation](patterns/bitwise-manipulation.md)
 - [ ] [Custom Data Structures](patterns/custom-data-structures.md)
 
+## :round_pushpin: Top Leetcode Questions
+Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) post and Needcode's curated [list](https://neetcode.io/roadmap).
+- ***NOTE:*** Some questions are in the `Patterns & Techniques` section above.
+- See [this](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) for a fast Leetcode link to curated list.
+
+### Array
+
+### Binary
+
+### Interval
+
+### Linked List
+
+### Matrix
+
+### String
+
+### Tree
+
+### Graph
+
+### Heap
+
+### Dynamic Programming
+
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
 - Java `Collections` class.
