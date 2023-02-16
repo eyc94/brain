@@ -1,5 +1,5 @@
 # :heavy_check_mark: Tree Depth First Search
-*Last Updated: 2/12/2023*
+*Last Updated: 2/16/2023*
 
 ![Image of tree depth first search](../images/patterns/tree-depth-first-search/tree-depth-first-search.png)
 
