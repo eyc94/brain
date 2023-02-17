@@ -12,7 +12,7 @@
 - Calculating the accumulation of something.
 - Usually involves a path.
 
-## :round_pushpin: Leetcode Problems ![9/12 = 75%](https://progress-bar.dev/75)
+## :round_pushpin: Leetcode Problems ![10/12 = 83%](https://progress-bar.dev/83)
 
 - [x] 104. [Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [x] 112. [Path Sum (Easy)](https://leetcode.com/problems/path-sum/)
@@ -25,7 +25,7 @@
 - [ ] 297. [Serialize and Deserialize Binary Tree (Hard)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [x] 437. [Path Sum III (Medium)](https://leetcode.com/problems/path-sum-iii/)
 - [x] 543. [Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree/)
-- [ ] 1430. [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (Medium)](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)
+- [x] 1430. [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (Medium)](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)
 
 ## :round_pushpin: Sources
 *List to be updated...*
