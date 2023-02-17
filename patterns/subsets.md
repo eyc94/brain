@@ -10,11 +10,11 @@
 ## :round_pushpin: Requirements
 - Usually can tell if there's backtracking of some sort involved.
 
-## :round_pushpin: Leetcode Problems ![2/10 = 20%](https://progress-bar.dev/20)
+## :round_pushpin: Leetcode Problems ![3/10 = 30%](https://progress-bar.dev/30)
 
 - [ ] 17. [Letter Combinations of a Phone Number (Medium)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [ ] 22. [Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)
-- [ ] 46. [Permutations (Medium)](https://leetcode.com/problems/permutations/)
+- [x] 46. [Permutations (Medium)](https://leetcode.com/problems/permutations/)
 - [x] 78. [Subsets (Medium)](https://leetcode.com/problems/subsets/)
 - [x] 90. [Subsets II (Medium)](https://leetcode.com/problems/subsets-ii/)
 - [ ] 95. [Unique Binary Search Trees II (Medium)](https://leetcode.com/problems/unique-binary-search-trees-ii/)
