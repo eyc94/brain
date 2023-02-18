@@ -220,7 +220,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 
 ### Tree
 
-### Graph ![0/15 = 0%](https://progress-bar.dev/0)
+### Graph ![0/20 = 0%](https://progress-bar.dev/0)
 - [ ] 127. [Word Ladder (Hard)](https://leetcode.com/problems/word-ladder/)
 - [ ] 128. [Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [ ] 130. [Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/description/)
@@ -232,10 +232,15 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 269. [Alien Dictionary (Hard)](https://leetcode.com/problems/alien-dictionary/)
 - [ ] 286. [Walls and Gates (Medium)](https://leetcode.com/problems/walls-and-gates/)
 - [ ] 323. [Number of Connected Components in an Undirected Graph (Medium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
+- [ ] 332. [Reconstruct Itinerary (Hard)](https://leetcode.com/problems/reconstruct-itinerary/description/)
 - [ ] 417. [Pacific Atlantic Water Flow (Medium)](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
 - [ ] 684. [Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)
 - [ ] 695. [Max Area of Island (Medium)](https://leetcode.com/problems/max-area-of-island/description/)
+- [ ] 743. [Network Delay Time (Medium)](https://leetcode.com/problems/network-delay-time/)
+- [ ] 778. [Swim in Rising Water (Hard)](https://leetcode.com/problems/swim-in-rising-water/)
+- [ ] 787. [Cheapest Flights Within K Stops (Medium)](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 - [ ] 994. [Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges/description/)
+- [ ] 1584. [Min Cost to Connect All Points (Medium)](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ### Heap
 
