@@ -1,5 +1,5 @@
 # :heavy_check_mark: Top K Elements
-*Last Updated: 2/12/2023*
+*Last Updated: 2/18/2023*
 
 ![Image of top k elements](../images/patterns/top-k-elements/top-k-elements.png)
 
