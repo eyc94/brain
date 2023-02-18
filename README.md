@@ -214,7 +214,11 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 206. [Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/description/)
 - [ ] 287. [Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
-### Matrix
+### Matrix ![0/4 = 0%](https://progress-bar.dev/0)
+- [ ] 48. [Rotate Image (Medium)](https://leetcode.com/problems/rotate-image/description/)
+- [ ] 54. [Spiral Matrix (Medium)](https://leetcode.com/problems/spiral-matrix/description/)
+- [ ] 73. [Set Matrix Zeroes (Medium)](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [ ] 79. [Word Search (Medium)](https://leetcode.com/problems/word-search/description/)
 
 ### String
 
