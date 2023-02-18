@@ -170,8 +170,11 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 
 ### Legend
 :green_book: Easy
+
 :orange_book: Medium
+
 :closed_book: Hard
+
 :lock: LC Premium
 
 ### Array ![4/18 = 22%](https://progress-bar.dev/22)
