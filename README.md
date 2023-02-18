@@ -167,18 +167,20 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - ***NOTE:*** Some questions are in the `Patterns & Techniques` section above.
 - See [this](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) for a fast Leetcode link to curated list.
 
-### Array ![3/16 = 19%](https://progress-bar.dev/19)
+### Array ![4/18 = 22%](https://progress-bar.dev/22)
 - [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/description/)
 - [ ] 11. [Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [3Sum (Medium)](https://leetcode.com/problems/3sum/description/)
 - [ ] 33. [Search in Rotated Sorted Array (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [ ] 36. [Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/description/)
+- [ ] 42. [Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/description/)
 - [ ] 49. [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/description/)
 - [x] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/description/)
 - [ ] 121. [Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [ ] 128. [Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [ ] 152. [Maximum Product Subarray (Medium)](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [ ] 153. [Find Minimum in Rotated Sorted Array (Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [x] 167. [Two Sum II - Input Array is Sorted (Medium)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - [ ] 217. [Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/description/)
 - [ ] 238. [Product of Array Except Self (Medium)](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [ ] 242. [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/description/)
