@@ -274,7 +274,16 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 994. [Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges/description/)
 - [ ] 1584. [Min Cost to Connect All Points (Medium)](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
-### Heap
+### Heap ![0/9 = 0%](https://progress-bar.dev/0)
+- [ ] 23. [Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- [ ] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [ ] 295. [Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream/description/)
+- [ ] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [ ] 355. [Design Twitter (Medium)](https://leetcode.com/problems/design-twitter/)
+- [ ] 621. [Task Scheduler (Medium)](https://leetcode.com/problems/task-scheduler/)
+- [ ] 703. [Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [ ] 973. [K Closest Points to Origin (Medium)](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+- [ ] 1046. [Last Stone Weight (Easy)](https://leetcode.com/problems/last-stone-weight/description/)
 
 ### Dynamic Programming ![0/25 = 0%](https://progress-bar.dev/0)
 - [ ] 5. [Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring/description/)
