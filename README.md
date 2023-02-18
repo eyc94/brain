@@ -1,5 +1,5 @@
-# :heavy_check_mark: Data Structures & Algorithms
 ![Last Commit](https://img.shields.io/github/last-commit/eyc94/dsna?label=Updated)
+# :heavy_check_mark: Data Structures & Algorithms
 
 ## :round_pushpin: Data Structures
 A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently. An efficient data structure utilizes minimum memory space and execution time.
