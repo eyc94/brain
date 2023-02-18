@@ -185,7 +185,13 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 271. [Encode and Decode Strings (Medium)](https://leetcode.com/problems/encode-and-decode-strings/description/)
 - [ ] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
-### Binary
+### Binary ![0/6 = 0%](https://progress-bar.dev/0)
+- [ ] 136. [Single Number (Easy)](https://leetcode.com/problems/single-number/description/)
+- [ ] 190. [Reverse Bits (Easy)](https://leetcode.com/problems/reverse-bits/)
+- [ ] 191. [Number of 1 Bits (Easy)](https://leetcode.com/problems/number-of-1-bits/description/)
+- [ ] 268. [Missing Number (Easy)](https://leetcode.com/problems/missing-number/description/)
+- [ ] 338. [Counting Bits (Easy)](https://leetcode.com/problems/counting-bits/)
+- [ ] 371. [Sum of Two Integers (Medium)](https://leetcode.com/problems/sum-of-two-integers/description/)
 
 ### Interval
 
