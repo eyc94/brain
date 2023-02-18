@@ -18,9 +18,9 @@
 - Usually have the inputs sorted.
 - Multiple inputs that requires consolidating.
 
-## :round_pushpin: Leetcode Problems ![2/7 = 29%](https://progress-bar.dev/29)
+## :round_pushpin: Leetcode Problems ![3/7 = 43%](https://progress-bar.dev/43)
 
-- [ ] 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [x] 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [x] 23. [Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [x] 88. [Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/description/)
   - This problem is also in `Two Pointers`.
