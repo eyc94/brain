@@ -193,7 +193,13 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 338. [Counting Bits (Easy)](https://leetcode.com/problems/counting-bits/)
 - [ ] 371. [Sum of Two Integers (Medium)](https://leetcode.com/problems/sum-of-two-integers/description/)
 
-### Interval
+### Interval ![4/6 = 66%](https://progress-bar.dev/66)
+- [x] 56. [Merge Intervals (Medium)](https://leetcode.com/problems/merge-intervals/)
+- [x] 57. [Insert Interval (Medium)](https://leetcode.com/problems/insert-interval/)
+- [ ] 252. [Meeting Rooms (Medium)](https://leetcode.com/problems/meeting-rooms/description/)
+- [x] 253. [Meeting Rooms II (Medium)](https://leetcode.com/problems/meeting-rooms-ii/description/)
+- [x] 435. [Non-overlapping Intervals (Medium)](https://leetcode.com/problems/non-overlapping-intervals/)
+- [ ] 1851. [Minimum Interval to Include Each Query (Hard)](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
 ### Linked List
 
