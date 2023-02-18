@@ -10,9 +10,9 @@
 ## :round_pushpin: Requirements
 - Problem asks for top, smallest, or frequent elements.
 
-## :round_pushpin: Leetcode Problems ![0/14 = 0%](https://progress-bar.dev/0)
-
-- [ ] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+## :round_pushpin: Leetcode Problems ![1/14 = 7%](https://progress-bar.dev/7)
+- [x] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  - We can utilize a `Min Heap` or a `Max Heap`.
 - [ ] 230. [Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - I included this here because it can be a heap problem and can be other tree related traversal algorithm problem.
 - [ ] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
