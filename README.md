@@ -220,7 +220,17 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 73. [Set Matrix Zeroes (Medium)](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [ ] 79. [Word Search (Medium)](https://leetcode.com/problems/word-search/description/)
 
-### String
+### String ![3/10 = 30%](https://progress-bar.dev/30)
+- [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [ ] 5. [Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring/description/)
+- [ ] 20. [Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/description/)
+- [ ] 49. [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/description/)
+- [x] 76. [Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring/description/)
+- [ ] 125. [Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome/description/)
+- [ ] 242. [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/description/)
+- [ ] 271. [Encode and Decode Strings (Medium)](https://leetcode.com/problems/encode-and-decode-strings/description/)
+- [x] 424. [Longest Repeating Character Replacement (Medium)](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+- [ ] 647. [Palindromic Substrings (Medium)](https://leetcode.com/problems/palindromic-substrings/description/)
 
 ### Tree
 
