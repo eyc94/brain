@@ -201,7 +201,18 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 435. [Non-overlapping Intervals (Medium)](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] 1851. [Minimum Interval to Include Each Query (Hard)](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
-### Linked List
+### Linked List ![6/11 = 55%](https://progress-bar.dev/55)
+- [ ] 2. [Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/description/)
+- [x] 19. [Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [ ] 21. [Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [x] 25. [Reverse Node in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [x] 23. [Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- [ ] 138. [Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+- [x] 141. [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/description/)
+- [x] 143. [Reorder List (Medium)](https://leetcode.com/problems/reorder-list/description/)
+- [ ] 146. [LRU Cache (Medium)](https://leetcode.com/problems/lru-cache/description/)
+- [x] 206. [Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/description/)
+- [ ] 287. [Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
 ### Matrix
 
