@@ -234,10 +234,10 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 287. [:orange_book: Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
 ### Matrix ![0/4 = 0%](https://progress-bar.dev/0)
-- [ ] 48. [Rotate Image (Medium)](https://leetcode.com/problems/rotate-image/description/)
-- [ ] 54. [Spiral Matrix (Medium)](https://leetcode.com/problems/spiral-matrix/description/)
-- [ ] 73. [Set Matrix Zeroes (Medium)](https://leetcode.com/problems/set-matrix-zeroes/description/)
-- [ ] 79. [Word Search (Medium)](https://leetcode.com/problems/word-search/description/)
+- [ ] 48. [:orange_book: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+- [ ] 54. [:orange_book: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+- [ ] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [ ] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
 ### Tree ![6/18 = 33%](https://progress-bar.dev/33)
 - [ ] 98. [Validate Binary Search Tree (Medium)](https://leetcode.com/problems/validate-binary-search-tree/description/)
@@ -320,11 +320,11 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) :orange_book:
 
 ### Math & Geometry ![1/5 = 20%](https://progress-bar.dev/20)
-- [ ] 43. [Multiple Strings (Medium)](https://leetcode.com/problems/multiply-strings/)
-- [ ] 50. [Pow(x,n) (Medium)](https://leetcode.com/problems/powx-n/)
-- [ ] 66. [Plus One (Easy)](https://leetcode.com/problems/plus-one/)
-- [x] 202. [Happy Number (Easy)](https://leetcode.com/problems/happy-number/)
-- [ ] 2013. [Detect Squares (Medium)](https://leetcode.com/problems/detect-squares/)
+- [ ] 43. [:orange_book: Multiple Strings](https://leetcode.com/problems/multiply-strings/)
+- [ ] 50. [:orange_book: Pow(x,n)](https://leetcode.com/problems/powx-n/)
+- [ ] 66. [:green_book: Plus One](https://leetcode.com/problems/plus-one/)
+- [x] 202. [:green_book: Happy Number](https://leetcode.com/problems/happy-number/)
+- [ ] 2013. [:orange_book: Detect Squares](https://leetcode.com/problems/detect-squares/)
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
