@@ -1,5 +1,5 @@
 # :heavy_check_mark: Modified Binary Search
-*Last Updated: 2/12/2023*
+*Last Updated: 2/18/2023*
 
 ![Image of binary search](../images/patterns/modified-binary-search/modified-binary-search-png.jpg)
 
