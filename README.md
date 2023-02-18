@@ -205,20 +205,20 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 
 ### Binary ![0/6 = 0%](https://progress-bar.dev/0)
-- [ ] 136. [Single Number (Easy)](https://leetcode.com/problems/single-number/description/)
-- [ ] 190. [Reverse Bits (Easy)](https://leetcode.com/problems/reverse-bits/)
-- [ ] 191. [Number of 1 Bits (Easy)](https://leetcode.com/problems/number-of-1-bits/description/)
-- [ ] 268. [Missing Number (Easy)](https://leetcode.com/problems/missing-number/description/)
-- [ ] 338. [Counting Bits (Easy)](https://leetcode.com/problems/counting-bits/)
-- [ ] 371. [Sum of Two Integers (Medium)](https://leetcode.com/problems/sum-of-two-integers/description/)
+- [ ] 136. [:green_book: Single Number](https://leetcode.com/problems/single-number/description/)
+- [ ] 190. [:green_book: Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [ ] 191. [:green_book: Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
+- [ ] 268. [:green_book: Missing Number](https://leetcode.com/problems/missing-number/description/)
+- [ ] 338. [:green_book: Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [ ] 371. [:orange_book: Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
 
 ### Interval ![4/6 = 66%](https://progress-bar.dev/66)
-- [x] 56. [Merge Intervals (Medium)](https://leetcode.com/problems/merge-intervals/)
-- [x] 57. [Insert Interval (Medium)](https://leetcode.com/problems/insert-interval/)
-- [ ] 252. [Meeting Rooms (Medium)](https://leetcode.com/problems/meeting-rooms/description/)
-- [x] 253. [Meeting Rooms II (Medium)](https://leetcode.com/problems/meeting-rooms-ii/description/)
-- [x] 435. [Non-overlapping Intervals (Medium)](https://leetcode.com/problems/non-overlapping-intervals/)
-- [ ] 1851. [Minimum Interval to Include Each Query (Hard)](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
+- [x] 56. [:orange_book: Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] 57. [:orange_book: Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [ ] 252. [:orange_book: Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) :lock:
+- [x] 253. [:orange_book: Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) :lock:
+- [x] 435. [:orange_book: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+- [ ] 1851. [:closed_book: Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
 ### Linked List ![6/11 = 55%](https://progress-bar.dev/55)
 - [ ] 2. [Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/description/)
