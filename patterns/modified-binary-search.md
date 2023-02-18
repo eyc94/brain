@@ -9,11 +9,14 @@
 ## :round_pushpin: Requirements
 - Input must be sorted in some way.
 
-## :round_pushpin: Leetcode Problems ![0/14 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![1/18 = 6%](https://progress-bar.dev/6)
 
+- [x] 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - Used `Heap` to finish this as well.
 - [ ] 33. [Search in Rotated Sorted Array (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [ ] 34. [Find First and Last Position of Element in Sorted Array (Medium)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] 35. [Search Insert Position (Easy)](https://leetcode.com/problems/search-insert-position/description/)
+- [ ] 74. [Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [ ] 81. [Search in a Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [ ] 278. [First Bad Version (Easy)](https://leetcode.com/problems/first-bad-version/)
 - [ ] 153. [Find Minimum in Rotated Sorted Array (Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -25,6 +28,8 @@
 - [ ] 702. [Search in a Sorted Array of Unknown Size (Medium)](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 - [ ] 704. [Binary Search (Easy)](https://leetcode.com/problems/binary-search/)
 - [ ] 744. [Find Smallest Letter Greater Than Target (Easy)](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- [ ] 875. [Koko Eating Bananas (Medium)](https://leetcode.com/problems/koko-eating-bananas/description/)
+- [ ] 981. [Time Based Key-Value Store (Medium)](https://leetcode.com/problems/time-based-key-value-store/)
 
 ## :round_pushpin: Sources
 *List to be updated...*

@@ -149,7 +149,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Subsets](patterns/subsets.md) ![3/7 = 43%](https://progress-bar.dev/43)
 - [ ] [K-Way Merge](patterns/k-way-merge.md) ![3/7 = 43%](https://progress-bar.dev/43)
 - [ ] [Top K Elements](patterns/top-k-elements.md) ![0/14 = 0%](https://progress-bar.dev/0)
-- [ ] [Modified Binary Search](patterns/modified-binary-search.md) ![0/14 = 0%](https://progress-bar.dev/0)
+- [ ] [Modified Binary Search](patterns/modified-binary-search.md) ![1/18 = 6%](https://progress-bar.dev/6)
 - [ ] [Greedy](patterns/greedy.md) ![0/6 = 0%](https://progress-bar.dev/0)
 - [ ] [Backtracking](patterns/backtracking.md) ![0/5 = 0%](https://progress-bar.dev/0)
 - [ ] [Dynamic Programming](patterns/dynamic-programming.md) ![0/8 = 0%](https://progress-bar.dev/0)
