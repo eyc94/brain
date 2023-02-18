@@ -168,25 +168,29 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - ***NOTE:*** Some questions are in the `Patterns & Techniques` section above.
 - See [this](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) for a fast Leetcode link to curated list.
 
+### Legend
+:green_book: Easy
+:orange_book: Medium
+:closed_book: Hard
+:lock: LC Premium
+
 ### Array ![4/18 = 22%](https://progress-bar.dev/22)
-- [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/description/)
-- [ ] 11. [Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/description/)
-- [x] 15. [3Sum (Medium)](https://leetcode.com/problems/3sum/description/)
-- [ ] 33. [Search in Rotated Sorted Array (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-- [ ] 36. [Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/description/)
-- [ ] 42. [Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water/description/)
-- [ ] 49. [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/description/)
-- [x] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/description/)
-- [ ] 121. [Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
-- [ ] 128. [Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/description/)
-- [ ] 152. [Maximum Product Subarray (Medium)](https://leetcode.com/problems/maximum-product-subarray/description/)
-- [ ] 153. [Find Minimum in Rotated Sorted Array (Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
-- [x] 167. [Two Sum II - Input Array is Sorted (Medium)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-- [ ] 217. [Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/description/)
-- [ ] 238. [Product of Array Except Self (Medium)](https://leetcode.com/problems/product-of-array-except-self/description/)
-- [ ] 242. [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/description/)
-- [ ] 271. [Encode and Decode Strings (Medium)](https://leetcode.com/problems/encode-and-decode-strings/description/)
-- [ ] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/) 
+- [ ] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+- [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
+- [ ] 33. [:orange_book: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [ ] 36. [:orange_book: Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+- [ ] 42. [:closed_book: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+- [ ] 49. [:orange_book: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+- [x] 53. [:orange_book: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [ ] 121. [:green_book: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- [ ] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- [ ] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
+- [ ] 217. [:green_book: Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- [ ] 238. [:orange_book: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+- [ ] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+- [ ] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
+- [ ] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 ### String ![3/10 = 30%](https://progress-bar.dev/30)
 - [x] 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
@@ -312,8 +316,8 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 494. [Target Sum (Medium)](https://leetcode.com/problems/target-sum/description/)
 - [ ] 518. [Coin Change II (Medium)](https://leetcode.com/problems/coin-change-ii/)
 - [ ] 647. [Palindromic Substrings (Medium)](https://leetcode.com/problems/palindromic-substrings/description/)
-- [ ] 746. [Min Cost Climbing Stairs (Easy)](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [ ] 1143. [Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence/)
+- [ ] 746. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) :green_book:
+- [ ] 1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) :orange_book:
 
 ### Math & Geometry ![1/5 = 20%](https://progress-bar.dev/20)
 - [ ] 43. [Multiple Strings (Medium)](https://leetcode.com/problems/multiply-strings/)
