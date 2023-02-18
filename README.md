@@ -220,7 +220,22 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 
 ### Tree
 
-### Graph
+### Graph ![0/15 = 0%](https://progress-bar.dev/0)
+- [ ] 127. [Word Ladder (Hard)](https://leetcode.com/problems/word-ladder/)
+- [ ] 128. [Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- [ ] 130. [Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions/description/)
+- [ ] 133. [Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/description/)
+- [ ] 200. [Number of Islands (Medium)](https://leetcode.com/problems/number-of-islands/description/)
+- [ ] 207. [Course Schedule (Medium)](https://leetcode.com/problems/course-schedule/)
+- [ ] 210. [Course Schedule II (Medium)](https://leetcode.com/problems/course-schedule-ii/description/)
+- [ ] 261. [Graph Valid Tree (Medium)](https://leetcode.com/problems/graph-valid-tree/description/)
+- [ ] 269. [Alien Dictionary (Hard)](https://leetcode.com/problems/alien-dictionary/)
+- [ ] 286. [Walls and Gates (Medium)](https://leetcode.com/problems/walls-and-gates/)
+- [ ] 323. [Number of Connected Components in an Undirected Graph (Medium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
+- [ ] 417. [Pacific Atlantic Water Flow (Medium)](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
+- [ ] 684. [Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection/)
+- [ ] 695. [Max Area of Island (Medium)](https://leetcode.com/problems/max-area-of-island/description/)
+- [ ] 994. [Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges/description/)
 
 ### Heap
 
