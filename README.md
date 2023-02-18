@@ -224,7 +224,32 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 
 ### Heap
 
-### Dynamic Programming
+### Dynamic Programming ![0/25 = 0%](https://progress-bar.dev/0)
+- [ ] 5. [Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring/description/)
+- [ ] 10. [Regular Expression Matching (Hard)](https://leetcode.com/problems/regular-expression-matching/)
+- [ ] 55. [Jump Game (Medium)](https://leetcode.com/problems/jump-game/description/)
+- [ ] 62. [Unique Paths (Medium)](https://leetcode.com/problems/unique-paths/description/)
+- [ ] 70. [Climbing Stairs (Easy)](https://leetcode.com/problems/climbing-stairs/description/)
+- [ ] 72. [Edit Distance (Hard)](https://leetcode.com/problems/edit-distance/)
+- [ ] 91. [Decode Ways (Medium)](https://leetcode.com/problems/decode-ways/)
+- [ ] 97. [Interleaving String (Medium)](https://leetcode.com/problems/interleaving-string/)
+- [ ] 115. [Distinct Subsequences (Hard)](https://leetcode.com/problems/distinct-subsequences/)
+- [ ] 139. [Word Break (Medium)](https://leetcode.com/problems/word-break/description/)
+- [ ] 152. [Maximum Product Subarray (Medium)](https://leetcode.com/problems/maximum-product-subarray/description/)
+- [ ] 198. [House Robber (Medium)](https://leetcode.com/problems/house-robber/)
+- [ ] 213. [House Robber II (Medium)](https://leetcode.com/problems/house-robber-ii/)
+- [ ] 300. [Longest Increasing Subsequence (Medium)](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+- [ ] 309. [Best Time to Buy and Sell Stock with Cooldown (Medium)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- [ ] 312. [Burst Balloons (Hard)](https://leetcode.com/problems/burst-balloons/description/)
+- [ ] 322. [Coin Change (Medium)](https://leetcode.com/problems/coin-change/description/)
+- [ ] 329. [Longest Increasing Path in a Matrix (Hard)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+- [ ] 377. [Combination Sum IV (Medium)](https://leetcode.com/problems/combination-sum-iv/)
+- [ ] 416. [Partition Equal Subset Sum (Medium)](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+- [ ] 494. [Target Sum (Medium)](https://leetcode.com/problems/target-sum/description/)
+- [ ] 518. [Coin Change II (Medium)](https://leetcode.com/problems/coin-change-ii/)
+- [ ] 647. [Palindromic Substrings (Medium)](https://leetcode.com/problems/palindromic-substrings/description/)
+- [ ] 746. [Min Cost Climbing Stairs (Easy)](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [ ] 1143. [Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence/)
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
