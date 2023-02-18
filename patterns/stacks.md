@@ -16,9 +16,10 @@
 - Histograms
 - Undo/redo operations
 
-## :round_pushpin: Leetcode Problems ![0/6 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![0/7 = 0%](https://progress-bar.dev/0)
 
 - [ ] 20. [Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
+- [ ] 155. [Min Stack (Medium)](https://leetcode.com/problems/min-stack/)
 - [ ] 224. [Basic Calculator (Hard)](https://leetcode.com/problems/basic-calculator/)
 - [ ] 341. [Flatten Nested List Iterator (Medium)](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - [ ] 636. [Exclusive Time of Functions (Medium)](https://leetcode.com/problems/exclusive-time-of-functions/)
