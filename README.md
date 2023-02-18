@@ -314,6 +314,13 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 746. [Min Cost Climbing Stairs (Easy)](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [ ] 1143. [Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence/)
 
+### Math & Geometry ![1/5 = 20%](https://progress-bar.dev/20)
+- [ ] 43. [Multiple Strings (Medium)](https://leetcode.com/problems/multiply-strings/)
+- [ ] 50. [Pow(x,n) (Medium)](https://leetcode.com/problems/powx-n/)
+- [ ] 66. [Plus One (Easy)](https://leetcode.com/problems/plus-one/)
+- [x] 202. [Happy Number (Easy)](https://leetcode.com/problems/happy-number/)
+- [ ] 2013. [Detect Squares (Medium)](https://leetcode.com/problems/detect-squares/)
+
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
 - Java `Collections` class.
