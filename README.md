@@ -169,13 +169,10 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - See [this](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) for a fast Leetcode link to curated list.
 
 ### Legend
-:green_book: Easy
-
-:orange_book: Medium
-
-:closed_book: Hard
-
-:lock: LC Premium
+- :green_book: Easy
+- :orange_book: Medium
+- :closed_book: Hard
+- :lock: LC Premium
 
 ### Array ![4/18 = 22%](https://progress-bar.dev/22)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/) 
