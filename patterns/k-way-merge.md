@@ -18,10 +18,10 @@
 - Usually have the inputs sorted.
 - Multiple inputs that requires consolidating.
 
-## :round_pushpin: Leetcode Problems ![1/7 = 14%](https://progress-bar.dev/14)
+## :round_pushpin: Leetcode Problems ![2/7 = 29%](https://progress-bar.dev/29)
 
 - [ ] 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [ ] 23. [Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- [x] 23. [Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [x] 88. [Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/description/)
   - This problem is also in `Two Pointers`.
 - [ ] 373. [Find K Pairs with Smallest Sums (Medium)](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
