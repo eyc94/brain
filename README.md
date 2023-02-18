@@ -167,7 +167,16 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - ***NOTE:*** Some questions are in the `Patterns & Techniques` section above.
 - See [this](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) for a fast Leetcode link to curated list.
 
-### Array
+### Array ![1/9 = 11%](https://progress-bar.dev/11)
+- [x] 1. [Two Sum (Easy)](https://leetcode.com/problems/two-sum/description/)
+- [ ] 36. [Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku/description/)
+- [ ] 49. [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/description/)
+- [ ] 128. [Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- [ ] 217. [Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/description/)
+- [ ] 238. [Product of Array Except Self (Medium)](https://leetcode.com/problems/product-of-array-except-self/description/)
+- [ ] 242. [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/description/)
+- [ ] 271. [Encode and Decode Strings (Medium)](https://leetcode.com/problems/encode-and-decode-strings/description/)
+- [ ] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 ### Binary
 
