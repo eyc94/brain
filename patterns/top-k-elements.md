@@ -10,7 +10,7 @@
 ## :round_pushpin: Requirements
 - Problem asks for top, smallest, or frequent elements.
 
-## :round_pushpin: Leetcode Problems ![2/14 = 14%](https://progress-bar.dev/14)
+## :round_pushpin: Leetcode Problems ![3/14 = 21%](https://progress-bar.dev/21)
 - [x] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - We can utilize a `Min Heap` or a `Max Heap`.
 - [ ] 230. [Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
@@ -23,7 +23,7 @@
 - [ ] 703. [Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - [ ] 767. [Reorganize String (Medium)](https://leetcode.com/problems/reorganize-string/)
 - [ ] 895. [Frequency Stack (Hard)](https://leetcode.com/problems/maximum-frequency-stack/)
-- [ ] 973. [K Closest Points to Origin (Medium)](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [x] 973. [K Closest Points to Origin (Medium)](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [ ] 1000. [Minimum Cost to Merge Stones (Hard)](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 - [ ] 1636. [Sort Array by Increasing Frequency (Easy)](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [ ] 2461. [Maximum Sum of Distinct Subarrays With Length K (Medium)](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
