@@ -10,12 +10,12 @@
 ## :round_pushpin: Requirements
 - Problem asks for top, smallest, or frequent elements.
 
-## :round_pushpin: Leetcode Problems ![1/14 = 7%](https://progress-bar.dev/7)
+## :round_pushpin: Leetcode Problems ![2/14 = 14%](https://progress-bar.dev/14)
 - [x] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - We can utilize a `Min Heap` or a `Max Heap`.
 - [ ] 230. [Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - I included this here because it can be a heap problem and can be other tree related traversal algorithm problem.
-- [ ] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [x] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - [ ] 358. [Rearrange String k Distance Apart (Hard)](https://leetcode.com/problems/rearrange-string-k-distance-apart/)
 - [ ] 451. [Sort Characters By Frequency (Medium)](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] 621. [Task Scheduler (Medium)](https://leetcode.com/problems/task-scheduler/)
