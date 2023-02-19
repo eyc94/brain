@@ -149,7 +149,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Tree Depth First Search (DFS)](patterns/tree-depth-first-search.md) ![10/12 = 83%](https://progress-bar.dev/83)
 - [ ] [Subsets](patterns/subsets.md) ![4/10 = 40%](https://progress-bar.dev/40)
 - [ ] [K-Way Merge](patterns/k-way-merge.md) ![3/7 = 43%](https://progress-bar.dev/43)
-- [ ] [Top K Elements](patterns/top-k-elements.md) ![0/14 = 0%](https://progress-bar.dev/0)
+- [ ] [Top K Elements](patterns/top-k-elements.md) ![3/14 = 21%](https://progress-bar.dev/21)
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md) ![1/18 = 6%](https://progress-bar.dev/6)
 - [ ] [Greedy](patterns/greedy.md) ![1/10 = 10%](https://progress-bar.dev/10)
 - [ ] [Backtracking](patterns/backtracking.md) ![0/10 = 0%](https://progress-bar.dev/0)
