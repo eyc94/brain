@@ -140,7 +140,7 @@ There are many types of sorting algorithms:
 Patterns are a tool to solve specific categories of problems.
 
 - [ ] [Sliding Window](patterns/sliding-window.md) ![23/26 = 88%](https://progress-bar.dev/88)
-- [ ] [Two Pointers](patterns/two-pointers.md) ![26/28 = 93%](https://progress-bar.dev/93)
+- [ ] [Two Pointers](patterns/two-pointers.md) ![27/29 = 93%](https://progress-bar.dev/93)
 - [x] [Fast and Slow Pointers](patterns/fast-and-slow-pointers.md) ![7/7 = 100%](https://progress-bar.dev/100)
 - [ ] [Intervals](patterns/intervals.md) ![6/7 = 86%](https://progress-bar.dev/86)
 - [ ] [Linked Lists Reversals](patterns/linked-list-reversals.md) ![9/11 = 82%](https://progress-bar.dev/82)
@@ -174,9 +174,9 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![4/18 = 22%](https://progress-bar.dev/22)
+### Array ![5/18 = 28%](https://progress-bar.dev/28)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/) 
-- [ ] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+- [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
 - [ ] 33. [:orange_book: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [ ] 36. [:orange_book: Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
