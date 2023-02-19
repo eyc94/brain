@@ -175,7 +175,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :lock: LC Premium
 
 ### Array ![5/19 = 26%](https://progress-bar.dev/26)
-- [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/) 
+- [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
 - [ ] 33. [:orange_book: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
