@@ -174,7 +174,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![9/19 = 47%](https://progress-bar.dev/47)
+### Array ![10/19 = 53%](https://progress-bar.dev/53)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
@@ -191,7 +191,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 238. [:orange_book: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [ ] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
-- [ ] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 ### String ![3/10 = 30%](https://progress-bar.dev/30)
 - [x] 3. [:orange_book: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
