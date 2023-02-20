@@ -174,11 +174,11 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![10/19 = 53%](https://progress-bar.dev/53)
+### Array ![11/19 = 58%](https://progress-bar.dev/58)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
-- [ ] 33. [:orange_book: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [x] 33. [:orange_book: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [ ] 36. [:orange_book: Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 - [ ] 42. [:closed_book: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 - [ ] 49. [:orange_book: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
