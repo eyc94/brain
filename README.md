@@ -216,7 +216,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 ### Interval ![5/6 = 83%](https://progress-bar.dev/83)
 - [x] 56. [:orange_book: Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] 57. [:orange_book: Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [x] 252. [:orange_book: Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) :lock:
+- [x] 252. [:green_book: Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) :lock:
 - [x] 253. [:orange_book: Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) :lock:
 - [x] 435. [:orange_book: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] 1851. [:closed_book: Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
