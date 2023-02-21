@@ -221,10 +221,10 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 435. [:orange_book: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] 1851. [:closed_book: Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
-### Linked List ![7/11 = 64%](https://progress-bar.dev/64)
+### Linked List ![8/11 = 73%](https://progress-bar.dev/73)
 - [x] 2. [:orange_book: Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 - [x] 19. [:orange_book: Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
-- [ ] 21. [:green_book: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [x] 21. [:green_book: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 - [x] 25. [:closed_book: Reverse Node in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [x] 23. [:closed_book: Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [ ] 138. [:orange_book: Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
