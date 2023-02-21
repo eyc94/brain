@@ -193,11 +193,11 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
 - [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
-### String ![4/10 = 40%](https://progress-bar.dev/40)
+### String ![5/10 = 50%](https://progress-bar.dev/50)
 - [x] 3. [:orange_book: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [x] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 20. [:green_book: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
-- [ ] 49. [:orange_book: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+- [x] 49. [:orange_book: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [x] 76. [:closed_book: Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 - [ ] 125. [:green_book: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 - [ ] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
