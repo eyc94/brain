@@ -234,9 +234,9 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 206. [:green_book: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [ ] 287. [:orange_book: Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
-### Matrix ![1/4 = 25%](https://progress-bar.dev/25)
+### Matrix ![2/4 = 50%](https://progress-bar.dev/50)
 - [x] 48. [:orange_book: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
-- [ ] 54. [:orange_book: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+- [x] 54. [:orange_book: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 - [ ] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [ ] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
