@@ -234,11 +234,11 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 206. [:green_book: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [ ] 287. [:orange_book: Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
-### Matrix ![3/4 = 75%](https://progress-bar.dev/75)
+### Matrix ![4/4 = 100%](https://progress-bar.dev/100)
 - [x] 48. [:orange_book: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 - [x] 54. [:orange_book: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 - [x] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
-- [ ] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
+- [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
 ### Tree ![6/18 = 33%](https://progress-bar.dev/33)
 - [ ] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
