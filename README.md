@@ -240,8 +240,8 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
-### Tree ![10/18 = 56%](https://progress-bar.dev/56)
-- [ ] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+### Tree ![11/18 = 61%](https://progress-bar.dev/61)
+- [x] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [x] 100. [:green_book: Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [x] 102. [:orange_book: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 - [x] 104. [:green_book: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
