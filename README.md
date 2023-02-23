@@ -240,7 +240,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
-### Tree ![8/18 = 44%](https://progress-bar.dev/44)
+### Tree ![9/18 = 50%](https://progress-bar.dev/50)
 - [ ] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [x] 100. [:green_book: Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [x] 102. [:orange_book: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
@@ -253,7 +253,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 211. [:orange_book: Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
 - [ ] 212. [:closed_book: Word Search II](https://leetcode.com/problems/word-search-ii/description/)
 - [x] 226. [:green_book: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
-- [ ] 230. [:orange_book: Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+- [x] 230. [:orange_book: Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - [ ] 235. [:orange_book: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 - [ ] 297. [:closed_book: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 - [x] 543. [:green_book: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
