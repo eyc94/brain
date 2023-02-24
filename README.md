@@ -282,10 +282,10 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 994. [:orange_book: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [ ] 1584. [:orange_book: Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
-### Heap ![6/9 = 67%](https://progress-bar.dev/67)
+### Heap ![7/9 = 78%](https://progress-bar.dev/78)
 - [x] 23. [:closed_book: Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [x] 215. [:orange_book: Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [ ] 295. [:closed_book: Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
+- [x] 295. [:closed_book: Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
 - [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - [ ] 355. [:orange_book: Design Twitter](https://leetcode.com/problems/design-twitter/)
 - [ ] 621. [:orange_book: Task Scheduler](https://leetcode.com/problems/task-scheduler/)
