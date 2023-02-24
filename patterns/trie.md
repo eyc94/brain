@@ -15,11 +15,11 @@
 - Word searching
 - Suffix tree
 
-## :round_pushpin: Leetcode Problems ![1/6 = 17%](https://progress-bar.dev/17)
+## :round_pushpin: Leetcode Problems ![2/6 = 33%](https://progress-bar.dev/33)
 
 - [x] 208. [Implement Trie (Medium)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] 211. [Design Add and Search Words Data Structure (Medium)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
-- [ ] 212. [Word Search II (Hard)](https://leetcode.com/problems/word-search-ii/)
+- [x] 212. [Word Search II (Hard)](https://leetcode.com/problems/word-search-ii/)
 - [ ] 386. [Lexicographical Numbers (Medium)](https://leetcode.com/problems/lexicographical-numbers/)
 - [ ] 648. [Replace Words (Medium)](https://leetcode.com/problems/replace-words/)
 - [ ] 1268. [Search Suggestions System (Medium)](https://leetcode.com/problems/search-suggestions-system/)
