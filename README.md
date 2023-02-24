@@ -240,7 +240,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
-### Tree ![11/18 = 61%](https://progress-bar.dev/61)
+### Tree ![12/18 = 67%](https://progress-bar.dev/67)
 - [x] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [x] 100. [:green_book: Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [x] 102. [:orange_book: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
@@ -249,7 +249,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 110. [:green_book: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 - [x] 124. [:closed_book: Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 - [x] 199. [:green_book: Binary Tree Righ Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
-- [ ] 208. [:orange_book: Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+- [x] 208. [:orange_book: Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 - [ ] 211. [:orange_book: Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
 - [ ] 212. [:closed_book: Word Search II](https://leetcode.com/problems/word-search-ii/description/)
 - [x] 226. [:green_book: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
