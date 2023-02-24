@@ -320,9 +320,9 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 746. [:green_book: Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [ ] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
-### Math & Geometry ![2/5 = 40%](https://progress-bar.dev/40)
+### Math & Geometry ![3/5 = 60%](https://progress-bar.dev/60)
 - [ ] 43. [:orange_book: Multiple Strings](https://leetcode.com/problems/multiply-strings/)
-- [ ] 50. [:orange_book: Pow(x,n)](https://leetcode.com/problems/powx-n/)
+- [x] 50. [:orange_book: Pow(x,n)](https://leetcode.com/problems/powx-n/)
 - [x] 66. [:green_book: Plus One](https://leetcode.com/problems/plus-one/)
 - [x] 202. [:green_book: Happy Number](https://leetcode.com/problems/happy-number/)
 - [ ] 2013. [:orange_book: Detect Squares](https://leetcode.com/problems/detect-squares/)
