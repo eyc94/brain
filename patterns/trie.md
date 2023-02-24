@@ -15,9 +15,9 @@
 - Word searching
 - Suffix tree
 
-## :round_pushpin: Leetcode Problems ![0/6 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![1/6 = 17%](https://progress-bar.dev/17)
 
-- [ ] 208. [Implement Trie (Medium)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [x] 208. [Implement Trie (Medium)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] 211. [Design Add and Search Words Data Structure (Medium)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [ ] 212. [Word Search II (Hard)](https://leetcode.com/problems/word-search-ii/)
 - [ ] 386. [Lexicographical Numbers (Medium)](https://leetcode.com/problems/lexicographical-numbers/)
