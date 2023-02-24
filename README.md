@@ -240,7 +240,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
-### Tree ![14/18 = 78%](https://progress-bar.dev/78)
+### Tree ![15/18 = 83%](https://progress-bar.dev/83)
 - [x] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [x] 100. [:green_book: Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [x] 102. [:orange_book: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
@@ -258,7 +258,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 297. [:closed_book: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 - [x] 543. [:green_book: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [x] 572. [:green_book: Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
-- [ ] 1448. [:orange_book: Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
+- [x] 1448. [:orange_book: Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 
 ### Graph ![0/20 = 0%](https://progress-bar.dev/0)
 - [ ] 127. [:closed_book: Word Ladder](https://leetcode.com/problems/word-ladder/)
