@@ -282,7 +282,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 994. [:orange_book: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [ ] 1584. [:orange_book: Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
-### Heap ![4/9 = 44%](https://progress-bar.dev/44)
+### Heap ![5/9 = 56%](https://progress-bar.dev/56)
 - [x] 23. [:closed_book: Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [x] 215. [:orange_book: Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] 295. [:closed_book: Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
@@ -291,7 +291,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 621. [:orange_book: Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [ ] 703. [:green_book: Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
-- [ ] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
+- [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
 ### Dynamic Programming ![0/25 = 0%](https://progress-bar.dev/0)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
