@@ -260,10 +260,10 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 572. [:green_book: Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
 - [x] 1448. [:orange_book: Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 
-### Graph ![1/20 = 5%](https://progress-bar.dev/5)
+### Graph ![2/20 = 10%](https://progress-bar.dev/10)
 - [ ] 127. [:closed_book: Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
-- [ ] 130. [:orange_book: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
+- [x] 130. [:orange_book: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
 - [ ] 133. [:orange_book: Clone Graph](https://leetcode.com/problems/clone-graph/description/)
 - [x] 200. [:orange_book: Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
 - [ ] 207. [:orange_book: Course Schedule](https://leetcode.com/problems/course-schedule/)
