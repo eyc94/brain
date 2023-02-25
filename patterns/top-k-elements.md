@@ -10,17 +10,17 @@
 ## :round_pushpin: Requirements
 - Problem asks for top, smallest, or frequent elements.
 
-## :round_pushpin: Leetcode Problems ![4/15 = 27%](https://progress-bar.dev/27)
+## :round_pushpin: Leetcode Problems ![6/15 = 40%](https://progress-bar.dev/40)
 - [x] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - We can utilize a `Min Heap` or a `Max Heap`.
-- [ ] 230. [Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [x] 230. [Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - I included this here because it can be a heap problem and can be other tree related traversal algorithm problem.
 - [x] 347. [Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - [ ] 358. [Rearrange String k Distance Apart (Hard)](https://leetcode.com/problems/rearrange-string-k-distance-apart/)
 - [x] 451. [Sort Characters By Frequency (Medium)](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] 621. [Task Scheduler (Medium)](https://leetcode.com/problems/task-scheduler/)
 - [ ] 658. [Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements/)
-- [ ] 703. [Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [x] 703. [Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - [ ] 767. [Reorganize String (Medium)](https://leetcode.com/problems/reorganize-string/)
 - [ ] 895. [Frequency Stack (Hard)](https://leetcode.com/problems/maximum-frequency-stack/)
 - [x] 973. [K Closest Points to Origin (Medium)](https://leetcode.com/problems/k-closest-points-to-origin/)
