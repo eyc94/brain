@@ -25,9 +25,9 @@
     - We do not need to repeatedly calculate the extreme values.
     - Input data is already sorted, meaning there is no benefit to using heaps.
 
-## :round_pushpin: Leetcode Problems ![0/4 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![1/4 = 25%](https://progress-bar.dev/25)
 
-- [ ] 295. [Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream/)
+- [x] 295. [Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream/)
 - [ ] 480. [Sliding Window Median (Hard)](https://leetcode.com/problems/sliding-window-median/)
 - [ ] 502. [IPO (Hard)](https://leetcode.com/problems/ipo/)
 - [ ] 621. [Task Scheduler (Medium)](https://leetcode.com/problems/task-scheduler/)
