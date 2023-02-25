@@ -16,12 +16,12 @@
 - Histograms
 - Undo/redo operations
 
-## :round_pushpin: Leetcode Problems ![1/12 = 8%](https://progress-bar.dev/8)
+## :round_pushpin: Leetcode Problems ![2/12 = 17%](https://progress-bar.dev/17)
 
 - [x] 20. [Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
 - [ ] 22. [Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)
 - [ ] 84. [Largest Rectangle in Histogram (Hard)](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
-- [ ] 150. [Evaluate Reverse Polish Notation (Medium)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [x] 150. [Evaluate Reverse Polish Notation (Medium)](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ] 155. [Min Stack (Medium)](https://leetcode.com/problems/min-stack/)
 - [ ] 224. [Basic Calculator (Hard)](https://leetcode.com/problems/basic-calculator/)
 - [ ] 341. [Flatten Nested List Iterator (Medium)](https://leetcode.com/problems/flatten-nested-list-iterator/)
