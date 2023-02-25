@@ -34,12 +34,13 @@
 - Choice made by greedy may depend on choices made so far.
 - It is not aware of future choices it can make.
 
-## :round_pushpin: Leetcode Problems ![1/10 = 10%](https://progress-bar.dev/10)
+## :round_pushpin: Leetcode Problems ![2/10 = 20%](https://progress-bar.dev/20)
 
 - [ ] 45. [Jump Game II (Medium)](https://leetcode.com/problems/jump-game-ii/)
 - [x] 53. [Maximum Subarray (Medium)](https://leetcode.com/problems/maximum-subarray/)
   - Already finished with another pattern/method.
-- [ ] 55. [Jump Game (Medium)](https://leetcode.com/problems/jump-game/)
+- [x] 55. [Jump Game (Medium)](https://leetcode.com/problems/jump-game/)
+  - There is also a DP solution.
 - [ ] 134. [Gas Station (Medium)](https://leetcode.com/problems/gas-station/)
 - [ ] 678. [Valid Parenthesis String (Medium)](https://leetcode.com/problems/valid-parenthesis-string/)
 - [ ] 763. [Partition Labels (Medium)](https://leetcode.com/problems/partition-labels/)
