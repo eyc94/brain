@@ -156,7 +156,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Dynamic Programming](patterns/dynamic-programming.md) ![0/8 = 0%](https://progress-bar.dev/0)
 - [ ] [Cyclic Sort](patterns/cyclic-sort.md) ![0/5 = 0%](https://progress-bar.dev/0)
 - [ ] [Topological Sort](patterns/topological-sort.md) ![0/7 = 0%](https://progress-bar.dev/0)
-- [ ] [Stacks](patterns/stacks.md) ![0/12 = 0%](https://progress-bar.dev/0)
+- [ ] [Stacks](patterns/stacks.md) ![1/12 = 8%](https://progress-bar.dev/8)
 - [ ] [Trie](patterns/trie.md) ![2/6 = 33%](https://progress-bar.dev/33)
 - [ ] [Hash Maps](patterns/hash-maps.md) ![0/6 = 0%](https://progress-bar.dev/0)
 - [ ] [Union Find](patterns/union-find.md) ![0/6 = 0%](https://progress-bar.dev/0)
