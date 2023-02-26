@@ -10,7 +10,7 @@
 ## :round_pushpin: Requirements
 - Problem asks for top, smallest, or frequent elements.
 
-## :round_pushpin: Leetcode Problems ![6/15 = 40%](https://progress-bar.dev/40)
+## :round_pushpin: Leetcode Problems ![7/15 = 47%](https://progress-bar.dev/47)
 - [x] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - We can utilize a `Min Heap` or a `Max Heap`.
 - [x] 230. [Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
@@ -19,7 +19,7 @@
 - [ ] 358. [Rearrange String k Distance Apart (Hard)](https://leetcode.com/problems/rearrange-string-k-distance-apart/)
 - [x] 451. [Sort Characters By Frequency (Medium)](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] 621. [Task Scheduler (Medium)](https://leetcode.com/problems/task-scheduler/)
-- [ ] 658. [Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements/)
+- [x] 658. [Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements/)
 - [x] 703. [Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - [ ] 767. [Reorganize String (Medium)](https://leetcode.com/problems/reorganize-string/)
 - [ ] 895. [Frequency Stack (Hard)](https://leetcode.com/problems/maximum-frequency-stack/)
