@@ -16,7 +16,7 @@
 - Histograms
 - Undo/redo operations
 
-## :round_pushpin: Leetcode Problems ![3/12 = 25%](https://progress-bar.dev/25)
+## :round_pushpin: Leetcode Problems ![4/12 = 33%](https://progress-bar.dev/33)
 
 - [x] 20. [Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
 - [ ] 22. [Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses/)
@@ -28,7 +28,7 @@
 - [ ] 636. [Exclusive Time of Functions (Medium)](https://leetcode.com/problems/exclusive-time-of-functions/)
 - [ ] 739. [Daily Temperatures (Medium)](https://leetcode.com/problems/daily-temperatures/description/)
 - [ ] 853. [Car Fleet (Medium)](https://leetcode.com/problems/car-fleet/description/)
-- [ ] 1047. [Remove All Adjacent Duplicates In String (Easy)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [x] 1047. [Remove All Adjacent Duplicates In String (Easy)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [ ] 1249. [Minimum Remove to Make Valid Parentheses (Medium)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 ## :round_pushpin: Sources
