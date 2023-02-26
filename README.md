@@ -152,7 +152,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Top K Elements](patterns/top-k-elements.md) ![6/15 = 40%](https://progress-bar.dev/40)
 - [ ] [Modified Binary Search](patterns/modified-binary-search.md) ![4/18 = 17%](https://progress-bar.dev/17)
 - [ ] [Greedy](patterns/greedy.md) ![1/10 = 10%](https://progress-bar.dev/10)
-- [ ] [Backtracking](patterns/backtracking.md) ![0/10 = 0%](https://progress-bar.dev/0)
+- [ ] [Backtracking](patterns/backtracking.md) ![1/9 = 11%](https://progress-bar.dev/11)
 - [ ] [Dynamic Programming](patterns/dynamic-programming.md) ![0/8 = 0%](https://progress-bar.dev/0)
 - [ ] [Cyclic Sort](patterns/cyclic-sort.md) ![0/5 = 0%](https://progress-bar.dev/0)
 - [ ] [Topological Sort](patterns/topological-sort.md) ![0/7 = 0%](https://progress-bar.dev/0)

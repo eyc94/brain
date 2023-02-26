@@ -21,14 +21,14 @@ Examples:
 
 ## :round_pushpin: Limitations
 
-## :round_pushpin: Leetcode Problems ![0/10 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![1/9 = 11%](https://progress-bar.dev/11)
 
 - [ ] 17. [Letter Combinations of a Phone Number (Medium)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [ ] 37. [Sudoku Solver (Hard)](https://leetcode.com/problems/sudoku-solver/)
 - [ ] 39. [Combination Sum (Medium)](https://leetcode.com/problems/combination-sum/)
 - [ ] 40. [Combination Sum II (Medium)](https://leetcode.com/problems/combination-sum-ii/)
 - [ ] 51. [N-Queens (Hard)](https://leetcode.com/problems/n-queens/)
-- [ ] 79. [Word Search (Medium)](https://leetcode.com/problems/word-search/)
+- [x] 79. [Word Search (Medium)](https://leetcode.com/problems/word-search/)
 - [ ] 93. [Restore IP Addresses (Medium)](https://leetcode.com/problems/restore-ip-addresses/)
 - [ ] 131. [Palindrome Partitioning (Medium)](https://leetcode.com/problems/palindrome-partitioning/)
 - [ ] 337. [House Robber III (Medium)](https://leetcode.com/problems/house-robber-iii/)
