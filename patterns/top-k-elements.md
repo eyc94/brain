@@ -10,7 +10,7 @@
 ## :round_pushpin: Requirements
 - Problem asks for top, smallest, or frequent elements.
 
-## :round_pushpin: Leetcode Problems ![9/15 = 60%](https://progress-bar.dev/60)
+## :round_pushpin: Leetcode Problems ![10/15 = 67%](https://progress-bar.dev/67)
 - [x] 215. [Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - We can utilize a `Min Heap` or a `Max Heap`.
 - [x] 230. [Kth Smallest Element in a BST (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
@@ -27,7 +27,8 @@
 - [ ] 1000. [Minimum Cost to Merge Stones (Hard)](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 - [x] 1167. [Minimum Cost to Connect Sticks (Medium)](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
 - [x] 1636. [Sort Array by Increasing Frequency (Easy)](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
-- [ ] 2461. [Maximum Sum of Distinct Subarrays With Length K (Medium)](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+- [x] 2461. [Maximum Sum of Distinct Subarrays With Length K (Medium)](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+  - This problem should be a sliding window problem.
 
 ## :round_pushpin: Sources
 *List to be updated...*
