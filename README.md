@@ -293,7 +293,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![0/25 = 0%](https://progress-bar.dev/0)
+### Dynamic Programming ![1/26 = 4%](https://progress-bar.dev/4)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 55. [:orange_book: Jump Game](https://leetcode.com/problems/jump-game/description/)
@@ -303,6 +303,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 91. [:orange_book: Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] 97. [:orange_book: Interleaving String](https://leetcode.com/problems/interleaving-string/)
 - [ ] 115. [:closed_book: Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+- [x] 123. [:closed_book: Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - [ ] 139. [:orange_book: Word Break](https://leetcode.com/problems/word-break/description/)
 - [ ] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [ ] 198. [:orange_book: House Robber](https://leetcode.com/problems/house-robber/)
