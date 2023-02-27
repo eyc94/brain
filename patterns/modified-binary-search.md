@@ -9,7 +9,7 @@
 ## :round_pushpin: Requirements
 - Input must be sorted in some way.
 
-## :round_pushpin: Leetcode Problems ![7/18 = 39%](https://progress-bar.dev/39)
+## :round_pushpin: Leetcode Problems ![8/18 = 44%](https://progress-bar.dev/44)
 
 - [x] 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - Used `Heap` to finish this as well.
@@ -24,7 +24,8 @@
 - [ ] 162. [Find Peak Element (Medium)](https://leetcode.com/problems/find-peak-element/)
 - [ ] 528. [Random Pick with Weight (Medium)](https://leetcode.com/problems/random-pick-with-weight/)
 - [ ] 540. [Single Element in a Sorted Array (Medium)](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [ ] 658. [Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements/)
+- [x] 658. [Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements/)
+  - I implemented with the heap method, but it can be done with binary search.
 - [ ] 702. [Search in a Sorted Array of Unknown Size (Medium)](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 - [x] 704. [Binary Search (Easy)](https://leetcode.com/problems/binary-search/)
 - [ ] 744. [Find Smallest Letter Greater Than Target (Easy)](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
