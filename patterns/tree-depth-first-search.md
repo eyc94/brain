@@ -12,7 +12,7 @@
 - Calculating the accumulation of something.
 - Usually involves a path.
 
-## :round_pushpin: Leetcode Problems ![12/14 = 86%](https://progress-bar.dev/86)
+## :round_pushpin: Leetcode Problems ![13/15 = 87%](https://progress-bar.dev/87)
 
 - [x] 94. [:green_book: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 - [x] 104. [Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -22,6 +22,7 @@
 - [x] 124. [Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [x] 129. [Sum Root to Leaf Numbers (Medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [x] 144. [:green_book: Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+- [x] 145. [:green_book: Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 - [x] 226. [Invert Binary Tree (Easy)](https://leetcode.com/problems/invert-binary-tree/)
 - [x] 257. [Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths/)
 - [ ] 297. [Serialize and Deserialize Binary Tree (Hard)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)

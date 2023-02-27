@@ -146,7 +146,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Linked Lists Reversals](patterns/linked-list-reversals.md) ![9/11 = 82%](https://progress-bar.dev/82)
 - [ ] [Two Heaps](patterns/two-heaps.md) ![1/4 = 25%](https://progress-bar.dev/25)
 - [ ] [Tree Breadth First Search (BFS)](patterns/tree-breadth-first-search.md) ![9/10 = 90%](https://progress-bar.dev/90)
-- [ ] [Tree Depth First Search (DFS)](patterns/tree-depth-first-search.md) ![12/14 = 86%](https://progress-bar.dev/86)
+- [ ] [Tree Depth First Search (DFS)](patterns/tree-depth-first-search.md) ![13/15 = 87%](https://progress-bar.dev/87)
 - [ ] [Subsets](patterns/subsets.md) ![4/10 = 40%](https://progress-bar.dev/40)
 - [ ] [K-Way Merge](patterns/k-way-merge.md) ![3/7 = 43%](https://progress-bar.dev/43)
 - [ ] [Top K Elements](patterns/top-k-elements.md) ![10/15 = 67%](https://progress-bar.dev/67)
