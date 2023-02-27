@@ -1,5 +1,4 @@
-![Last Commit](https://img.shields.io/github/last-commit/eyc94/dsna?style=flat-square&logo=github&label=Updated&color=blue&labelColor=grey&logoColor=white&dateFormat=long&token=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)
-
+![Updated](https://img.shields.io/github/last-commit/eyc94/dsna?style=flat-square&logo=github&label=Updated&color=blue&labelColor=grey&logoColor=white&dateFormat=long)
 # :heavy_check_mark: Data Structures & Algorithms
 
 ## :round_pushpin: Data Structures
