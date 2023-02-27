@@ -12,13 +12,13 @@
 - Calculating the accumulation of something.
 - Usually involves a path.
 
-## :round_pushpin: Leetcode Problems ![13/15 = 87%](https://progress-bar.dev/87)
+## :round_pushpin: Leetcode Problems ![14/15 = 93%](https://progress-bar.dev/93)
 
 - [x] 94. [:green_book: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 - [x] 104. [Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [x] 112. [Path Sum (Easy)](https://leetcode.com/problems/path-sum/)
 - [x] 113. [Path Sum II (Medium)](https://leetcode.com/problems/path-sum-ii/)
-- [ ] 114. [Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+- [x] 114. [Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 - [x] 124. [Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [x] 129. [Sum Root to Leaf Numbers (Medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [x] 144. [:green_book: Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
