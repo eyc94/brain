@@ -160,7 +160,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Trie](patterns/trie.md) ![2/6 = 33%](https://progress-bar.dev/33)
 - [ ] [Hash Maps](patterns/hash-maps.md) ![0/6 = 0%](https://progress-bar.dev/0)
 - [ ] [Union Find](patterns/union-find.md) ![0/6 = 0%](https://progress-bar.dev/0)
-- [ ] [Bitwise Manipulation](patterns/bitwise-manipulation.md) ![0/7 = 0%](https://progress-bar.dev/0)
+- [ ] [Bitwise Manipulation](patterns/bitwise-manipulation.md) ![1/6 = 17%](https://progress-bar.dev/17)
 - [ ] [Custom Data Structures](patterns/custom-data-structures.md) ![0/6 = 0%](https://progress-bar.dev/0)
 
 ## :round_pushpin: Top Leetcode Questions

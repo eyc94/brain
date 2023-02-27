@@ -95,9 +95,9 @@ Important properties:
   a. `(a ^ b) ^ c = a ^ (b ^ c)`
   b. `a ^ b = b ^ a`
 
-## :round_pushpin: Leetcode Problems ![0/7 = 0%](https://progress-bar.dev/0)
+## :round_pushpin: Leetcode Problems ![1/6 = 17%](https://progress-bar.dev/17)
 
-- [ ] 136. [Single Number (Easy)](https://leetcode.com/problems/single-number/)
+- [x] 136. [Single Number (Easy)](https://leetcode.com/problems/single-number/)
 - [ ] 137. [Single Number II (Medium)](https://leetcode.com/problems/single-number-ii/)
 - [ ] 190. [Reverse Bits (Easy)](https://leetcode.com/problems/reverse-bits/)
 - [ ] 389. [Find the Difference (Easy)](https://leetcode.com/problems/find-the-difference/)
