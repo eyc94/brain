@@ -9,7 +9,7 @@
 ## :round_pushpin: Requirements
 - Input must be sorted in some way.
 
-## :round_pushpin: Leetcode Problems ![6/18 = 33%](https://progress-bar.dev/33)
+## :round_pushpin: Leetcode Problems ![7/18 = 39%](https://progress-bar.dev/39)
 
 - [x] 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - Used `Heap` to finish this as well.
@@ -18,7 +18,7 @@
 - [x] 35. [Search Insert Position (Easy)](https://leetcode.com/problems/search-insert-position/description/)
 - [x] 74. [Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [ ] 81. [Search in a Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [ ] 278. [First Bad Version (Easy)](https://leetcode.com/problems/first-bad-version/)
+- [x] 278. [First Bad Version (Easy)](https://leetcode.com/problems/first-bad-version/)
 - [x] 153. [Find Minimum in Rotated Sorted Array (Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] 154. [Find Minimum in Rotated Sorted Array II (Hard)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [ ] 162. [Find Peak Element (Medium)](https://leetcode.com/problems/find-peak-element/)
