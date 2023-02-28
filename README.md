@@ -228,7 +228,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [ ] 796. [:green_book: Rotate String](https://leetcode.com/problems/rotate-string/)
 
-### Stacks and Queues ![4/7 = 57%](https://progress-bar.dev/57)
+### Stacks and Queues ![4/8 = 50%](https://progress-bar.dev/50)
 - [x] 20. [:green_book: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] 71. [:orange_book: Simplify Path](https://leetcode.com/problems/simplify-path/)
 - [x] 102. [:green_book: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
@@ -236,6 +236,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 155. [:orange_book: Min Stack](https://leetcode.com/problems/min-stack/)
 - [ ] 232. [:green_book: Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ] 622. [:orange_book: Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+- [ ] 1172. [:closed_book: Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
 
 ### Binary ![1/6 = 17%](https://progress-bar.dev/17)
 - [x] 136. [:green_book: Single Number](https://leetcode.com/problems/single-number/description/)
