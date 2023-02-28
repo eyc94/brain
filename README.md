@@ -325,7 +325,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 994. [:orange_book: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [ ] 1584. [:orange_book: Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
-### Heap ![7/9 = 78%](https://progress-bar.dev/78)
+### Heap ![7/12 = 78%](https://progress-bar.dev/78)
 - [x] 23. [:closed_book: Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [x] 215. [:orange_book: Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [x] 295. [:closed_book: Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)
@@ -336,7 +336,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![1/26 = 4%](https://progress-bar.dev/4)
+### Dynamic Programming ![1/29 = 3%](https://progress-bar.dev/3)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 55. [:orange_book: Jump Game](https://leetcode.com/problems/jump-game/description/)
@@ -346,8 +346,10 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 91. [:orange_book: Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] 97. [:orange_book: Interleaving String](https://leetcode.com/problems/interleaving-string/)
 - [ ] 115. [:closed_book: Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+- [ ] 120. [:orange_book: Triangle](https://leetcode.com/problems/triangle/)
 - [x] 123. [:closed_book: Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - [ ] 139. [:orange_book: Word Break](https://leetcode.com/problems/word-break/description/)
+- [ ] 140. [:closed_book: Word Break II](https://leetcode.com/problems/word-break-ii/)
 - [ ] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [ ] 198. [:orange_book: House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] 213. [:orange_book: House Robber II](https://leetcode.com/problems/house-robber-ii/)
@@ -362,6 +364,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 518. [:orange_book: Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [ ] 746. [:green_book: Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [ ] 877. [:orange_book: Stone Game](https://leetcode.com/problems/stone-game/)
 - [ ] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 ### Math & Geometry ![3/5 = 60%](https://progress-bar.dev/60)
