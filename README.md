@@ -283,7 +283,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 
-### Tree ![15/24 = 63%](https://progress-bar.dev/63)
+### Tree ![15/25 = 60%](https://progress-bar.dev/60)
 - [x] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [x] 100. [:green_book: Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [ ] 101. [:green_book: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
@@ -303,13 +303,15 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 236. [:orange_book: Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 - [ ] 285. [:orange_book: Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) :lock:
 - [ ] 297. [:closed_book: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
+- [ ] 510. [:orange_book: Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) :lock:
 - [x] 543. [:green_book: Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [ ] 545. [:orange_book: Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/) :lock:
 - [x] 572. [:green_book: Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
 - [ ] 1028. [:closed_book: Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
 - [x] 1448. [:orange_book: Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
+- [ ] 1569. [:closed_book: Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)
 
-### Graph ![3/23 = 13%](https://progress-bar.dev/13)
+### Graph ![3/24 = 13%](https://progress-bar.dev/13)
 - [ ] 127. [:closed_book: Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [x] 130. [:orange_book: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
@@ -333,6 +335,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 994. [:orange_book: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 - [ ] 1020. [:orange_book: Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
 - [ ] 1584. [:orange_book: Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+- [ ] 1971. [:green_book: Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
 ### Heap ![7/12 = 78%](https://progress-bar.dev/78)
 - [x] 23. [:closed_book: Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
