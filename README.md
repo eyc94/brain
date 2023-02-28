@@ -174,7 +174,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![21/27 = 81%](https://progress-bar.dev/81)
+### Array ![21/28 = 75%](https://progress-bar.dev/75)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
@@ -190,6 +190,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 119. [:green_book: Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [x] 121. [:green_book: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [x] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- [ ] 149. [:closed_book: Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - [x] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [x] 153. [:orange_book: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] 204. [:orange_book: Count Primes](https://leetcode.com/problems/count-primes/description/)
@@ -204,7 +205,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 1920. [:green_book: Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
   - Try to solve this problem with `O(1)` space complexity.
 
-### String ![9/22 = 41%](https://progress-bar.dev/41)
+### String ![9/23 = 39%](https://progress-bar.dev/39)
 - [x] 3. [:orange_book: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [x] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 6. [:orange_book: Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
@@ -223,17 +224,19 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [ ] 266. [:green_book: Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) :lock:
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
+- [ ] 290. [:green_book: Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [x] 424. [:orange_book: Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 - [ ] 443. [:orange_book: String Compression](https://leetcode.com/problems/string-compression/)
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [ ] 796. [:green_book: Rotate String](https://leetcode.com/problems/rotate-string/)
 
-### Stacks and Queues ![4/8 = 50%](https://progress-bar.dev/50)
+### Stacks and Queues ![4/9 = 44%](https://progress-bar.dev/44)
 - [x] 20. [:green_book: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] 71. [:orange_book: Simplify Path](https://leetcode.com/problems/simplify-path/)
 - [x] 102. [:green_book: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [x] 150. [:orange_book: Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [x] 155. [:orange_book: Min Stack](https://leetcode.com/problems/min-stack/)
+- [ ] 227. [:orange_book: Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 - [ ] 232. [:green_book: Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ] 622. [:orange_book: Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 - [ ] 1172. [:closed_book: Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
@@ -277,11 +280,12 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 445. [:orange_book: Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 - [ ] 1836. [:orange_book: Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) :lock:
 
-### Matrix ![4/4 = 100%](https://progress-bar.dev/100)
+### Matrix ![4/5 = 80%](https://progress-bar.dev/80)
 - [x] 48. [:orange_book: Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 - [x] 54. [:orange_book: Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
 - [x] 73. [:orange_book: Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
+- [ ] 1275. [:green_book: Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 
 ### Tree ![15/25 = 60%](https://progress-bar.dev/60)
 - [x] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
@@ -384,13 +388,19 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] 1691. [:closed_book: Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
 
-### Math & Geometry ![3/6 = 50%](https://progress-bar.dev/50)
+### Math & Geometry ![3/9 = 33%](https://progress-bar.dev/33)
 - [ ] 43. [:orange_book: Multiple Strings](https://leetcode.com/problems/multiply-strings/)
 - [ ] 29. [:orange_book: Divide Two Numbers](https://leetcode.com/problems/divide-two-integers/)
 - [x] 50. [:orange_book: Pow(x,n)](https://leetcode.com/problems/powx-n/)
 - [x] 66. [:green_book: Plus One](https://leetcode.com/problems/plus-one/)
+- [ ] 172. [:orange_book: Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 - [x] 202. [:green_book: Happy Number](https://leetcode.com/problems/happy-number/)
+- [ ] 273. [:closed_book: Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+- [ ] 470. [:orange_book: Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
 - [ ] 2013. [:orange_book: Detect Squares](https://leetcode.com/problems/detect-squares/)
+
+### Other ![0/1 = 0%](https://progress-bar.dev/0)
+- [ ] 192. [:orange_book: Word Frequency](https://leetcode.com/problems/word-frequency/)
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
