@@ -9,7 +9,7 @@
 ## :round_pushpin: Requirements
 - Input must be sorted in some way.
 
-## :round_pushpin: Leetcode Problems ![9/18 = 50%](https://progress-bar.dev/50)
+## :round_pushpin: Leetcode Problems ![9/19 = 47%](https://progress-bar.dev/47)
 
 - [x] 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - Used `Heap` to finish this as well.
