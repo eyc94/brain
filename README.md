@@ -294,10 +294,10 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 - [ ] 1275. [:green_book: Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 
-### Tree ![15/25 = 60%](https://progress-bar.dev/60)
+### Tree ![16/25 = 64%](https://progress-bar.dev/64)
 - [x] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [x] 100. [:green_book: Same Tree](https://leetcode.com/problems/same-tree/description/)
-- [ ] 101. [:green_book: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [x] 101. [:green_book: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [x] 102. [:orange_book: Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 - [x] 104. [:green_book: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 - [ ] 105. [:orange_book: Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
