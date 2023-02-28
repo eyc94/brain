@@ -263,7 +263,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 435. [:orange_book: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] 1851. [:closed_book: Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
-### Linked List ![11/22 = 50%](https://progress-bar.dev/50)
+### Linked List ![12/22 = 55%](https://progress-bar.dev/55)
 - [x] 2. [:orange_book: Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 - [x] 19. [:orange_book: Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - [x] 21. [:green_book: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
@@ -277,7 +277,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 142. [:orange_book: Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [x] 143. [:orange_book: Reorder List](https://leetcode.com/problems/reorder-list/description/)
 - [x] 146. [:orange_book: LRU Cache](https://leetcode.com/problems/lru-cache/description/)
-- [ ] 160. [:green_book: Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [x] 160. [:green_book: Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [x] 206. [:green_book: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [x] 234. [:green_book: Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] 237. [:orange_book: Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
