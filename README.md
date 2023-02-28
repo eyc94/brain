@@ -174,7 +174,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![21/26 = 81%](https://progress-bar.dev/81)
+### Array ![21/27 = 81%](https://progress-bar.dev/81)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
@@ -204,7 +204,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 1920. [:green_book: Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
   - Try to solve this problem with `O(1)` space complexity.
 
-### String ![9/19 = 47%](https://progress-bar.dev/47)
+### String ![9/22 = 41%](https://progress-bar.dev/41)
 - [x] 3. [:orange_book: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [x] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 6. [:orange_book: Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
@@ -217,13 +217,16 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 76. [:closed_book: Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 - [ ] 93. [:closed_book: Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [x] 125. [:green_book: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [ ] 161. [:orange_book: One Edit Distance](https://leetcode.com/problems/one-edit-distance/) :lock:
 - [ ] 171. [:green_book: Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 - [ ] 186. [:orange_book: Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) :lock:
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+- [ ] 266. [:green_book: Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) :lock:
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
 - [x] 424. [:orange_book: Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 - [ ] 443. [:orange_book: String Compression](https://leetcode.com/problems/string-compression/)
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
+- [ ] 796. [:green_book: Rotate String](https://leetcode.com/problems/rotate-string/)
 
 ### Stacks and Queues ![4/7 = 57%](https://progress-bar.dev/57)
 - [x] 20. [:green_book: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
