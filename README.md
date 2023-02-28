@@ -303,7 +303,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 1028. [:closed_book: Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
 - [x] 1448. [:orange_book: Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
 
-### Graph ![3/20 = 15%](https://progress-bar.dev/15)
+### Graph ![3/23 = 13%](https://progress-bar.dev/13)
 - [ ] 127. [:closed_book: Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [x] 130. [:orange_book: Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)
@@ -317,12 +317,15 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 323. [:orange_book: Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) :lock:
 - [ ] 332. [:closed_book: Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)
 - [x] 417. [:orange_book: Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)
+- [ ] 505. [:orange_book: The Maze II](https://leetcode.com/problems/the-maze-ii/) :lock:
 - [ ] 684. [:orange_book: Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 - [ ] 695. [:orange_book: Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)
+- [ ] 733. [:green_book: Flood Fill](https://leetcode.com/problems/flood-fill/)
 - [ ] 743. [:orange_book: Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 - [ ] 778. [:closed_book: Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
 - [ ] 787. [:orange_book: Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
 - [ ] 994. [:orange_book: Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+- [ ] 1020. [:orange_book: Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
 - [ ] 1584. [:orange_book: Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 
 ### Heap ![7/12 = 78%](https://progress-bar.dev/78)
