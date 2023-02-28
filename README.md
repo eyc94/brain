@@ -174,10 +174,11 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![21/22 = 95%](https://progress-bar.dev/95)
+### Array ![21/26 = 81%](https://progress-bar.dev/81)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
+- [ ] 31. [:orange_book: Next Permutation](https://leetcode.com/problems/next-permutation/)
 - [x] 33. [:orange_book: Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [x] 36. [:orange_book: Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 - [ ] 42. [:closed_book: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
@@ -185,6 +186,8 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 53. [:orange_book: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [x] 66. [:green_book: Plus One](https://leetcode.com/problems/plus-one/)
 - [x] 75. [:orange_book: Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [ ] 118. [:green_book: Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [ ] 119. [:green_book: Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [x] 121. [:green_book: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [x] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [x] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
@@ -197,6 +200,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
 - [x] 280. [:orange_book: Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) :lock:
 - [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [ ] 384. [:orange_book: Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
 - [x] 1920. [:green_book: Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
   - Try to solve this problem with `O(1)` space complexity.
 
