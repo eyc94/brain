@@ -164,7 +164,7 @@ Patterns are a tool to solve specific categories of problems.
 - [ ] [Custom Data Structures](patterns/custom-data-structures.md) ![0/6 = 0%](https://progress-bar.dev/0)
 
 ## :round_pushpin: Top Leetcode Questions
-Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) post and Needcode's curated [list](https://neetcode.io/roadmap).
+Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) post and Needcode's curated [list](https://neetcode.io/roadmap) as well as from the book Elements of Programming Interviews in Java.
 - ***NOTE:*** Some questions are in the `Patterns & Techniques` section above.
 - See [this](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) for a fast Leetcode link to curated list.
 
@@ -174,7 +174,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![16/17 = 94%](https://progress-bar.dev/94)
+### Array ![19/20 = 95%](https://progress-bar.dev/95)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
@@ -183,6 +183,8 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 42. [:closed_book: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 - [x] 49. [:orange_book: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [x] 53. [:orange_book: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
+- [x] 66. [:green_book: Plus One](https://leetcode.com/problems/plus-one/)
+- [x] 75. [:orange_book: Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [x] 121. [:green_book: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [x] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - [x] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
@@ -191,6 +193,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 238. [:orange_book: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
+- [ ] 280. [:orange_book: Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) :lock:
 - [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 ### String ![9/10 = 90%](https://progress-bar.dev/90)
