@@ -204,16 +204,25 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 1920. [:green_book: Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
   - Try to solve this problem with `O(1)` space complexity.
 
-### String ![9/10 = 90%](https://progress-bar.dev/90)
+### String ![9/19 = 47%](https://progress-bar.dev/47)
 - [x] 3. [:orange_book: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [x] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+- [ ] 6. [:orange_book: Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+- [ ] 8. [:orange_book: String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+- [ ] 13. [:green_book: Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [ ] 17. [:orange_book: Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [x] 20. [:green_book: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+- [ ] 38. [:orange_book: Count and Say](https://leetcode.com/problems/count-and-say/)
 - [x] 49. [:orange_book: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 - [x] 76. [:closed_book: Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+- [ ] 93. [:closed_book: Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [x] 125. [:green_book: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [ ] 171. [:green_book: Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [ ] 186. [:orange_book: Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) :lock:
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
 - [x] 424. [:orange_book: Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+- [ ] 443. [:orange_book: String Compression](https://leetcode.com/problems/string-compression/)
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 
 ### Binary ![0/6 = 0%](https://progress-bar.dev/0)
