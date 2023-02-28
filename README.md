@@ -234,8 +234,8 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 232. [:green_book: Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ] 622. [:orange_book: Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 
-### Binary ![0/6 = 0%](https://progress-bar.dev/0)
-- [ ] 136. [:green_book: Single Number](https://leetcode.com/problems/single-number/description/)
+### Binary ![1/6 = 17%](https://progress-bar.dev/17)
+- [x] 136. [:green_book: Single Number](https://leetcode.com/problems/single-number/description/)
 - [ ] 190. [:green_book: Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [ ] 191. [:green_book: Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 - [ ] 268. [:green_book: Missing Number](https://leetcode.com/problems/missing-number/description/)
