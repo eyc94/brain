@@ -174,7 +174,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![21/28 = 75%](https://progress-bar.dev/75)
+### Array ![21/34 = 62%](https://progress-bar.dev/62)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
@@ -193,15 +193,20 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 149. [:closed_book: Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - [x] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [x] 153. [:orange_book: Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [ ] 169. [:green_book: Majority Element](https://leetcode.com/problems/majority-element/)
 - [x] 204. [:orange_book: Count Primes](https://leetcode.com/problems/count-primes/description/)
   - See `Sieve of Eratosthenes`.
 - [x] 217. [:green_book: Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [x] 238. [:orange_book: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+- [ ] 243. [:green_book: Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) :lock:
+- [ ] 244. [:orange_book: Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) :lock:
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
 - [x] 280. [:orange_book: Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) :lock:
 - [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - [ ] 384. [:orange_book: Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+- [ ] 427. [:closed_book: Concatenated Words](https://leetcode.com/problems/concatenated-words/)
+- [ ] 525. [:orange_book: Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [x] 1920. [:green_book: Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
   - Try to solve this problem with `O(1)` space complexity.
 
@@ -241,7 +246,8 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 622. [:orange_book: Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
 - [ ] 1172. [:closed_book: Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
 
-### Binary ![1/6 = 17%](https://progress-bar.dev/17)
+### Binary ![1/7 = 14%](https://progress-bar.dev/14)
+- [ ] 67. [:green_book: Add Binary](https://leetcode.com/problems/add-binary/)
 - [x] 136. [:green_book: Single Number](https://leetcode.com/problems/single-number/description/)
 - [ ] 190. [:green_book: Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [ ] 191. [:green_book: Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
@@ -352,7 +358,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![1/34 = 3%](https://progress-bar.dev/3)
+### Dynamic Programming ![1/36 = 3%](https://progress-bar.dev/3)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -372,6 +378,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [ ] 198. [:orange_book: House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] 213. [:orange_book: House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [ ] 221. [:orange_book: Maximal Square](https://leetcode.com/problems/maximal-square/)
 - [ ] 300. [:orange_book: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 - [ ] 309. [:orange_book: Best Time to Buy and Sell Stock with Cooldown (Medium)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [ ] 312. [:closed_book: Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
@@ -382,6 +389,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 494. [:orange_book: Target Sum](https://leetcode.com/problems/target-sum/description/)
 - [ ] 518. [:orange_book: Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
+- [ ] 727. [:closed_book: Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) :lock:
 - [ ] 746. [:green_book: Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [ ] 877. [:orange_book: Stone Game](https://leetcode.com/problems/stone-game/)
 - [ ] 1137. [:green_book: N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
@@ -399,8 +407,9 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 470. [:orange_book: Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
 - [ ] 2013. [:orange_book: Detect Squares](https://leetcode.com/problems/detect-squares/)
 
-### Other ![0/1 = 0%](https://progress-bar.dev/0)
+### Other ![0/2 = 0%](https://progress-bar.dev/0)
 - [ ] 192. [:orange_book: Word Frequency](https://leetcode.com/problems/word-frequency/)
+- [ ] 426. [:orange_book: Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) :lock:
 
 ## :round_pushpin: Java Utilities
 - Java `Arrays` class.
