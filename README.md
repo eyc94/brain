@@ -174,7 +174,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![21/34 = 62%](https://progress-bar.dev/62)
+### Array ![22/34 = 65%](https://progress-bar.dev/65)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
@@ -186,7 +186,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 53. [:orange_book: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 - [x] 66. [:green_book: Plus One](https://leetcode.com/problems/plus-one/)
 - [x] 75. [:orange_book: Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] 118. [:green_book: Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [x] 118. [:green_book: Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [ ] 119. [:green_book: Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [x] 121. [:green_book: Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [x] 128. [:orange_book: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
