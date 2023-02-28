@@ -193,7 +193,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 238. [:orange_book: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
-- [ ] 280. [:orange_book: Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) :lock:
+- [x] 280. [:orange_book: Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) :lock:
 - [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 
 ### String ![9/10 = 90%](https://progress-bar.dev/90)
