@@ -263,7 +263,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 435. [:orange_book: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] 1851. [:closed_book: Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
-### Linked List ![21/22 = 95%](https://progress-bar.dev/95)
+### Linked List ![22/22 = 100%](https://progress-bar.dev/100)
 - [x] 2. [:orange_book: Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 - [x] 19. [:orange_book: Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - [x] 21. [:green_book: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
@@ -271,7 +271,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 23. [:closed_book: Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [x] 61. [:closed_book: Rotate List](https://leetcode.com/problems/rotate-list/)
 - [x] 83. [:green_book: Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-- [ ] 86. [:orange_book: Partition List](https://leetcode.com/problems/partition-list/)
+- [x] 86. [:orange_book: Partition List](https://leetcode.com/problems/partition-list/)
 - [x] 138. [:orange_book: Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 - [x] 141. [:green_book: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 - [x] 142. [:orange_book: Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
