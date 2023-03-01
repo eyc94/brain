@@ -174,7 +174,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - :closed_book: Hard
 - :lock: LC Premium
 
-### Array ![28/34 = 82%](https://progress-bar.dev/82)
+### Array ![29/34 = 85%](https://progress-bar.dev/85)
 - [x] 1. [:green_book: Two Sum](https://leetcode.com/problems/two-sum/description/)
 - [x] 11. [:orange_book: Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 - [x] 15. [:orange_book: 3Sum](https://leetcode.com/problems/3sum/description/)
@@ -200,7 +200,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 238. [:orange_book: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [x] 243. [:green_book: Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) :lock:
-- [ ] 244. [:orange_book: Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) :lock:
+- [x] 244. [:orange_book: Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) :lock:
 - [x] 271. [:orange_book: Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:
 - [x] 280. [:orange_book: Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) :lock:
 - [x] 347. [:orange_book: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
