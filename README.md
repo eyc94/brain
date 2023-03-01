@@ -263,7 +263,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 435. [:orange_book: Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] 1851. [:closed_book: Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
 
-### Linked List ![18/22 = 82%](https://progress-bar.dev/82)
+### Linked List ![19/22 = 86%](https://progress-bar.dev/86)
 - [x] 2. [:orange_book: Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 - [x] 19. [:orange_book: Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 - [x] 21. [:green_book: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
@@ -283,7 +283,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 237. [:orange_book: Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - [x] 287. [:orange_book: Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - [x] 328. [:orange_book: Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
-- [ ] 445. [:orange_book: Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+- [x] 445. [:orange_book: Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 - [ ] 1836. [:orange_book: Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) :lock:
 - [ ] 2095. [:orange_book: Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
