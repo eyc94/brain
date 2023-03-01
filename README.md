@@ -139,7 +139,7 @@ There are many types of sorting algorithms:
 ## :round_pushpin: Patterns & Techniques
 Patterns are a tool to solve specific categories of problems.
 
-- [ ] [Sliding Window](patterns/sliding-window.md) ![23/26 = 88%](https://progress-bar.dev/88)
+- [ ] [Sliding Window](patterns/sliding-window.md) ![24/26 = 92%](https://progress-bar.dev/92)
 - [ ] [Two Pointers](patterns/two-pointers.md) ![27/29 = 93%](https://progress-bar.dev/93)
 - [x] [Fast and Slow Pointers](patterns/fast-and-slow-pointers.md) ![7/7 = 100%](https://progress-bar.dev/100)
 - [ ] [Intervals](patterns/intervals.md) ![6/7 = 86%](https://progress-bar.dev/86)
