@@ -359,7 +359,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![1/38 = 3%](https://progress-bar.dev/3)
+### Dynamic Programming ![2/38 = 5%](https://progress-bar.dev/5)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -396,7 +396,8 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 746. [:green_book: Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [ ] 877. [:orange_book: Stone Game](https://leetcode.com/problems/stone-game/)
 - [ ] 1137. [:green_book: N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
-- [ ] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [x] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+  - See [here](lc-solutions/dynamic-programming/longest-common-subsequence.md) for an in-depth explanation.
 - [ ] 1691. [:closed_book: Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
 
 ### Math & Geometry ![3/9 = 33%](https://progress-bar.dev/33)
