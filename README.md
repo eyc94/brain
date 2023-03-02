@@ -397,7 +397,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 877. [:orange_book: Stone Game](https://leetcode.com/problems/stone-game/)
 - [ ] 1137. [:green_book: N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [x] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-  - See [here](lc-solutions/dynamic-programming/longest-common-subsequence.md) for an in-depth explanation.
+  - [Explanation](lc-solutions/dynamic-programming/longest-common-subsequence.md)
 - [ ] 1691. [:closed_book: Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
 
 ### Math & Geometry ![3/9 = 33%](https://progress-bar.dev/33)
