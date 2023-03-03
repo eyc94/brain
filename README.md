@@ -359,7 +359,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![2/38 = 5%](https://progress-bar.dev/5)
+### Dynamic Programming ![3/38 = 8%](https://progress-bar.dev/8)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -368,7 +368,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 62. [:orange_book: Unique Paths](https://leetcode.com/problems/unique-paths/description/)
 - [ ] 63. [:orange_book: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [ ] 70. [:green_book: Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
-- [ ] 72. [:closed_book: Edit Distance](https://leetcode.com/problems/edit-distance/)
+- [x] 72. [:closed_book: Edit Distance](https://leetcode.com/problems/edit-distance/)
   - [Explanation](lc-solutions/dynamic-programming/edit-distance.md)
 - [ ] 91. [:orange_book: Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [ ] 97. [:orange_book: Interleaving String](https://leetcode.com/problems/interleaving-string/)
