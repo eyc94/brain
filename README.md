@@ -368,6 +368,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 62. [:orange_book: Unique Paths](https://leetcode.com/problems/unique-paths/description/)
 - [ ] 63. [:orange_book: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [ ] 70. [:green_book: Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+  - [Explanation](lc-solutions/dynamic-programming/climbing-stairs.md)
 - [x] 72. [:closed_book: Edit Distance](https://leetcode.com/problems/edit-distance/)
   - [Explanation](lc-solutions/dynamic-programming/edit-distance.md)
 - [ ] 91. [:orange_book: Decode Ways](https://leetcode.com/problems/decode-ways/)
