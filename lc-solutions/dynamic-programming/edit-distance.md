@@ -123,7 +123,7 @@ In conclusion:
 To determine what we do:
 1. If the characters are equal: `dp[i][j] = dp[i - 1][j - 1]`
 2. If the characters are *not* equal, we can insert, delete, or replace. To determine *which* operation we do, we have to grab the minimum edit distance of the 3 and add 1 for the current cell's operation, So:
-  - `dp[i][j] = Math.min(dp[i - 1][j - 1], dp[i][j - 1], dp[i - 1][j]) + 1`
+    - `dp[i][j] = Math.min(dp[i - 1][j - 1], dp[i][j - 1], dp[i - 1][j]) + 1`
 
 ### What About Determining Steps?
 So, there are *many* ways to arrive at the result. Because of this, there are many ways to backtrack and get the operations we did.
