@@ -53,6 +53,8 @@ The LCS problem has the properties of a DP problem:
 Subproblem solutions are `memoized` for faster access/calculations/reuse.
 
 ## :round_pushpin: Min Cost Climbing Stairs Properties
+***Note:*** It is important to understand the distinction between **landing** on a stair and **passing** a stair.
+
 To understand the Dynamic Programming approach, we must understand what is going on.
 
 We know that we can start at the stair at index `0` or `1` because the problem says so. So, there are *two* base cases. At the first and second stairs, the cost will be `0`.
