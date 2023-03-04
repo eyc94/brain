@@ -396,6 +396,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [ ] 727. [:closed_book: Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) :lock:
 - [ ] 746. [:green_book: Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+  - [Explanation](lc-solutions/dynamic-programming/min-cost-climbing-stairs.md)
 - [ ] 877. [:orange_book: Stone Game](https://leetcode.com/problems/stone-game/)
 - [ ] 1137. [:green_book: N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [x] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
