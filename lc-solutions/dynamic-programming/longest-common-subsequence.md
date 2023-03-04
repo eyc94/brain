@@ -1,4 +1,4 @@
-# :heavy_check_mark: 1143. Longest Common Subsequence (LCS)
+# :heavy_check_mark: 1143. :orange_book: Longest Common Subsequence (LCS)
 *Last Updated: 3/1/2023*
 
 ![Image of longest common subsequence](../../images/lc-solutions/dynamic-programming/longest-common-subsequence.png)

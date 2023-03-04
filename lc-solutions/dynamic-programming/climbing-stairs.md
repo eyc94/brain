@@ -1,4 +1,4 @@
-# :heavy_check_mark: 70. Climbing Stairs
+# :heavy_check_mark: 70. :green_book: Climbing Stairs
 *Last Updated: 3/3/2023*
 
 ![Image of climbing stairs problem](../../images/lc-solutions/dynamic-programming/climbing-stairs.png)
