@@ -8,6 +8,8 @@ This is a classic algorithm that asks how many distinct ways there are to climb 
 
 This can be solved using Dynamic Programming (DP) or recursion (though inefficient).
 
+Basically, the recursion has us checking at every step, what step we can make next. It's either 1 or 2. It creates a recursion tree with repeated work (repeated calls to the same step).
+
 ## :round_pushpin: Problem
 Leetcode problem [reference](https://leetcode.com/problems/climbing-stairs/)
 
