@@ -359,7 +359,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![6/38 = 16%](https://progress-bar.dev/16)
+### Dynamic Programming ![7/38 = 18%](https://progress-bar.dev/18)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -367,7 +367,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 55. [:orange_book: Jump Game](https://leetcode.com/problems/jump-game/description/)
 - [x] 62. [:orange_book: Unique Paths](https://leetcode.com/problems/unique-paths/description/)
   - [Explanation](lc-solutions/dynamic-programming/unique-paths.md)
-- [ ] 63. [:orange_book: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+- [x] 63. [:orange_book: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
   - [Explanation](lc-solutions/dynamic-programming/unique-paths-ii.md)
 - [x] 70. [:green_book: Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
   - [Explanation](lc-solutions/dynamic-programming/climbing-stairs.md)
