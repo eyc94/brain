@@ -382,6 +382,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 140. [:closed_book: Word Break II](https://leetcode.com/problems/word-break-ii/)
 - [ ] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
 - [ ] 198. [:orange_book: House Robber](https://leetcode.com/problems/house-robber/)
+  - [Explanation](lc-solutions/dynamic-programming/house-robber.md)
 - [ ] 213. [:orange_book: House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] 221. [:orange_book: Maximal Square](https://leetcode.com/problems/maximal-square/)
 - [ ] 233. [:closed_book: Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
