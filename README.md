@@ -294,7 +294,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 79. [:orange_book: Word Search](https://leetcode.com/problems/word-search/description/)
 - [ ] 1275. [:green_book: Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 
-### Tree ![17/25 = 68%](https://progress-bar.dev/68)
+### Tree ![18/25 = 72%](https://progress-bar.dev/72)
 - [x] 98. [:orange_book: Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 - [x] 100. [:green_book: Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [x] 101. [:green_book: Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
@@ -311,7 +311,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 226. [:green_book: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 - [x] 230. [:orange_book: Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - [x] 235. [:orange_book: Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
-- [ ] 236. [:orange_book: Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+- [x] 236. [:orange_book: Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 - [x] 285. [:orange_book: Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) :lock:
 - [ ] 297. [:closed_book: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 - [ ] 510. [:orange_book: Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) :lock:
