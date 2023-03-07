@@ -366,6 +366,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 47. [:orange_book: Permutations II](https://leetcode.com/problems/permutations-ii/)
 - [ ] 55. [:orange_book: Jump Game](https://leetcode.com/problems/jump-game/description/)
 - [ ] 62. [:orange_book: Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+  - [Explanation](lc-solutions/dynamic-programming/unique-paths)
 - [ ] 63. [:orange_book: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [x] 70. [:green_book: Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
   - [Explanation](lc-solutions/dynamic-programming/climbing-stairs.md)
