@@ -109,7 +109,7 @@ Here are some applications in the real-world:
 - Game development.
 - Path planning in autonomous vehicles.
 
-## :round_pushpin: Sources
+## :round_pushpin: Supplemental Sources
 1. [YouTube - Neetcode](https://www.youtube.com/watch?v=IlEsdxuD4lY)
 2. [YouTube - TECH DOSE](https://www.youtube.com/watch?v=rBAxUTqvlQA)
 3. [YouTube - Kevin Naughton Jr.](https://www.youtube.com/watch?v=6qMFjFC9YSc)

@@ -162,7 +162,7 @@ Here are some current applications that uses edit distance:
 - Plagiarism Detection.
 - Speech Recognition.
 
-## :round_pushpin: Sources
+## :round_pushpin: Supplemental Sources
 1. [YouTube - Neetcode](https://www.youtube.com/watch?v=XYi2-LPrwm4)
 2. [YouTube - Back to Back SWE](https://www.youtube.com/watch?v=MiqoA-yF-0M)
 3. [YouTube - TECH DOSE](https://www.youtube.com/watch?v=AuYujVj646Q)

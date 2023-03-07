@@ -115,7 +115,7 @@ Here are some current applications that uses the LCS algorithm:
 - Spell Checking.
 - Natural Language Processing.
 
-## :round_pushpin: Sources
+## :round_pushpin: Supplemental Sources
 1. [YouTube - Abdul Bari](https://www.youtube.com/watch?v=sSno9rV8Rhg&t=915s)
 2. [YouTube - Neetcode](https://www.youtube.com/watch?v=Ua0GhsJSlWM)
 3. [YouTube - Back to Back SWE](https://www.youtube.com/watch?v=ASoaQq66foQ&t=1s)

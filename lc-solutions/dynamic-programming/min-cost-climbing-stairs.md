@@ -150,6 +150,6 @@ Here are some applications in the real-world:
 - Transportation.
 - Energy Management.
 
-## :round_pushpin: Sources
+## :round_pushpin: Supplemental Sources
 1. [YouTube - Neetcode](https://www.youtube.com/watch?v=ktmzAZWkEZ0)
 2. [YouTube - Nick White](https://www.youtube.com/watch?v=OoGswqFU-zs)

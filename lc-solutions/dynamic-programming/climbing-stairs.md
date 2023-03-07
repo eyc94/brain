@@ -121,7 +121,7 @@ Space Complexity: `O(N)`
 ## :round_pushpin: Applications
 Climbing Stairs is not really an algorithm that is used for various applications. However, there are many problems that follow this same algorithm (like Fibonacci).
 
-## :round_pushpin: Sources
+## :round_pushpin: Supplemental Sources
 1. [YouTube - Neetcode](https://www.youtube.com/watch?v=Y0lT9Fck7qI)
 2. [YouTube - Back to Back SWE](https://www.youtube.com/watch?v=NFJ3m9a1oJQ)
 3. [YouTube - Kevin Naughton Jr.](https://www.youtube.com/watch?v=uHAToNgAPaM)
