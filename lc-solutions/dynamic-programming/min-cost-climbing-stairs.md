@@ -151,5 +151,5 @@ Here are some applications in the real-world:
 - Energy Management.
 
 ## :round_pushpin: Sources
-2. [YouTube - Neetcode](https://www.youtube.com/watch?v=ktmzAZWkEZ0)
-3. [YouTube - Nick White](https://www.youtube.com/watch?v=OoGswqFU-zs)
+1. [YouTube - Neetcode](https://www.youtube.com/watch?v=ktmzAZWkEZ0)
+2. [YouTube - Nick White](https://www.youtube.com/watch?v=OoGswqFU-zs)

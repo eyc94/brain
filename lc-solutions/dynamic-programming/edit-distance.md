@@ -163,7 +163,7 @@ Here are some current applications that uses edit distance:
 - Speech Recognition.
 
 ## :round_pushpin: Sources
-2. [YouTube - Neetcode](https://www.youtube.com/watch?v=XYi2-LPrwm4)
-3. [YouTube - Back to Back SWE](https://www.youtube.com/watch?v=MiqoA-yF-0M)
-4. [YouTube - TECH DOSE](https://www.youtube.com/watch?v=AuYujVj646Q)
-5. [YouTube - TECH DOSE](https://www.youtube.com/watch?v=5RlPzxWv9p4)
+1. [YouTube - Neetcode](https://www.youtube.com/watch?v=XYi2-LPrwm4)
+2. [YouTube - Back to Back SWE](https://www.youtube.com/watch?v=MiqoA-yF-0M)
+3. [YouTube - TECH DOSE](https://www.youtube.com/watch?v=AuYujVj646Q)
+4. [YouTube - TECH DOSE](https://www.youtube.com/watch?v=5RlPzxWv9p4)
