@@ -359,7 +359,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![7/38 = 18%](https://progress-bar.dev/18)
+### Dynamic Programming ![8/38 = 21%](https://progress-bar.dev/21)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -381,7 +381,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 139. [:orange_book: Word Break](https://leetcode.com/problems/word-break/description/)
 - [ ] 140. [:closed_book: Word Break II](https://leetcode.com/problems/word-break-ii/)
 - [ ] 152. [:orange_book: Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)
-- [ ] 198. [:orange_book: House Robber](https://leetcode.com/problems/house-robber/)
+- [x] 198. [:orange_book: House Robber](https://leetcode.com/problems/house-robber/)
   - [Explanation](lc-solutions/dynamic-programming/house-robber.md)
 - [ ] 213. [:orange_book: House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] 221. [:orange_book: Maximal Square](https://leetcode.com/problems/maximal-square/)
