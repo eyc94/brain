@@ -13,7 +13,7 @@ This problem resembles the classic `Fibonacci Sequence` problem where the number
 Basically, if we were to rob a house, we have to calculatet the maximum of the rest of the houses starting from two houses to the right. We then calculate the max for that subproblem. So, this means that we have subproblems and we should record the values somewhere.
 
 ## :round_pushpin: Problem
-Leetcode problem [reference](https://leetcode.com/problems/unique-paths-ii/)
+Leetcode problem [reference](https://leetcode.com/problems/house-robber/)
 
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and **it will automatically contact the police if two adjacent houses were broken into on the same night**.
 
