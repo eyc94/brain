@@ -359,7 +359,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![9/38 = 24%](https://progress-bar.dev/24)
+### Dynamic Programming ![9/38 = 26%](https://progress-bar.dev/26)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -391,7 +391,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 300. [:orange_book: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 - [ ] 309. [:orange_book: Best Time to Buy and Sell Stock with Cooldown (Medium)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [ ] 312. [:closed_book: Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
-- [ ] 322. [:orange_book: Coin Change](https://leetcode.com/problems/coin-change/description/)
+- [x] 322. [:orange_book: Coin Change](https://leetcode.com/problems/coin-change/description/)
   - [Explanation](lc-solutions/dynamic-programming/coin-change.md)
 - [ ] 329. [:closed_book: Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 - [ ] 377. [:orange_book: Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
