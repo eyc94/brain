@@ -392,6 +392,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 309. [:orange_book: Best Time to Buy and Sell Stock with Cooldown (Medium)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [ ] 312. [:closed_book: Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
 - [ ] 322. [:orange_book: Coin Change](https://leetcode.com/problems/coin-change/description/)
+  - [Explanation](lc-solutions/dynamic-programming/coin-change.md)
 - [ ] 329. [:closed_book: Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 - [ ] 377. [:orange_book: Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] 416. [:orange_book: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
