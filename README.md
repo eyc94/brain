@@ -210,7 +210,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 1920. [:green_book: Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
   - Try to solve this problem with `O(1)` space complexity.
 
-### String ![9/23 = 39%](https://progress-bar.dev/39)
+### String ![10/23 = 43%](https://progress-bar.dev/43)
 - [x] 3. [:orange_book: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [x] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 6. [:orange_book: Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
@@ -224,7 +224,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 93. [:closed_book: Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [x] 125. [:green_book: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 - [ ] 161. [:orange_book: One Edit Distance](https://leetcode.com/problems/one-edit-distance/) :lock:
-- [ ] 171. [:green_book: Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [x] 171. [:green_book: Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 - [ ] 186. [:orange_book: Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) :lock:
 - [x] 242. [:green_book: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 - [ ] 266. [:green_book: Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) :lock:
