@@ -405,7 +405,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
   - [Explanation](lc-solutions/dynamic-programming/min-cost-climbing-stairs.md)
 - [ ] 877. [:orange_book: Stone Game](https://leetcode.com/problems/stone-game/)
 - [x] 1137. [:green_book: N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
-  - [Explanation](lc-solutions/dynamic-programming/nth-tribonacci-number)
+  - [Explanation](lc-solutions/dynamic-programming/nth-tribonacci-number.md)
 - [x] 1143. [:orange_book: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
   - [Explanation](lc-solutions/dynamic-programming/longest-common-subsequence.md)
 - [ ] 1691. [:closed_book: Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
