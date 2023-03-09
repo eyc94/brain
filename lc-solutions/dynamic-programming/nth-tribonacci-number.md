@@ -135,3 +135,4 @@ Here are some applications in the real-world:
 
 1. [Geeksforgeeks](https://www.geeksforgeeks.org/tribonacci-numbers/)
 2. [Topcoder](https://www.topcoder.com/thrive/articles/n-th-tribonacci-number)
+3. [YouTube - Neetcode](https://www.youtube.com/watch?v=3lpNp5Ojvrw)
