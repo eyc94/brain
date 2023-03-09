@@ -398,6 +398,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 416. [:orange_book: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 - [ ] 494. [:orange_book: Target Sum](https://leetcode.com/problems/target-sum/description/)
 - [ ] 518. [:orange_book: Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+  - [Explanation](lc-solutions/dynamic-programming/coin-change-ii.md)
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [ ] 727. [:closed_book: Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) :lock:
 - [x] 746. [:green_book: Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
