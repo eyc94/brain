@@ -359,7 +359,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![9/38 = 26%](https://progress-bar.dev/26)
+### Dynamic Programming ![11/38 = 29%](https://progress-bar.dev/29)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -397,7 +397,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 377. [:orange_book: Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] 416. [:orange_book: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 - [ ] 494. [:orange_book: Target Sum](https://leetcode.com/problems/target-sum/description/)
-- [ ] 518. [:orange_book: Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+- [x] 518. [:orange_book: Coin Change II](https://leetcode.com/problems/coin-change-ii/)
   - [Explanation](lc-solutions/dynamic-programming/coin-change-ii.md)
 - [ ] 647. [:orange_book: Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 - [ ] 727. [:closed_book: Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) :lock:
