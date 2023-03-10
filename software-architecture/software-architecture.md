@@ -8,3 +8,37 @@ It can be thought of as the blueprint for a software system, laying out the over
 It is critical for building large, complex software systems that are *reliable*, *maintainable*, and *scalable*. It helps ensure the system is designed to meet the needs of its users and stakeholders, and that it can evolve and adapt over time as requirements change.
 
 Software architecture is a board and multifaceted field, encompassing many approaches and methodologies. Some common architectural styles include `layered architecture`, `client-server architecture`, `microservices architecture`, and `event-driven architecture`. There are more.
+
+## :round_pushpin: Design and Architecture
+What are the differences between design and architecture? They are pretty much the same thing:
+- `Architecture` is used in context of something at a high level that is separate from the lower-level details.
+- `Design` implies structures and decisions at a lower level.
+
+The low-level details and high-level decisions are all part of the same whole. They define the shape of the system.
+
+> "The goal of software architecture is to minimize the human resources required to build and maintain the required system." - Robert C. Martin
+
+Developing fast is not necessarily the best way to build something. Overconfidence in developers can build over time, and the cost to maintain and develop more features will outweigh the benefit of more engineers/code.
+
+This is why we need a design and architecture that minimize effort and maximize productivity.
+
+## :round_pushpin: Two Values
+Every software system provides two different values to the stakeholders: `behavior` and `structure`. Often one of the values is focused on over the other.
+
+### Behavior
+This value is to make systems behave in the way they're supposed to.
+
+### Architecture
+Behavior of machines must be easy to change. This is what `software` is supposed to help do.
+
+The difficulty in making a change should be proportional only to the scope of the change and not to the *shape* of the change.
+
+Architectures should be as **shape agnostic** as possible.
+
+## :round_pushpin: Key Points
+Here are some key points to understand in architecture:
+- Getting software to work is *easy*, but getting software **right** is **hard**.
+- Writing messy code fast is always slower than staying clean.
+
+## :round_pushpin: Supplemental Sources
+- 
