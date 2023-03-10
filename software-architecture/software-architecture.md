@@ -1,4 +1,4 @@
-# Software Architecture
+# :heavy_check_mark: Software Architecture
 
 ## :round_pushpin: Introduction
 `Software Architecture` refers to the fundametal organization of a software system and the key principles and decisions that guide its design and development. It encompasses the high-level structure of a software system and defines the components, relationships, and interactions between them.
@@ -62,10 +62,20 @@ Architecture pertains to 1 and 2. Behavior pertains to 1 and 3. Often business m
 
 It is the responsibility of the development team to assert the importance of architecture over the urgency of features.
 
+## :round_pushpin: Programming Paradigms
+Paradigms are ways of programming, relatively unrelated to languages. A paradigm tells you which programming structures to use, and when to use them.
+
+To date, there have been 3 paradigms. The paradigms are `structured programming`, `object-oriented programming`, and `functional programming`.
+
+See more detailed explanation:
+1. [Structured Programming](programming-paradigms/structured-programming.md)
+2. [Object-Oriented Programming](programming-paradigms/object-oriented-programming.md)
+3. [Functional Programming](programming-paradigms/functional-programming.md)
+
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
 - Getting software to work is *easy*, but getting software **right** is **hard**.
 - Writing messy code fast is always slower than staying clean.
 
 ## :round_pushpin: Supplemental Sources
-- 
+
