@@ -24,6 +24,54 @@ Key features:
 - Inheritance: Allows one class to inherit properties and methods from another, reducing code duplication and making it easier to create new classes based on existing ones.
 - Polymorphism: Allows different objects to be treated as if they were the same type, making it easier to write code that works with multiple types of objects.
 
+## :round_pushpin: Example
+```java
+public class Car {
+  private String make;
+  private String model;
+  private int year;
+
+  public Car(String make, String model, int year) {
+    this.make = make;
+    this.model = model;
+    this.year = year;
+  }
+
+  public String getMake() {
+    return make;
+  }
+
+  public String getModel() {
+    return model;
+  }
+
+  public int getYear() {
+    return year;
+  }
+
+  public void start() {
+    System.out.println("The " + make + " " + model + " is starting.");
+  }
+
+  public void stop() {
+    System.out.println("The " + make + " " + model + " is stopping.");
+  }
+}
+```
+
+Here, we have a class called `Car`. It has three instance variables: `make`, `model`, and `year`. This class also has a constructor that takes these variables as parameters and sets them to the instance variables. There are also methods in this class as well.
+
+We can make `Car` objects with this blueprint.
+
+```java
+Car myCar = new Car("Toyota", "Camry", 2018);
+System.out.println(myCar.getMake()); // Output: Toyota
+System.out.println(myCar.getModel()); // Output: Camry
+System.out.println(myCar.getYear()); // Output: 2018
+myCar.start(); // Output: The Toyota Camry is starting.
+myCar.stop(); // Output: The Toyota Camry is stopping.
+```
+
 ## :round_pushpin: Benefits and Downsides
 There are many **benefits** to using OOP:
 - Code reuse.
