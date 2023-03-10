@@ -52,5 +52,20 @@ While structured programming and modular programming have some similarities, the
 
 `Structured Programming` is a way of organizing control flow in a program, while `Modular Programming` is a way of organizing the structure of the program itself. However, the two concepts are often used together to create well-structured and modularized programs.
 
+## :round_pushpin: Benefits and Downsides
+There are many **benefits**:
+- Clarity.
+- Maintainability.
+- Modularity.
+- Reliability.
+- Efficiency.
+
+There are also **downsides**:
+- Overhead.
+- Limited expressiveness.
+- Difficulty with certain problems.
+- Steep learning curve.
+- Limited creativity.
+
 ## :round_pushpin: Supplemental Sources
 1. [Wikipedia](https://en.wikipedia.org/wiki/Structured_programming#:~:text=Structured%20programming%20is%20a%20programming,%2C%20block%20structures%2C%20and%20subroutines.)
