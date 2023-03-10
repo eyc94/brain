@@ -72,6 +72,14 @@ See more detailed explanation:
 2. [Object-Oriented Programming](programming-paradigms/object-oriented-programming.md)
 3. [Functional Programming](programming-paradigms/functional-programming.md)
 
+Each of these paradigms *removes* capabilities from the programmer. None of them adds new capabilities. Each imposes some kind of extra discipline that is *negative* in its intent. They tell us more what **not** to do than what we **can** do.
+
+The three paradigms remove `goto` statements, function pointers, and assignment.
+
+We use polymorphism to cross architectural boundaries. We use functional programming to impose discipline on the location of and access to data. We use structured programming as the algorithm foundation of our modules.
+
+These three align with the three big concerns of architecture: `function`, `separation of components`, and `data management`.
+
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
 - Getting software to work is *easy*, but getting software **right** is **hard**.
