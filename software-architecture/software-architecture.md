@@ -16,9 +16,7 @@ What are the differences between design and architecture? They are pretty much t
 
 The low-level details and high-level decisions are all part of the same whole. They define the shape of the system.
 
-> "The goal of software architecture is to minimize the human resources required to build and maintain the required system." - Robert C. Martin
-
-[![Eisenhower matrix quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20goal%20of%20software%20architecture%20is%20to%20minimize%20the%20human%20resources%20required%20to%20build%20and%20maintain%20the%20required%20system.&author=Robert%20C.%Martin)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Eisenhower matrix quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20goal%20of%20software%20architecture%20is%20to%20minimize%20the%20human%20resources%20required%20to%20build%20and%20maintain%20the%20required%20system.&author=Robert%20C.%20Martin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Developing fast is not necessarily the best way to build something. Overconfidence in developers can build over time, and the cost to maintain and develop more features will outweigh the benefit of more engineers/code.
 
