@@ -47,6 +47,21 @@ Matrix of importance versus urgency
 
 [![Eisenhower matrix quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=I%20have%20two%20kinds%20of%20problems%2C%20the%20urgent%20and%20the%20important.%20The%20urgent%20are%20not%20important%2C%20and%20the%20important%20are%20never%20urgent.&author=Dwight%20D.%20Eisenhower)](https://github.com/piyushsuthar/github-readme-quotes)
 
+![Picture of eisenhower matrix](images/eisenhower-matrix.png)
+
+- Behavior is **urgent** but not always important.
+- Architecture is **important** but never urgent.
+
+Therefore there are 4 priorities:
+1. Urgent and important.
+2. Not urgent and important.
+3. Urgent and not important.
+4. Not urgent and not important.
+
+Architecture pertains to 1 and 2. Behavior pertains to 1 and 3. Often business managers and devs elevate items in 3 to 1.
+
+It is the responsibility of the development team to assert the importance of architecture over the urgency of features.
+
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
 - Getting software to work is *easy*, but getting software **right** is **hard**.
