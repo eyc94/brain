@@ -51,6 +51,15 @@ The variables `private`, `public`, and `protected` were introduced to mitigate t
 It is difficult to accept that `OO` depends on strong encapsulation. Many `OO` languages have little or no enforced encapsulation. So, it is up to the user to *enforce* the standards of encapsulation.
 
 ### Inheritance
+Inheritance is the redeclaration of a group of variables and functions within an enclosing scope.
+
+`C` programmers were able to do this manually for quite some time.
+
+In modern languages, if a subclass inherits from a superclass, the subclass can *act* as a subset of a superclass. Usually, in modern languages, this is done via **implicit casting**.
+
+For example, if the `NamedPoint` class inherited from the `Point` class, a `NamedPoint` object is a `Point` object.
+
+`OO` did not necessarily give us the concept of inheritance. It was around long before the advent of `OO` languages.
 
 ### Polymorphism
 
