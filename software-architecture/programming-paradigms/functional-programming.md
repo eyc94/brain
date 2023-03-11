@@ -3,7 +3,7 @@
 ![Image of functional programming](../images/programming-paradigms/functional-programming.png)
 
 ## :round_pushpin: Introduction
-`Functional Programming` has only recently begun to get adopted, but it was the first to be invented. It is the direct result of the work of Alonzo Church. A functional statement has no assignment statement.
+`Functional Programming` has only recently begun to get adopted, but it was the first to be invented. A functional statement has no assignment statement. This is strongly based on the &lambda;-calculus invented by Alonzo Church.
 
 Most functional languages do have some means to alter the value of a variable, but only under very strict discipline.
 
@@ -73,6 +73,60 @@ sayHello(function() { ... }) {        // Returns functions.
   return function() { ... }
 }
 ```
+
+## :round_pushpin: Squares of Integers
+An example below is a simple function to print the squares of the first 25 integers:
+
+```java
+public class Squint {
+  public static void main(String[] args) {
+    for (int i = 0; i < 25; i++) {
+      System.out.println(i * i);
+    }
+  }
+}
+```
+
+This Java program uses a *mutable variable*, which is a variable that changes state during the execution of the program. This variable is `i`. These mutable variables do not exist in Clojure (a functional programming language).
+
+So, variables in functional languages **do not vary**.
+
+## :round_pushpin: Immutability and Architecture
+Why is mutable variables important to consider?
+
+Mutable variables cause race conditions, deadlock conditions, and concurrent update problems.
+
+You want to make sure that your system you design will be robust in the presence of multiple threads and processors. But is immutability practical? Yes, *if* you have infinite storage and processing speed. If not, then yes only if *certain* compromises are made.
+
+Here are some compromises below.
+
+### Segregation of Mutability
+We can segregate the application into mutable and immutable components.
+
+The immutable components perform their tasks in a purely functional way, without using any mutable variables. They communicate with one or more other components that are not purely functional and allows the state of variables to be mutated.
+
+![Image of immutable components interacting with mutable components](../images/programming-paradigms/immutable-interactions.png)
+
+We protect the mutable variables from concurrent updates and race conditions by using some kind of `transactional memory`.
+
+Transactional memory protects variables with a transaction or retry-based scheme. This is the same way a database treats records on disk.
+
+Well-structured applications will be segregated into those components that do not mutate variables and those that do.
+
+Architects should push processing into immutable components as much as possible, and drive code out that allows mutations.
+
+### Event Sourcing
+The more memory and processing speed we have, the less there is for the need of mutable variables.
+
+Imagine a banking app that maintains account balance of customers. These balances are mutated when deposits and withdrawals happen.
+
+Imagine if we only stored the transactions. Whenever someone wants to know the balance, we just add all transactions. This requires **no** mutable variables.
+
+This sounds unreasonable because the number of transactions will grow over time, and the processing power required will need to grow. To make this work, we need infinite storage and processing speed.
+
+Perhaps we have enough storage and processing power to make this work for the reasonable lifetime of the application. This is the idea behind `event sourcing`. This is where we store the *transactions* and not the *state*. When state is needed, we apply all transactions since the beginning of time.
+
+If we have infinite everything, we can make it *entirely functional*. This is the way our source code control system works.
 
 ## :round_pushpin: Features
 Key features:
