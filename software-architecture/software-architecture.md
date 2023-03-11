@@ -86,4 +86,4 @@ Here are some key points to understand in architecture:
 - Writing messy code fast is always slower than staying clean.
 
 ## :round_pushpin: Supplemental Sources
-
+1. [Clean Architecture: A Craftsman's Guide to Software Structure and Design [1st Edition] - Robert C. Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
