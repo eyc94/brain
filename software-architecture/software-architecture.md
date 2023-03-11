@@ -95,7 +95,7 @@ The term "mid-level" means that these principles are applied by programmers work
 Here are the `SOLID` principles:
 1. **[SRP: The Single Responsibility Principle](solid-principles/srp.md)**
     - Each software module has one, and only one, reason to change.
-2. **OCP: The Open-Closed Principle**
+2. **[OCP: The Open-Closed Principle](solid-principles/ocp.md)**
     - For software systems to be easy to change, they must be designed to allow the behavior of those systems to be changed by adding *new* code, rathen than changing *existing* code.
 3. **LSP: The Liskov Substitution Principle**
     - To build software systems from interchangeable parts, those parts must adhere to a contract that allows those parts to be substituted one for another.
