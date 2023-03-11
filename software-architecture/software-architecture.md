@@ -99,7 +99,7 @@ Here are the `SOLID` principles:
     - For software systems to be easy to change, they must be designed to allow the behavior of those systems to be changed by adding *new* code, rathen than changing *existing* code.
 3. **[LSP: The Liskov Substitution Principle](solid-principles/lsp.md)**
     - To build software systems from interchangeable parts, those parts must adhere to a contract that allows those parts to be substituted one for another.
-4. **ISP: The Interface Segregation Principle**
+4. **[ISP: The Interface Segregation Principle](solid-principles/isp.md)**
     - Do not depend on things you *do not* use.
 5. **DIP: The Dependency Inversion Principle**
     - Code that implements high-level policy should not depend on the code that implements low-level details. Rather, details should depend on policies.
