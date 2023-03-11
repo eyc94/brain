@@ -9,6 +9,8 @@ This is the first paradigm to be adopted but not to be invented. This was discov
 
 He replaced those jumps with `if/then/else` and `do/while/until` constructs.
 
+All programs can be constructed from just three structures: `sequence`, `selection`, and `iteration`.
+
 > Structured programming imposes discipline on direct transfer of control.
 
 It emphasizes the use of structured control flow constructs to improve the clarity, quality, and maintainability of computer programs.
@@ -18,6 +20,8 @@ It was created in response to shortcomings in earlier programming approaches tha
 The main idea is to break down a program into small, well-defined, and modularized pieces, called functions or procedures, that can be easily understood and tested. It advocates the use of control structures such as conditionals (`if/else` statements), loops (`for`, `do-while` statements), and subroutines to create clear and predictable program logic.
 
 Emphasizes the use of top-down design, which involves breaking down a complex problem into smaller sub-problems, and solving each sub-problem in turn.
+
+We are all structured programmers but not by choice. The languages we use do not give us the option to use undisciplined direct transfer of control (i.e. `goto` statements).
 
 ## :round_pushpin: Example
 Here is an example in Java:
@@ -51,6 +55,24 @@ However, `Modular Programming` refers to the practice of breaking a program down
 While structured programming and modular programming have some similarities, they are not interchangeable terms.
 
 `Structured Programming` is a way of organizing control flow in a program, while `Modular Programming` is a way of organizing the structure of the program itself. However, the two concepts are often used together to create well-structured and modularized programs.
+
+## :round_pushpin: Functional Decomposition
+`Structured Programming` allows modules to be recursively decomposed into provable units, which in turn means that modules can be functionally decomposed.
+
+You can take a large-scale problem statement and decompose it into high-level functions. Each of those functions can then be decomposed into lower-level functions, and so on.
+
+Each of these decomposed functions can be represented using the restricted control structures.
+
+Programmers could break down large proposed systems into modules and components that could be further broken down into tiny provable functions.
+
+At the architectural level, we consider `functional decomposition` to be one of our best practices.
+
+## :round_pushpin: Testing
+Software architects strive to define modules, components, and services that are easily falsifiable (testable).
+
+Structured Programming forces us to recursively decompose a program into a set of small provable functions. We can then use tests to try to prove those small provable functions incorrect. If such tests fail to prove incorrectness, then we can deem the functions to be correct enough for our purposes.
+
+It is this ability to create falsifiable units of programming that makes structured programming valuable today. This is the reason that modern languages do not typically support unrestrained `goto` statements.
 
 ## :round_pushpin: Benefits and Downsides
 There are many **benefits**:
