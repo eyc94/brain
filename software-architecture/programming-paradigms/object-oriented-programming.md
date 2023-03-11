@@ -12,6 +12,13 @@ This led to the discovery of `polymorphism` through the use of function pointers
 > Object-oriented programming imposes discipline on indirect transfer of control.
 
 ## :round_pushpin: Background
+There are *three* words that we can use to describe OO:
+1. `Encapsulation`
+2. `Inheritance`
+3. `Polymorphism`
+
+The idea is that OO is the mixture of these three things or that an OO language must support these three things.
+
 OOP is based on the concept of `objects` which can contain data and code. The data is in the form of `fields` (attributes and properties), and the code is in the form of `procedures` (methods).
 
 OOP emphasizes the use of objects and classes to structure code and data. OOP is a way of organizing code that allows for more efficient and modular programming, making it easier to maintain and reuse code.
@@ -23,6 +30,29 @@ Key features:
 - Encapsulation: The practice of bundling data and methods within a class and restricting access to them from outside the class.
 - Inheritance: Allows one class to inherit properties and methods from another, reducing code duplication and making it easier to create new classes based on existing ones.
 - Polymorphism: Allows different objects to be treated as if they were the same type, making it easier to write code that works with multiple types of objects.
+
+### Encapsulation
+`OO` languages provide each and effective encapsulation of data and function.
+
+A line can be drawn around a cohesive set of data and functions. Outside of that line, the data is *hidden* and only some of the functions are known.
+
+This concept is known as the *private data members* and the *public member functions* of a class.
+
+This idea is *not* unique to `OO`. We had encapsulation in `C`.
+
+The idea is that the users of a public member function will have no idea about *how* the function is implemented. They simply call the function and something happens.
+
+`C` is *not* an `OO` language and performs encapsulation perfectly. The client will never know about the private member variables because the header files and implementation files are *separate*.
+
+However, in `C++`, this is broken. Here, the header files required that the private member variables be declared in the header file. This allows the client to see the private variables.
+
+The variables `private`, `public`, and `protected` were introduced to mitigate this. But this was more of a *hack*.
+
+It is difficult to accept that `OO` depends on strong encapsulation. Many `OO` languages have little or no enforced encapsulation. So, it is up to the user to *enforce* the standards of encapsulation.
+
+### Inheritance
+
+### Polymorphism
 
 ## :round_pushpin: Example
 ```java
