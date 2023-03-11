@@ -80,6 +80,30 @@ We use polymorphism to cross architectural boundaries. We use functional program
 
 These three align with the three big concerns of architecture: `function`, `separation of components`, and `data management`.
 
+## :round_pushpin: Design Principles
+Good software systems begin with clean code. This is where the `SOLID` principles come in.
+
+These principles tell us how to arrange functions and data structures into classes, and how those classes are connected. A class means a grouping of functions and data. The principles apply to these groupings.
+
+The goal of these principles is to create mid-level software structures that:
+- Tolerate change.
+- Are easy to understand.
+- Are the basis of components that can be used in many software systems.
+
+The term "mid-level" means that these principles are applied by programmers working at the module level.
+
+Here are the `SOLID` principles:
+1. **[SRP: The Single Responsibility Principle](solid-principles/srp.md)**
+    - Each software module has one, and only one, reason to change.
+2. **OCP: The Open-Closed Principle**
+    - For software systems to be easy to change, they must be designed to allow the behavior of those systems to be changed by adding *new* code, rathen than changing *existing* code.
+3. **LSP: The Liskov Substitution Principle**
+    - To build software systems from interchangeable parts, those parts must adhere to a contract that allows those parts to be substituted one for another.
+4. **ISP: The Interface Segregation Principle**
+    - Do not depend on things you *do not* use.
+5. **DIP: The Dependency Inversion Principle**
+    - Code that implements high-level policy should not depend on the code that implements low-level details. Rather, details should depend on policies.
+
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
 - Getting software to work is *easy*, but getting software **right** is **hard**.
