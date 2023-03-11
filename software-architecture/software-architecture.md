@@ -97,7 +97,7 @@ Here are the `SOLID` principles:
     - Each software module has one, and only one, reason to change.
 2. **[OCP: The Open-Closed Principle](solid-principles/ocp.md)**
     - For software systems to be easy to change, they must be designed to allow the behavior of those systems to be changed by adding *new* code, rathen than changing *existing* code.
-3. **LSP: The Liskov Substitution Principle**
+3. **[LSP: The Liskov Substitution Principle](solid-principles/lsp.md)**
     - To build software systems from interchangeable parts, those parts must adhere to a contract that allows those parts to be substituted one for another.
 4. **ISP: The Interface Segregation Principle**
     - Do not depend on things you *do not* use.
