@@ -62,6 +62,60 @@ For example, if the `NamedPoint` class inherited from the `Point` class, a `Name
 `OO` did not necessarily give us the concept of inheritance. It was around long before the advent of `OO` languages.
 
 ### Polymorphism
+We had polymorphic behaviors before `OO` languages.
+
+`OO` languages made polymorphism safer and convenient. They eliminate the conventions when it comes to tracking pointers to functions. It imposes discipline on indirect transfer of control.
+
+Our programs should be *device independent*. We want our programs to do the same jobs but with *different* devices.
+
+The `plugin architecture` was invented to support the idea of device independence. `OO` allows this to be used anywhere, for anything.
+
+#### Dependency Inversion
+![image of dependency inversion](../images/programming-paradigms/dependency-inversion-poly.png)
+
+The image above is a typical calling tree where the main functions called high-level functions, which called mid-level functions, which called low-level functions.
+
+The source code dependencies followed the flow of control.
+
+So, the main depends on HL functions, the HL functions depend on ML functions, and ML functions depend LL functions.
+
+For `main` to call HL functions, it needs to mention the name of the module that contained the function.
+
+The flow of control was dictated by the behavior of the system, and the source code dependencies were dictated by that flow of control.
+
+When polymorphism is brought into play, something very different can happen.
+
+![image of what polymorphism does on dependency](../images/programming-paradigms/poly-dependency.png)
+
+Here, `HL1` calls `F()` function in `ML1`. It calls this function through an interface. This is called a `source code contrivance`. The interface *does not exist* during runtime. `HL1` calls `F()` within `ML1`.
+
+So, `HL1` depends on the interface. `ML1` inherits the interface and implements `F()` from the interface. `HL1` *calls* the function `F()` in `ML1`.
+
+The green arrows mean "calling" whereas the red arrows mean "depends on". The red skinny arrowhead indicates dependency. The red open-closed arrowhead indicates inheritance.
+
+Notice that the dependency (inheritance relationship) between `ML1` and interface `I` points in the *opposite* direction compared to the flow of control (calling direction). This is called `dependency inversion`.
+
+The `OO` languages can provide safe and convenient polymorphism. So, *any source code dependency, no matter where it is, can be inverted*. Any of the dependencies in the first image above can be inverted by inserting an interface between them.
+
+Because of this, architects working in systems written in `OO` languages have *absolute control* over the direction of all source code dependencies in the system. No longer do they have to align the dependencies with the flow of control. No matter which module is called or does the calling, the architect can point the dependency in either direction.
+
+***This is the power that `OO` provides!***
+
+You can rearrange the source code dependencies of your system so that the database and the UI depend on the business rules, rather than the other way around.
+
+![Image of example of inversion](../images/programming-paradigms/dependency-inversion-example.png)
+
+The image above means that the UI and database can be plugins to the business rules. This means that source code of the business rules *never* mentions the UI or the database.
+
+So, the business rules, UI, and the database can be compiled into three separate components or deployment units (e.g. jar files, DLLs, or Gem files) that have the same dependencies as the source code.
+
+The component containing the business rules will not depend on the components containing the UI and database. So, the business rules can be *deployed independently* of the UI and the database. Changes to the Ui and database do not have any effect on the business rules. They can be deployed separately and independently.
+
+When the source code in a component changes, only that component needs to be redeployed. This is `independent deployability`.
+
+This means the modules can be developed independently by different teams. This is `independent developability`.
+
+Overall, `OO` is the ability, through the use of polymorphism, to gain absolute control over every source code dependency in the system. It allows the architect to create a `plugin architecture`.
 
 ## :round_pushpin: Example
 ```java
