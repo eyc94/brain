@@ -104,6 +104,17 @@ Here are the `SOLID` principles:
 5. **[DIP: The Dependency Inversion Principle](solid-principles/dip.md)**
     - Code that implements high-level policy should not depend on the code that implements low-level details. Rather, details should depend on policies.
 
+## :round_pushpin: Component Principles
+The `SOLID` principles tell us *how* to arrange bricks into walls and rooms. The `component principles` tell us how to arrange the rooms into buildings. Software systems are built out of smaller components.
+
+To understand more about components, it's crucial to understand three things:
+1. What software components are.
+    - [Component Background](component-principles/component-background.md)
+2. Which elements compose the software components.
+    - [Component Cohesion](component-principles/component-cohesion.md)
+3. How these components should be composed together into systems.
+    - [Component Coupling](component-principles/component-coupling.md)
+
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
 - Getting software to work is *easy*, but getting software **right** is **hard**.
