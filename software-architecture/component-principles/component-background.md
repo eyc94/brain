@@ -1,4 +1,4 @@
-# :heavy_check_mark: Components Background
+# :heavy_check_mark: Component Background
 
 ## :round_pushpin: Introduction
 Components are units of deployment. They are the smallest entities that can be deployed as part of a system.
