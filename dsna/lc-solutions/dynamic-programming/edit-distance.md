@@ -1,4 +1,4 @@
-# :heavy_check_mark: 72. Edit Distance (Levenshtein Distance) (ED/LD)
+# :heavy_check_mark: :closed_book: 72. Edit Distance (Levenshtein Distance) (ED/LD)
 *Last Updated: 3/3/2023*
 
 ![Image of edit distance problem](../../images/lc-solutions/dynamic-programming/edit-distance.png)
