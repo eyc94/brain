@@ -358,7 +358,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [x] 973. [:orange_book: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 - [x] 1046. [:green_book: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
 
-### Dynamic Programming ![13/39 = 33%](https://progress-bar.dev/33)
+### Dynamic Programming ![14/39 = 36%](https://progress-bar.dev/36)
 - [ ] 5. [:orange_book: Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - [ ] 10. [:closed_book: Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] 22. [:orange_book: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
@@ -397,7 +397,7 @@ Adopted from the popular [Blind](https://www.teamblind.com/post/New-Year-Gift---
 - [ ] 377. [:orange_book: Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [ ] 416. [:orange_book: Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 - [ ] 494. [:orange_book: Target Sum](https://leetcode.com/problems/target-sum/description/)
-- [ ] 509. [:green_book: Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+- [x] 509. [:green_book: Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
   - [Explanation](lc-solutions/fibonacci-number.md)
 - [x] 518. [:orange_book: Coin Change II](https://leetcode.com/problems/coin-change-ii/)
   - [Explanation](lc-solutions/dynamic-programming/coin-change-ii.md)
