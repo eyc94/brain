@@ -101,7 +101,7 @@ Here are the `SOLID` principles:
     - To build software systems from interchangeable parts, those parts must adhere to a contract that allows those parts to be substituted one for another.
 4. **[ISP: The Interface Segregation Principle](solid-principles/isp.md)**
     - Do not depend on things you *do not* use.
-5. **DIP: The Dependency Inversion Principle**
+5. **[DIP: The Dependency Inversion Principle](solid-principles/dip.md)**
     - Code that implements high-level policy should not depend on the code that implements low-level details. Rather, details should depend on policies.
 
 ## :round_pushpin: Key Points
