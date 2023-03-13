@@ -129,6 +129,7 @@ These patterns provide a set of guidelines and best practices for designing soft
 - [What is Architecture?](architecture-section/what-is-architecture.md)
 - [Independence](architecture-section/independence.md)
 - [Boundaries: Drawing Lines](architecture-section/drawing-lines.md)
+- [Boundary Anatomy](architecture-section/boundary-anatomy.md)
 
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
