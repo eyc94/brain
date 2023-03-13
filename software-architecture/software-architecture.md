@@ -127,6 +127,7 @@ It is often described using various architectural patterns, such as layered arch
 These patterns provide a set of guidelines and best practices for designing software systems that are robust, scalable, and maintainable, and are widely used by software architects and developers in building complex software systems.
 
 - [What is Architecture?](architecture-section/what-is-architecture.md)
+- [Independence](architecture-section/independence.md)
 
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
