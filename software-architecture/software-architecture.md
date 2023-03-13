@@ -115,6 +115,19 @@ To understand more about components, it's crucial to understand three things:
 3. How these components should be composed together into systems.
     - [Component Coupling](component-principles/component-coupling.md)
 
+## :round_pushpin: Architecture
+The term "architecture" refers to the high-level design and organization of a software system.
+
+It encompasses the key decisions and principles that guide the system's design and development, including the selection of components, the definition of interfaces, and the identification of key patterns and structures that help ensure the system is reliable, maintainable, and scalable.
+
+It is concerned with defining the structure of a software system, rather than the details of its implementation. It provides a blueprint for the system, helping to ensure that it is designed to meet the needs of its users and stakeholders, and that it can evolve and adapt over time as requirements change.
+
+It is often described using various architectural patterns, such as layered architecture, microservices architecture, event-driven architecture, and many others.
+
+These patterns provide a set of guidelines and best practices for designing software systems that are robust, scalable, and maintainable, and are widely used by software architects and developers in building complex software systems.
+
+- [What is Architecture?](architecture-section/what-is-architecture.md)
+
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
 - Getting software to work is *easy*, but getting software **right** is **hard**.
