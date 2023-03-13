@@ -152,3 +152,93 @@ It may seem weird that we created a component `UServer` with *no executable code
 In dynamically-typed languages, these abstract components don't exist at all. Dependency structures in these languages are much simpler because dependency inversion *does not* require either the declaration or the inheritance of interfaces.
 
 ## :round_pushpin: The Stable Abstractions Principle
+
+>*A component should be as abstract as it is stable*.
+
+### Where Do We Put The High-Level Policy?
+The software that encapsulates the high-level policies of the system should be placed into stable components (`I = 0`). Unstable components (`I = 1`) should contain software that is volatile (software we want to be able to quickly change).
+
+However, if we place the high-level policies inside stable components, this makes the policies difficult to change. This leads to an inflexible architecture. How can a component that is maximally stable be flexible enough to withstand change?
+
+The answer is in OCP, where it is desired to create classes that are extendable. What kind of classes conform to this? `Abstract classses`.
+
+### Introducing The Stable Abstractions Principle
+The `Stable Abstractions Principle (SAP)` sets up the relationship between stability and abstractness.
+
+It says a stable component should also be abstract so that its stability does not prevent it from being extended. It also says that an unstable component should be concrete since its instability allows the concrete code to be easily changed.
+
+So, if a component is stable, it should consist of interfaces and abstract classes so that it can be extended. Stable components that are extensible are flexible and do not overly constrain the architecture.
+
+The `SAP` and `SDP` combined amount to the `DIP` for components.
+
+The `SDP` says dependencies run in direction of stability. The `SAP` says stability implies abstraction. So, **dependencies run in the direction of abstraction**.
+
+The `DIP` deals with classes and there is no gray area for classes. It is either abstract or it is not. The combination of `SDP` and `SAP` deals with components. It allows a component to be partially abstract and partially stable.
+
+### Measuring Abstractions
+The `A` metric is a measure of abstractness of a component. Its value is the ratio of interfaces and abstract classes in a component to the total number of classes in the component.
+- `Nc`: The number of classes in the component.
+- `Na`: The number of abstract classes and interfaces in the component.
+- `A`: Abstractness. `A = Na / Nc`.
+
+The `A` metric ranges from `0` to `1`. `0` implies that the component has *no* abstract classes at all. `1` implies that the component contains nothing but abstract classes.
+
+### The Main Sequence
+We can now define the relationship between stability (*I*) and abstractness (*A*). See the image below.
+
+![Image of the I/A graph](../images/component-principles/abstract-stability-graph.png)
+
+There are two "good" kinds of components on this graph.
+- The upper-left shows a maximally stable and abstract component `(0,1)`.
+- The bottom-right shows a maximally unstable and concrete component `(1,0)`.
+
+Not all components fall in these two categories. This is because components have varying degrees of abstraction and stability. It is common for one abstract class to derive from another abstract class. This creates a dependency. Though it is maximally abstract, it is not maximally stable anymore.
+
+We cannot enforce components to be in the two categories. We assume there is a locus of points on the `A/I` graph that shows reasonable areas where components can be. We can infer this by finding the areas where we *know* the components **should not be**. We also know that the components must fall in the square depicted below, not outside of it.
+
+![Image of the zones of exclusion in the graph](../images/component-principles/zones-of-exclusion.png)
+
+### The Zone of Pain
+Consider a component in the area of `(0,0)`.
+
+This is a highly stable and concrete component. This component is not desirable because it is rigid. It cannot be extended because it is *not* abstract. It is difficult to change because it is stable. We do not normally see well-designed components here. This is called the `Zone of Pain`.
+
+However, some software entities *do* fall in this category. An example is a database schema. They are notoriously volatile, extremely concrete, and highly depended on. The interface between `OO` applications and databases is difficult to manage. So, schema updates are painful.
+
+Another example is a utility library. A library like this has an `I` of 1, but it may be nonvolatile. Consider the `String` class of Java. The classes within it are concrete, but it is so commonly used that any changes would wreak havoc. Therefore, `String` is nonvolatile.
+
+It is only volatile components that are problematic in this zone. The more volatile, the more "painful".
+
+### The Zone of Uselessness
+Consider a component near `(1,1)`.
+
+This component is maximally abstract, yet it has *no dependents*. Such components are **useless**. This area is called the `Zone of Uselessness`.
+
+These represent leftover abstract classes that no one implemented.
+
+### Avoiding The Zone of Exclusion
+It is clear that the most volatile components should be far from the `Zones of Exclusion`. The locus of points fall in the line that connects `(0,1)` to `(1,0)`. This line is called the `Main Sequence`.
+
+A component on this line is neither "too abstract" for its stability, nor is it "too unstable" for its abstractness. It is neither useless nor painful.
+
+Good architects strive to put the majority of components at the ends of this line.
+
+However, some small fraction of components in a large system are neither perfectly abstract nor perfectly stable. It's good to just be on, *or close*, to the `Main Sequence`.
+
+### Distance From The Main Sequence
+This leads to the last metric. If it is wanted to be on, or close, to the Main Sequence, we need a way to measure *how far* a compenent is from the ideal.
+- <code>D<sup>3</sup></code>: Distance. `D = |A + I - 1|`. The range of this metric is `0` to `1`. `0` indicates the component is directly on the Main Sequence. `1` indicates that the component is as far away as possible from the line.
+
+Given this metric, a design can be analyzed for its conformance to the Main Sequence. The `D` metric can be calculated for each component. Any component that has a `D` metric not near zero will need to be re-evaluated and re-structured.
+
+We can perform statistical analysis as well. We can find the mean and variance of all `D` metrics for components of a design. We expect a conforming design to have mean and variance close to zero. The variance establishes *control limits* to identify components that are *exceptional* in comparison to others.
+
+![Image of a scatterplot of D metrics](../images/component-principles/scatterplot.png)
+
+We see in the scatterplot above that most components lie along the Main Sequence. However, some are more than one standard deviation (`Z = 1`) away from the mean. These components are worth examining more closely.
+
+We can also plot the `D` metric of each component over time. See the image below for an example.
+
+![Image of D metric over time for a component](../images/component-principles/d-metric-over-time.png)
+
+We can see that over time dependencies have been creeping into `Payroll`. There is a control threshold at `D = 0.1`. The `R2.1` exceeded this limit, so it is worth looking at why.
