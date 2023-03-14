@@ -137,6 +137,7 @@ These patterns provide a set of guidelines and best practices for designing soft
 - [Presenters and Humble Objects](architecture-section/presenters-and-humble-objects.md)
 - [Partial Boundaries](architecture-section/partial-boundaries.md)
 - [Layers and Boundaries](architecture-section/layers-and-boundaries.md)
+- [The Main Component](architecture-section/main-component.md)
 
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
