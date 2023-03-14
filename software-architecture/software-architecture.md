@@ -133,6 +133,7 @@ These patterns provide a set of guidelines and best practices for designing soft
 - [Policy and Level](architecture-section/policy-and-level.md)
 - [Business Rules](architecture-section/business-rules.md)
 - [Screaming Architecture](architecture-section/screaming-architecture.md)
+- [The Clean Architecture](architecture-section/clean-architecture.md)
 
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
