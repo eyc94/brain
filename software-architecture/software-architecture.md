@@ -139,6 +139,7 @@ These patterns provide a set of guidelines and best practices for designing soft
 - [Layers and Boundaries](architecture-section/layers-and-boundaries.md)
 - [The Main Component](architecture-section/main-component.md)
 - [Services: Great and Small](architecture-section/services.md)
+- [The Test Boundary](architecture-section/test-boundary.md)
 
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
