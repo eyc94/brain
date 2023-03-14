@@ -134,6 +134,7 @@ These patterns provide a set of guidelines and best practices for designing soft
 - [Business Rules](architecture-section/business-rules.md)
 - [Screaming Architecture](architecture-section/screaming-architecture.md)
 - [The Clean Architecture](architecture-section/clean-architecture.md)
+- [Presenters and Humble Objects](architecture-section/presenters-and-humble-objects.md)
 
 ## :round_pushpin: Key Points
 Here are some key points to understand in architecture:
